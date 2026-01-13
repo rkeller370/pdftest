@@ -348,6 +348,6 @@ async function runQueue(items, limit, worker) {
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 // Initialization
-const pdfFiles = fs.readdirSync(INPUT_DIR).filter(f => f.endsWith(".pdf"));
+const pdfFiles = fs.readdirSync(INPUT_DIR).filter(f => f);
 console.log(`Processing ${pdfFiles.length} PDF files with ${CONCURRENCY} workers...\n`);
 runQueue(pdfFiles, CONCURRENCY, processSinglePDF);
