@@ -5,6 +5,8 @@ const axios = require("axios");
 const { PDFParse } = require("pdf-parse");
 require("dotenv").config();
 
+let ocrOverride = false
+
 /* =========================
    CONFIG
 ========================= */
@@ -251,7 +253,7 @@ async function processSinglePDF(file) {
     let usable = pages.some(p => p.text.length >= MIN_CHARS_PER_PAGE);
     let method = "pdf-parse";
 
-    if (!usable) {
+    if (!usable || ocrOverride) {
       pages = await extractAzure(pdfPath);
       method = "azure";
     }
