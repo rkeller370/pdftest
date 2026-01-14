@@ -1,7 +1,7 @@
 # MANIFEST
 SOURCE: English-PS-Flyer.pdf
 ENGINE: pdf-parse
-DATE: 2026-01-14T03:08:52.465Z
+DATE: 2026-01-14T03:28:07.862Z
 PAGES_EXTRACTED: 1
 
 ########################################

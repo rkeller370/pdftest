@@ -1,7 +1,7 @@
 # MANIFEST
 SOURCE: 2025-MW-Parent-Guide16pg-Proof-7.pdf
 ENGINE: pdf-parse
-DATE: 2026-01-14T03:08:52.538Z
+DATE: 2026-01-14T03:28:07.935Z
 PAGES_EXTRACTED: 16
 
 ########################################

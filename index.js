@@ -163,6 +163,56 @@ async function extractPdfParse(pdfPath) {
   return result.text.split("\f").map((text, i) => ({ page: i + 1, text }));
 }
 
+async function extractAzureModern(pdfPath) {
+  const file = fs.readFileSync(pdfPath);
+  
+  // Modern endpoint
+  const endpoint = `${process.env.AZURE_ENDPOINT}/documentintelligence/documentModels/prebuilt-read:analyze`;
+  const params = `api-version=2024-11-30-preview&features=ocr.highResolution`;
+  
+  const response = await axios.post(
+    `${endpoint}?${params}`,
+    file,
+    {
+      headers: {
+        "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY,
+        "Content-Type": "application/pdf"
+      }
+    }
+  );
+
+  // Polling remains similar
+  const pollUrl = response.headers["operation-location"];
+  
+  // New response parsing
+  const result = await pollUntilComplete(pollUrl);
+  
+  return result.pages.map(page => ({
+    page: page.pageNumber,
+    text: page.paragraphs
+      ? page.paragraphs.map(p => p.content).join("\n\n")
+      : page.lines.map(l => l.content).join("\n")
+  }));
+}
+
+
+
+// Update your extractAzure function:
+async function extractAzure(pdfPath) {
+  try {
+    // Try modern endpoint first
+    return await extractAzureModern(pdfPath);
+  } catch (error) {
+    if (error.response?.status === 404) {
+      // Fallback to legacy endpoint if new one not available
+      console.log("Falling back to legacy endpoint");
+      throw error;
+     // return await extractAzureLegacy(pdfPath); // Your current code
+    }
+    throw error;
+  }
+}
+
 async function extractAzure(pdfPath) {
   const file = fs.readFileSync(pdfPath);
   const response = await axios.post(

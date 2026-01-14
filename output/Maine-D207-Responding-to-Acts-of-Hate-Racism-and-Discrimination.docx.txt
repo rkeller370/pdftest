@@ -1,7 +1,7 @@
 # MANIFEST
 SOURCE: Maine-D207-Responding-to-Acts-of-Hate-Racism-and-Discrimination.docx.pdf
 ENGINE: pdf-parse
-DATE: 2026-01-14T03:08:52.467Z
+DATE: 2026-01-14T03:28:07.865Z
 PAGES_EXTRACTED: 5
 
 ########################################
