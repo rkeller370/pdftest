@@ -1,7 +1,7 @@
 # MANIFEST
 SOURCE: 2025-MW-Parent-Guide16pg-Proof-7.pdf
 ENGINE: pdf-parse
-DATE: 2026-01-14T01:49:52.460Z
+DATE: 2026-01-14T03:08:52.538Z
 PAGES_EXTRACTED: 16
 
 ########################################
@@ -65,15 +65,15 @@ District 207 has set a clear expectation that all students maintain at least 95%
 
 Strong attendance builds academic achievement, purpose and long-term success.
 
-Why Daily Attendance Matters: Being present in class each day is more than just showing up. It is about building a sense of belonging, forming meaningful connections with teachers and peers, and developing the consis- tent habits that are key indicators of success in school and beyond. Regular attendance ensures that students don’t miss out on the discussions, collaboration and hands-on learning experiences that can’t be replicated outside the classroom.
+Why Daily Attendance Matters Being present in class each day is more than just showing up. It is about building a sense of belonging, forming meaningful connections with teachers and peers, and developing the consis- tent habits that are key indicators of success in school and beyond. Regular attendance ensures that students don’t miss out on the discussions, collaboration and hands-on learning experiences that can’t be replicated outside the classroom.
 
 It creates stability and routine, helping students manage responsibilities, balance priorities and prepare for the expectations of college, careers and adulthood.
 
-Daily Expectations for Athletic + Extracurricular Participation: The district strongly supports clear attendance expectations because they ensure that students are prioritizing their learning while also enjoying the many opportunities our schools provide. In order to practice, perform, or compete in athletics, extracurricular activities, and fine arts programs, students are expected to be present in the building for at least half of the school day. This balance reflects our belief that academic engagement comes first, and that participation in activities should grow out of a strong commitment to the classroom.
+Daily Expectations for Athletic + Extracurricular Participation The district strongly supports clear attendance expectations because they ensure that students are prioritizing their learning while also enjoying the many opportunities our schools provide. In order to practice, perform, or compete in athletics, extracurricular activities, and fine arts programs, students are expected to be present in the building for at least half of the school day. This balance reflects our belief that academic engagement comes first, and that participation in activities should grow out of a strong commitment to the classroom.
 
-Attendance and Social Privileges: Our schools offer rich experiences and meaningful privileges that add to the high school journey, and access to these opportunities is connected to daily attendance. Attendance, engagement and learning are all interconnected, which is why students who wish to participate in events such as homecoming, prom, senior celebrations, parking privileges, and even attending athletic events as a spectator are expected to be present and on time each day. Linking attendance to these privileges reflects the district’s belief that showing up consistently is an essential part of a student’s responsibility to their school community.
+Attendance and Social Privileges Our schools offer rich experiences and meaningful privileges that add to the high school journey, and access to these opportunities is connected to daily attendance. Attendance, engagement and learning are all interconnected, which is why students who wish to participate in events such as homecoming, prom, senior celebrations, parking privileges, and even attending athletic events as a spectator are expected to be present and on time each day. Linking attendance to these privileges reflects the district’s belief that showing up consistently is an essential part of a student’s responsibility to their school community.
 
-Accountability and Consequences: If an absence occurs, parents and guardians are expected to contact the school the same day so timely support can be provided. Students are also expected to communicate with teachers about missed learning and deadlines for submitting assignments.
+Accountability and Consequences If an absence occurs, parents and guardians are expected to contact the school the same day so timely support can be provided. Students are also expected to communicate with teachers about missed learning and deadlines for submitting assignments.
 
 For unexcused absences, students are required to make up the missed time through serving deten- tions, completing assigned work or participating in other accountability measures to ensure they recoup lost learning opportunities. Tardiness and unexcused absences carry clear consequences, underscoring our shared commitment to valuing instructional time.
 

@@ -1,7 +1,7 @@
 # MANIFEST
 SOURCE: MaineSouth-Profile-2025-26-Proof2.pdf
 ENGINE: pdf-parse
-DATE: 2026-01-14T01:49:52.264Z
+DATE: 2026-01-14T03:08:52.297Z
 PAGES_EXTRACTED: 2
 
 ########################################

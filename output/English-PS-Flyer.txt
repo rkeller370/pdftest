@@ -1,0 +1,24 @@
+# MANIFEST
+SOURCE: English-PS-Flyer.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-14T03:08:52.465Z
+PAGES_EXTRACTED: 1
+
+########################################
+
+[PAGE 1]
+District 207 is now using ParentSquare as its school-to-home communication system. This platform is designed to keep parents and guardians informed and encourage greater engagement and connection with your child’s school.
+
+Activating Your Account
+
+Updating Language Settings Most parents/guardians have activated their account already. However, if you have not activated your account, an email was sent today (August 28) with instructions on activating your account.
+
+English is the default language for all messages and information ParentSquare. You can change your language preferences at any time after logging in:
+
+On a computer, click your name at the top right corner > My Account > Language Settings. On the mobile app, click the three lines icon at the top left > Account > Preferences > Language.
+
+Questions? Visit https://maine207.org/parentsquare/ Scan above to download the app!
+
+Updating Notification Settings You are able to choose how you would like to receive post notifications from ParentSquare. One logged in:
+
+Click your name in the top right corner > My Account > Notification Settings. On the mobile app, click the three lines icon at the top left > Account > Notifications.
