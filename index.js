@@ -3,6 +3,8 @@ const path = require("path");
 const os = require("os");
 const axios = require("axios");
 const { PDFParse } = require("pdf-parse");
+const Tokenizer = require("sentence-tokenizer");
+const he = require("he");
 require("dotenv").config();
 
 let ocrOverride = false;
@@ -16,188 +18,111 @@ if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR);
 
 class TextStructureAnalyzer {
   constructor(rawText) {
-    this.lines = rawText.split(/\r?\n/).map(l => l.trim()).filter(l => l);
+    this.tokenizer = new Tokenizer();
+    this.rawText = he.decode(rawText);
+    this.lines = this.rawText.split(/\r?\n/).map(l => l.trim()).filter(l => l);
     this.stats = this.analyzeDocument();
   }
 
   analyzeDocument() {
     const lengths = this.lines.map(l => l.length);
-    const avgLength = lengths.reduce((a, b) => a + b, 0) / lengths.length;
-    const medianLength = this.median(lengths);
-    const sentenceEndings = this.lines.filter(l => /[.!?]$/.test(l)).length;
-    const colonEndings = this.lines.filter(l => /:$/.test(l)).length;
-    
-    return {
-      avgLength,
-      medianLength,
-      sentenceEndingRatio: sentenceEndings / this.lines.length,
-      colonEndingRatio: colonEndings / this.lines.length,
-      totalLines: this.lines.length
-    };
-  }
-
-  median(arr) {
-    const sorted = [...arr].sort((a, b) => a - b);
+    if (lengths.length === 0) return { medianLength: 0 };
+    const sorted = [...lengths].sort((a, b) => a - b);
     const mid = Math.floor(sorted.length / 2);
-    return sorted.length % 2 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
+    const median = sorted.length % 2 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
+    return { medianLength: median };
   }
 
   isHeaderLine(line, index) {
-    const factors = [];
-    const lengthThreshold = Math.min(this.stats.medianLength * 0.6, 80);
-    if (line.length < lengthThreshold) factors.push(1);
-    
+    if (line.length < 3 || line.length > 120) return false;
+    let score = 0;
     const words = line.split(/\s+/);
-    const isAllCaps = line === line.toUpperCase() && 
-                      /[A-Z]/.test(line) && 
-                      words.length > 1 &&
-                      words.length < 12;
-    if (isAllCaps) factors.push(2);
-    
-    const capitalizedWords = words.filter(w => /^[A-Z]/.test(w) && w.length > 2);
-    const isTitleCase = capitalizedWords.length >= words.length * 0.7 && 
-                        words.length >= 2 && 
-                        words.length < 15;
-    if (isTitleCase && !this.endsWithPunctuation(line)) factors.push(1.5);
-    
-    if (!this.endsWithPunctuation(line) && line.length < 100) factors.push(1);
-    if (/:$/.test(line)) factors.push(2);
-    if (/^(\d+\.|\d+\)|\-|\*|•)\s+[A-Z]/.test(line) && line.length < 100) factors.push(1.5);
-    
+    const isAllCaps = line === line.toUpperCase() && /[A-Z]/.test(line);
+
+    if (isAllCaps && words.length <= 8) score += 4;
+    if (/^[A-Z0-9][A-Z0-9\s\-\.]+$/.test(line) && line.length < 60) score += 2;
+    if (/^(\d+\.|\d+\.\d+|[IVXLCDM]+\.)\s+[A-Z]/.test(line)) score += 3;
+    if (line.endsWith(':') && line.length < 50) score += 2;
+    if (/^#+\s/.test(line)) score += 5;
+
     const prevLine = index > 0 ? this.lines[index - 1] : "";
     const nextLine = index < this.lines.length - 1 ? this.lines[index + 1] : "";
-    if (prevLine.length > line.length * 1.5 || nextLine.length > line.length * 1.5) {
-      factors.push(0.5);
+    if (line.length < this.stats.medianLength * 0.7) {
+        if (!/[.!?]$/.test(line)) score += 2;
     }
-    
-    const headerPatterns = [
-      /^(chapter|section|part|appendix|introduction|conclusion|abstract|summary|overview|background)/i,
-      /^(table of contents|references|bibliography|acknowledgments)/i,
-      /^\d+\.\s+[A-Z]/,
-      /^[IVXLCDM]+\.\s+[A-Z]/
-    ];
-    if (headerPatterns.some(p => p.test(line))) factors.push(2);
-    
-    const score = factors.reduce((a, b) => a + b, 0);
-    return score >= 2.5;
+
+    return score >= 4;
   }
 
   isListItem(line) {
-    return /^(\d+\.|\d+\)|\-|\*|•|○|§|[a-z]\.|[A-Z]\.)\s+/.test(line);
+    return /^(\d+[\.\)]|[\-\*•○§]|([a-z]|[A-Z])[\.\)])\s+/u.test(line) || 
+           /^[●○■□▶▷►▸▹◀◁◂◃▪▫\u2022]/.test(line);
   }
 
-  isContinuation(line) {
-    return !this.isListItem(line) && 
-           /^[a-z]/.test(line) && 
-           !this.isHeaderLine(line, -1);
-  }
-
-  endsWithPunctuation(line) {
-    return /[.!?;]$/.test(line);
-  }
-
-  startsWithCapital(line) {
-    return /^[A-Z"'([]/.test(line);
+  shouldJoin(prevLine, currLine) {
+    if (!prevLine) return false;
+    if (this.isListItem(currLine) || this.isListItem(prevLine)) return false;
+    const endsWithPunct = /[.!?;:]$/.test(prevLine);
+    const startsWithLower = /^[a-z]/.test(currLine);
+    if (startsWithLower) return true;
+    if (!endsWithPunct && prevLine.length > this.stats.medianLength * 0.5) return true;
+    return false;
   }
 }
 
-function cleanNaturalText(rawText) {
+function processContent(rawText) {
   if (!rawText) return "";
-
   const analyzer = new TextStructureAnalyzer(rawText);
   const lines = analyzer.lines;
   const blocks = [];
-  let currentBlock = { type: 'paragraph', lines: [] };
-  
+  let currentParagraph = [];
+
+  const flush = () => {
+    if (currentParagraph.length > 0) {
+      const text = currentParagraph.join(" ");
+      analyzer.tokenizer.setEntry(text);
+      blocks.push(analyzer.tokenizer.getSentences().join(" "));
+      currentParagraph = [];
+    }
+  };
+
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
-    
     if (analyzer.isHeaderLine(line, i)) {
-      if (currentBlock.lines.length > 0) {
-        blocks.push(currentBlock);
-      }
-      blocks.push({
-        type: 'header',
-        lines: [line],
-        level: line.length < 30 ? 1 : line.length < 60 ? 2 : 3
-      });
-      currentBlock = { type: 'paragraph', lines: [] };
-      continue;
-    }
-    
-    if (analyzer.isListItem(line)) {
-      if (currentBlock.type === 'paragraph' && currentBlock.lines.length > 0) {
-        blocks.push(currentBlock);
-        currentBlock = { type: 'list', lines: [] };
-      }
-      if (currentBlock.type !== 'list') {
-        currentBlock = { type: 'list', lines: [] };
-      }
-      currentBlock.lines.push(line);
-      continue;
-    }
-    
-    if (currentBlock.type === 'list' && currentBlock.lines.length > 0) {
-      blocks.push(currentBlock);
-      currentBlock = { type: 'paragraph', lines: [] };
-    }
-    
-    if (currentBlock.lines.length > 0) {
-      const lastLine = currentBlock.lines[currentBlock.lines.length - 1];
-      const shouldMerge = 
-        !analyzer.endsWithPunctuation(lastLine) || 
-        analyzer.isContinuation(line) ||  
-        (lastLine.length < 80 && !analyzer.startsWithCapital(line));
-      
-      if (shouldMerge) {
-        currentBlock.lines[currentBlock.lines.length - 1] = lastLine + " " + line;
-      } else {
-        currentBlock.lines.push(line);
-      }
+      flush();
+      blocks.push(`\n### ${line.toUpperCase()} ###\n`);
+    } else if (analyzer.isListItem(line)) {
+      flush();
+      blocks.push(line);
     } else {
-      currentBlock.lines.push(line);
+      if (currentParagraph.length > 0 && !analyzer.shouldJoin(currentParagraph[currentParagraph.length - 1], line)) {
+        flush();
+      }
+      currentParagraph.push(line);
     }
   }
-  
-  if (currentBlock.lines.length > 0) {
-    blocks.push(currentBlock);
-  }
-  
-  return blocks.map(block => {
-    if (block.type === 'header') {
-      const hashes = '#'.repeat(block.level);
-      return `\n${hashes} ${block.lines[0].toUpperCase()} ${hashes}\n`;
-    } else if (block.type === 'list') {
-      return block.lines.join('\n');
-    } else {
-      return block.lines.join(' ');
-    }
-  }).join('\n\n').replace(/\n{3,}/g, '\n\n').trim();
+  flush();
+  return blocks.join("\n\n").replace(/\n{3,}/g, '\n\n').trim();
 }
 
-function cleanPages(pages) {
-  return pages.map((page, idx) => {
-    let cleaned = cleanNaturalText(page.text);
-    cleaned = cleaned.replace(/\f/g, '');
-    cleaned = cleaned.replace(/Page \d+ of \d+/gi, '');
-    cleaned = cleaned.replace(/^\d+\s*$/gm, '');
-    cleaned = cleaned.replace(/^[\s\-_]+$/gm, '');
-    
-    return {
-      pageNumber: idx + 1,
-      text: cleaned
-    };
-  }).filter(p => p.text.trim().length >= MIN_CHARS_PER_PAGE);
+function applyArtifactCleanup(text) {
+    return text
+        .replace(/\f/g, '')
+        .replace(/Page \d+ of \d+/gi, '')
+        .replace(/^\d+$/gm, '')
+        .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F-\u009F]/g, "")
+        .replace(/(\w)-\s*\n(\w)/g, "$1$2")
+        .replace(/[ \t]+/g, " ");
 }
 
 async function processSinglePDF(file) {
   const start = Date.now();
   const pdfPath = path.join(INPUT_DIR, file);
-  const base = file.replace(".pdf", "");
+  const base = path.parse(file).name;
 
   try {
     let pages = await extractPdfParse(pdfPath);
-    let usable = pages.some(p => p.text.length >= MIN_CHARS_PER_PAGE);
+    let usable = pages.filter(p => p.text.trim().length >= MIN_CHARS_PER_PAGE).length / pages.length > 0.5;
     let method = "pdf-parse";
 
     if (!usable || ocrOverride) {
@@ -205,24 +130,26 @@ async function processSinglePDF(file) {
       method = "azure";
     }
 
-    const cleanedPages = cleanPages(pages);
+    const processedPages = pages.map(p => ({
+        ...p,
+        text: applyArtifactCleanup(processContent(p.text))
+    })).filter(p => p.text.length > 10);
     
     const output = [
-      `# Document: ${file}`,
-      `# Processed: ${new Date().toISOString()}`,
-      `# Method: ${method}`,
-      `# Pages: ${cleanedPages.length}`,
-      `\n${'='.repeat(80)}\n`,
-      ...cleanedPages.map(p => 
-        `\n## Page ${p.pageNumber}\n${'-'.repeat(80)}\n\n${p.text}`
-      )
+      `# MANIFEST`,
+      `SOURCE: ${file}`,
+      `ENGINE: ${method}`,
+      `DATE: ${new Date().toISOString()}`,
+      `PAGES_EXTRACTED: ${processedPages.length}`,
+      `\n${'#'.repeat(40)}\n`,
+      ...processedPages.map(p => `[PAGE ${p.page}]\n${p.text}\n`)
     ].join('\n');
 
-    fs.writeFileSync(`${OUTPUT_DIR}/${base}.txt`, output);
-    console.log(`✔ ${file} (${method}, ${cleanedPages.length} pages, ${Date.now() - start}ms)`);
+    fs.writeFileSync(path.join(OUTPUT_DIR, `${base}.txt`), output);
+    console.log(`[SUCCESS] ${file} | ${method} | ${Date.now() - start}ms`);
   } catch (err) {
-    console.error(`✖ ${file} failed: ${err.message}`);
-    fs.writeFileSync(`${OUTPUT_DIR}/${base}.error.txt`, err.stack);
+    console.error(`[FAILURE] ${file} | ${err.message}`);
+    fs.writeFileSync(path.join(OUTPUT_DIR, `${base}.error.log`), err.stack);
   }
 }
 
@@ -230,20 +157,15 @@ async function extractPdfParse(pdfPath) {
   const buffer = fs.readFileSync(pdfPath);
   const parser = new PDFParse({ data: buffer });
   const result = await parser.getText();
-
-  if (Array.isArray(result.pages) && result.pages.length > 0) {
+  if (Array.isArray(result.pages)) {
     return result.pages.map((p, i) => ({ page: i + 1, text: p.text || "" }));
   }
-
-  return result.text.split("\f").map((text, i) => ({
-    page: i + 1,
-    text: text
-  })).filter(p => p.text.trim().length > 0);
+  return result.text.split("\f").map((text, i) => ({ page: i + 1, text }));
 }
 
 async function extractAzure(pdfPath) {
   const file = fs.readFileSync(pdfPath);
-  const submit = await axios.post(
+  const response = await axios.post(
     `${process.env.AZURE_ENDPOINT}/formrecognizer/documentModels/prebuilt-layout:analyze?api-version=2023-07-31`,
     file,
     {
@@ -254,14 +176,18 @@ async function extractAzure(pdfPath) {
     }
   );
 
-  const pollUrl = submit.headers["operation-location"];
+  const pollUrl = response.headers["operation-location"];
   let result;
-  while (!result) {
-    await sleep(1500);
+  while (true) {
     const poll = await axios.get(pollUrl, {
       headers: { "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY }
     });
-    if (poll.data.status === "succeeded") result = poll.data;
+    if (poll.data.status === "succeeded") {
+      result = poll.data;
+      break;
+    }
+    if (poll.data.status === "failed") throw new Error("Azure OCR Failed");
+    await sleep(2000);
   }
 
   return result.analyzeResult.pages.map(page => ({
@@ -273,7 +199,7 @@ async function extractAzure(pdfPath) {
 async function runQueue(items, limit, worker) {
   const queue = [...items];
   const workers = Array.from({ length: limit }, async () => {
-    while (queue.length) {
+    while (queue.length > 0) {
       const item = queue.shift();
       if (item) await worker(item);
     }
@@ -283,6 +209,6 @@ async function runQueue(items, limit, worker) {
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-const pdfFiles = fs.readdirSync(INPUT_DIR).filter(f => f.endsWith(".pdf"));
-console.log(`Processing ${pdfFiles.length} PDF files with ${CONCURRENCY} workers...\n`);
+const pdfFiles = fs.readdirSync(INPUT_DIR).filter(f => /\.pdf$/i.test(f));
+console.log(`INIT: ${pdfFiles.length} files | ${CONCURRENCY} threads`);
 runQueue(pdfFiles, CONCURRENCY, processSinglePDF);

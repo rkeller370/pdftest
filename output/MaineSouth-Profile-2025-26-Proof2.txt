@@ -1,165 +1,117 @@
-# Document: MaineSouth-Profile-2025-26-Proof2.pdf
-# Processed: 2026-01-13T23:08:16.615Z
-# Method: pdf-parse
-# Pages: 2
+# MANIFEST
+SOURCE: MaineSouth-Profile-2025-26-Proof2.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-14T01:49:52.264Z
+PAGES_EXTRACTED: 2
 
-================================================================================
+########################################
 
+[PAGE 1]
+### MAINE SOUTH HIGH SCHOOL ###
 
-## Page 1
---------------------------------------------------------------------------------
+Maine Township High School District 207 south.maine207.org 1111 S. Dee Road
 
-# MAINE SOUTH HIGH SCHOOL #
+Park Ridge, IL 60068
 
-## MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ##
+### 847.825.7711 ###
 
-# SOUTH.MAINE207.ORG #
+CEEB Code: 143377
 
-1111 S. Dee Road Park Ridge, IL 60068
-
-# 847.825.7711 #
-
-# CEEB CODE: 143377 #
-
-## DR. TATIANA BONUMA, SUPERINTENDENT ##
-
-## DR. ANTWAN BABAKHANI, PRINCIPAL ##
-
-Class of 2023 At a Glance
-
-## IN FIRST YEAR AFTER GRADUATION: ##
+Dr. Tatiana Bonuma, Superintendent Dr. Antwan Babakhani, Principal Class of 2023 At a Glance In first year after graduation:
 
 72.5% enrolled in a 4-year college* 11.9% enrolled in a 2-year college*
 
-# FROM CLASS OF 2025: #
+### FROM CLASS OF 2025: ###
 
-## 2 NATIONAL MERIT FINALIST STUDENTS ##
+2 National Merit Finalist Students 2 National Merit Semifinalist Students 13 National Merit Commended Students 122 Illinois State Scholars 2026 Graduating Class Size: 600
 
-## 2 NATIONAL MERIT SEMIFINALIST STUDENTS ##
+### SCHOOL INFORMATION: ###
 
-## 13 NATIONAL MERIT COMMENDED STUDENTS ##
-
-# 122 ILLINOIS STATE SCHOLARS #
-
-2026 Graduating Class Size: 600
-
-# SCHOOL INFORMATION: #
-
-# HIGHEST WEIGHTED GPA: 4.8158 #
-
-# HIGHEST NON-WEIGHTED GPA: 4.0 #
-
-# FREE AND REDUCED LUNCH #
-
-# PERCENTAGE: 4.8% #
+Highest Weighted GPA: 4.8158 Highest Non-weighted GPA: 4.0 Free and Reduced Lunch Percentage: 4.8%
 
 *Represents the percentage of graduates attending in the first year after graduation and is based upon August 2025 StudentTracker Report.
 
-# MAINE SOUTH 2025|2026 PROFILE #
+### MAINE SOUTH 2025|2026 PROFILE ###
 
-# THE SCHOOL AND COMMUNITY #
+The School and Community Maine South High School lies 30 minutes northwest of downtown Chicago in a suburban area serving most of Park Ridge and portions of Harwood Heights, Niles, Norridge and Norwood Park Township. Maine South educates students who speak 48 languages and 28.9% of students live in homes where English is not the primary language. The student population is 77.8% White or Caucasian, 12% Hispanic or Latino, 5.4% Asian, 3.5% who identify as two or more races, 0.8% Black or African- American, 0.3% Native Hawaiian or other Pacific Islander. 0.2% Middle Eastern or North African and 0.0% American Indian or Alaska Native.
 
-Maine South High School lies 30 minutes northwest of downtown Chicago in a suburban area serving most of Park Ridge and portions of Harwood Heights, Niles, Norridge and Norwood Park Township. Maine South educates students who speak 48 languages and 28.9% of students live in homes where English is not the primary language. The student population is 77.8% White or Caucasian, 12% Hispanic or Latino, 5.4% Asian, 3.5% who identify as two or more races, 0.8% Black or African- American, 0.3% Native Hawaiian or other Pacific Islander. 0.2% Middle Eastern or North African and 0.0% American Indian or Alaska Native. The enrollment is 2,471 and the average class size is 25. Maine South provides a comprehensive, innovative and rigorous public education program. Curriculum offerings at Maine South are extensive, with over 200 courses offered in 10 departments, including the fine arts, world language and career technical education. The school provides AP courses and dual-credit courses, as well as a dedicated program to allow students internship and career experiences to help with postsecondary choices.
+The enrollment is 2,471 and the average class size is 25. Maine South provides a comprehensive, innovative and rigorous public education program. Curriculum offerings at Maine South are extensive, with over 200 courses offered in 10 departments, including the fine arts, world language and career technical education. The school provides AP courses and dual-credit courses, as well as a dedicated program to allow students internship and career experiences to help with postsecondary choices.
 
-# STUDENT AND FAMILY SERVICES #
+Student and Family Services Associate Principal Student & Family Services:
 
-## ASSOCIATE PRINCIPAL STUDENT & FAMILY SERVICES: ##
+Dr. Jennifer Sheridan, jsheridan@maine207.org
 
-## DR. JENNIFER SHERIDAN, JSHERIDAN@MAINE207.ORG ##
-
-# POSTSECONDARY COUNSELOR: #
+### POSTSECONDARY COUNSELOR: ###
 
 Robyn Moreth, rmoreth@maine207.org
 
-# COUNSELORS: #
+### COUNSELORS: ###
 
 Trisha Conlon, tconlon@maine207.org Stephanie Maksymiu, smaksymiu@maine207.org William Milano, wmilano@maine207.org Erin Sanchez, esanchez@maine207.org Diane Spillman, dspillman@maine207.org Cris Villalobos, cvillalobos@maine207.org Michael Wartick, mwartick@maine207.org Meghan Wood, mwood1@maine207.org Mark Zambrano, mzambrano@maine207.org
 
-# REGISTRAR: #
+### REGISTRAR: ###
 
 Kerry Belville, kbelville@maine207.org
 
-# UPDATED 9/5/2025 #
+### UPDATED 9/5/2025 ###
 
-## Page 2
---------------------------------------------------------------------------------
+[PAGE 2]
+Transcript Legend
 
-# TRANSCRIPT LEGEND #
+ACC Accelerated/Honors AP Advanced Placement ESL English as a Second Language I Incomplete
 
-# ACC 	ACCELERATED/HONORS #
-
-AP 	Advanced Placement ESL 	English as a Second Language
-
-# I 	INCOMPLETE #
-
-Grade must be earned during the first six weeks of the next quarter
-
-# NG 	NO GRADE #
+Grade must be earned during the first six weeks of the next quarter NG No Grade
 
 Carries no credit and used under special circumstances such as an audited course, a withdrawn course due to extenuating circumstances or a failed course.
 
-# P 	PASSING #
+P Passing
 
-Passing grade in Pass/NG Course RLTD 	Classroom work for job training
+Passing grade in Pass/NG Course RLTD Classroom work for job training SS Summer School
 
-# SS 	SUMMER SCHOOL #
+T Transferred credit TRNG On-the-job training PLTW Project Lead the Way Graduation Requirements A minimum of 22.75 academic units of credit are required for graduation.
 
-T 	Transferred credit TRNG 	On-the-job training
+English (4.0)
 
-# PLTW 	PROJECT LEAD THE WAY #
+Mathematics (3.0)
 
-# GRADUATION REQUIREMENTS #
+Social Sciences (3.0) Science (3.0)
 
-A minimum of 22.75 academic units of credit are required for graduation.
+Financial Literacy (0.5) Fine Arts, CTE or World Language (2.0) Health (0.50)
 
-# ENGLISH (4.0) #
+Physical Education (enrolled) Electives (5.0)
 
-Mathematics (3.0) Social Sciences (3.0)
+Note: Exams are required on the Declaration of Independence, the Flag of the United States, the Constitution of the United States, the Constitution of the State of Illinois.
 
-# SCIENCE (3.0) #
+ACT Scores - Class of 2026 Maine South Total Mean ACT Score 22.9 Corresponds to a National Representative Sample Percentile Rank of 75
 
-Financial Literacy (0.5)
+### SECTION 25TH 50TH 75TH ###
 
-## FINE ARTS, CTE OR WORLD LANGUAGE (2.0) ##
+### PERCENTILE PERCENTILE PERCENTILE ###
 
-# HEALTH (0.50) #
+English 18 23 28 Reading 19 24 29 Science 20 24 28 Math 18 24 28
 
-Physical Education (enrolled)
+Composite 19 23 28 Grading
 
-# ELECTIVES (5.0) #
+District 207 reports a weighted and non-weighted grade point average on the transcript. GPA for all courses is calculated on a four-point scale. Accelerated and AP courses are given one additional bonus point. This is reflected in the weighted GPA.
 
-Note: Exams are required on the Declaration of Independence, the Flag of the United States, the Constitution of the United States, the Constitution of the State of Illinois. ACT Scores - Class of 2026
+Driver Education does not count in the GPA. In a Pass/NG course, a passing grade does not affect a student’s GPA. Beginning with the spring semester of 2020, a grade listed as NG provides no credit and has no GPA impact. An NG may be used under special circumstances such as an audited course, a withdrawn course due to extenuating circumstances or a failed course.
 
-## MAINE SOUTH TOTAL MEAN ACT SCORE 22.9 ##
+District 207 moved to an integrated math curriculum in the 2019-20 school year. In all courses in the integrated math program, students study content standards in the domains of Algebra, Functions, Geometry, Number and Quantities, and Statistics and continue to develop their proficiencies with the 8 Standards for Mathematical Practice. Math 3 Compression and PreCalc Compression courses go at a faster pace,“compressing” more content so that students are prepared for the skills and rigor of AP Calculus BC. All grades received in the integrated math program are unweighted.
 
-Corresponds to a National Representative Sample
+Academic Program
 
-# PERCENTILE RANK OF 75 #
+The school offers a broad and varied curriculum, the details of which can be found at: https://app.schoolinks.com/course-catalog/ maine-township-hsd-207/overview Among the course offerings include AP and Dual Credit options.
 
-# SECTION 	25TH 	50TH 	75TH #
+District 207 schools offer over 340 courses spread over 18 academic areas. Each course is developed with preparation for both college and career in mind. Thirty-four districtwide Advanced Placement courses are offered. Thirty-seven college-level courses are offered as dual credit/dual enrollment with colleges in Illinois. Twenty-one honors/accelerated courses are offered.
 
-## PERCENTILE PERCENTILE PERCENTILE ##
+The academic program is founded on the career pathways concept. Through a combination of rigorous and high-quality educational experiences, students prepare for the world of work, understanding there are multiple pathways to a successful career.
 
-# ENGLISH 	18 	23 	28 #
+Maine South operates on an 8-period block schedule each semester (4 periods per day, alternating days) allowing students the opportunity to take 7 classes plus PE/Health which is required (lunch is embedded into the day).
 
-Reading 	19 	24 	29 Science 	20 	24 	28 Math 	18 	24 	28 Composite 	19 	23 	28
-
-# GRADING #
-
-District 207 reports a weighted and non-weighted grade point average on the transcript. GPA for all courses is calculated on a four-point scale. Accelerated and AP courses are given one additional bonus point. This is reflected in the weighted GPA. Driver Education does not count in the GPA. In a Pass/NG course, a passing grade does not affect a student’s GPA. Beginning with the spring semester of 2020, a grade listed as NG provides no credit and has no GPA impact. An NG may be used under special circumstances such as an audited course, a withdrawn course due to extenuating circumstances or a failed course. District 207 moved to an integrated math curriculum in the 2019-20 school year. In all courses in the integrated math program, students study content standards in the domains of
-
-## ALGEBRA, FUNCTIONS, GEOMETRY, NUMBER AND QUANTITIES, AND ##
-
-Statistics and continue to develop their proficiencies with the 8 Standards for Mathematical Practice. Math 3 Compression and PreCalc Compression courses go at a faster pace,“compressing” more content so that students are prepared for the skills and rigor of AP Calculus BC. All grades received in the integrated math program are unweighted.
-
-# ACADEMIC PROGRAM #
-
-The school offers a broad and varied curriculum, the details of which can be found at: https://app.schoolinks.com/course-catalog/ maine-township-hsd-207/overview Among the course offerings include AP and Dual Credit options. District 207 schools offer over 340 courses spread over 18 academic areas. Each course is developed with preparation for both college and career in mind. Thirty-four districtwide Advanced Placement courses are offered. Thirty-seven college-level courses are offered as dual credit/dual enrollment with colleges in Illinois. Twenty-one honors/accelerated courses are offered. The academic program is founded on the career pathways concept. Through a combination of rigorous and high-quality educational experiences, students prepare for the world of work, understanding there are multiple pathways to a successful career. Maine South operates on an 8-period block schedule each semester (4 periods per day, alternating days) allowing students the opportunity to take 7 classes plus PE/Health which is required (lunch is embedded into the day).
-
-# FACULTY #
+Faculty
 
 Approximately 80% of Maine South’s teachers have an M.A. degree or beyond.
 
-# ACCREDITATION #
+Accreditation
 
 Maine South High School is accredited by the Illinois State Board of Education.
