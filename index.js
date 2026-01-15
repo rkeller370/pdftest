@@ -166,7 +166,6 @@ async function extractPdfParse(pdfPath) {
 async function extractAzureModern(pdfPath) {
   const file = fs.readFileSync(pdfPath);
   
-  // Modern endpoint
   const endpoint = `${process.env.AZURE_ENDPOINT}/documentintelligence/documentModels/prebuilt-read:analyze`;
   const params = `api-version=2024-11-30-preview&features=ocr.highResolution`;
   
@@ -181,10 +180,8 @@ async function extractAzureModern(pdfPath) {
     }
   );
 
-  // Polling remains similar
   const pollUrl = response.headers["operation-location"];
   
-  // New response parsing
   const result = await pollUntilComplete(pollUrl);
   
   return result.pages.map(page => ({
@@ -196,8 +193,6 @@ async function extractAzureModern(pdfPath) {
 }
 
 
-
-// Update your extractAzure function:
 async function extractAzure(pdfPath) {
   try {
     // Try modern endpoint first
@@ -207,7 +202,7 @@ async function extractAzure(pdfPath) {
       // Fallback to legacy endpoint if new one not available
       console.log("Falling back to legacy endpoint");
       throw error;
-     // return await extractAzureLegacy(pdfPath); // Your current code
+     // return await extractAzureLegacy(pdfPath); 
     }
     throw error;
   }
