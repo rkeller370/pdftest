@@ -165,20 +165,22 @@ async function extractPdfParse(pdfPath) {
 
 async function extractAzureModern(pdfPath) {
   const file = fs.readFileSync(pdfPath);
-  
-  const endpoint = `${process.env.AZURE_ENDPOINT}/documentintelligence/documentModels/prebuilt-read:analyze`;
-  const params = `api-version=2024-11-30-preview&features=ocr.highResolution`;
-  
-  const response = await axios.post(
-    `${endpoint}?${params}`,
-    file,
-    {
-      headers: {
-        "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY,
-        "Content-Type": "application/pdf"
-      }
+
+  const endpoint = process.env.AZURE_ENDPOINT; // https://maine207pdf.cognitiveservices.azure.com/
+const apiVersion = "2024-02-28-preview";      // valid version
+const model = "prebuilt-layout";
+
+const response = await axios.post(
+  `${endpoint}formrecognizer/documentModels/${model}:analyze?api-version=${apiVersion}`,
+  file,
+  {
+    headers: {
+      "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY,
+      "Content-Type": "application/pdf"
     }
-  );
+  }
+);
+
 
   const pollUrl = response.headers["operation-location"];
   
@@ -192,21 +194,6 @@ async function extractAzureModern(pdfPath) {
   }));
 }
 
-
-async function extractAzure(pdfPath) {
-  try {
-    // Try modern endpoint first
-    return await extractAzureModern(pdfPath);
-  } catch (error) {
-    if (error.response?.status === 404) {
-      // Fallback to legacy endpoint if new one not available
-      console.log("Falling back to legacy endpoint");
-      throw error;
-     // return await extractAzureLegacy(pdfPath); 
-    }
-    throw error;
-  }
-}
 
 async function extractAzure(pdfPath) {
   const file = fs.readFileSync(pdfPath);
@@ -240,6 +227,7 @@ async function extractAzure(pdfPath) {
     text: page.lines.map(l => l.content).join("\n")
   }));
 }
+
 
 async function runQueue(items, limit, worker) {
   const queue = [...items];
