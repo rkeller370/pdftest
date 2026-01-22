@@ -1,0 +1,103 @@
+# MANIFEST
+SOURCE_NAME: Teen Dating Violence Prohibited
+SOURCE_URL: https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Teen-Dating-Violence-Prohibited-Policy.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:58.460Z
+PAGES_EXTRACTED: 3
+
+########################################
+
+[PAGE 1]
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
+
+### TEEN DATING VIOLENCE PROHIBITED 6446 ###
+
+6446 Maine Township High School District 207 provides physically safe and emotionally secure environments for all students and employees. Positive behaviors are encouraged in the educational program and are required of all students and employees. Teen dating violence that takes place at school, on school property, at school-sponsored activities, or in vehicles used for school-provided transportation is prohibited. For purposes of this policy, the term teen dating violence occurs whenever a student who is 13 to 19 years of age uses or threatens to use physical, mental, or emotional abuse to control an individual in the dating relationship; or uses or threatens to use sexual violence in the dating relationship.
+
+The Superintendent or designee shall develop and maintain a program to respond to incidents of
+
+### TEEN DATING VIOLENCE THAT: ###
+
+1. Fully implements and enforces Board policies related to bullying, intimidation, hazing
+
+and harassment of students.
+
+2. Establishes a Dating Violence Response Team (DVRT) in each school that consists of
+
+school employees who shall be responsible for receiving and responding to dating violence complaints. Appropriate school personnel who may serve on a school’s DVRT include, principals, assistant principals, directors, deans, guidance counselors, social workers, psychologists, school nurses, school resource police officers and complaint managers.
+
+3. Encourages anyone with information about incidents of teen dating violence to report
+
+### THEM TO ANY OF THE FOLLOWING INDIVIDUALS: ###
+
+a. Any school staff member. School staff shall respond to incidents of teen dating
+
+violence by reporting the information to the Dating Violence Response Team (DVRT) for the school.
+
+b. The Complaint Manager identified in policy #3005.
+
+c. Any member of the school’s Dating Violence Response Team (DVRT).
+
+4. Incorporates age-appropriate instruction in grades 9 through 12, in accordance with the
+
+District’s comprehensive health education program. This includes incorporating student social and emotional development into the District’s educational program as required by State law.
+
+5. Incorporates education for school staff, as recommended by the Building Principal,
+
+Assistant Building Principal, Dean of Students, or a Complaint Manager.
+
+6. Notifies students and parents/guardians of this policy.
+
+### LEGAL REF.: 105 ILCS 110/3.10. ###
+
+Adopted: 2/3/14
+
+[PAGE 2]
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
+
+TEEN DATING VIOLENCE PROHIBITED (Procedures) 6446 6446 Procedure for Reporting and Investigation of Dating Violence The school district will act to investigate all complaints of teen dating violence in settings covered by this policy and will take appropriate action against any student who is found to have violated this policy. It is the responsibility of all students, school staff members, and concerned individuals who observe or become aware of acts of dating violence to respond quickly and effectively when they suspect or become aware of an incident of teen dating violence.
+
+Incidents are to be reported immediately and confidentially to any school staff member, a Complaint Manager as identified in policy #3005, or any member of the Dating Violence Response Team (DVRT). Individuals making such reports will be supported and protected against potential retaliation for making the report. The school district will also take appropriate action against any student or employee of the school district who retaliates against any person who makes a report in good faith of alleged dating violence or against any person who testifies, assists, or participates in an investigation or hearing related to such dating violence.
+
+Sanctions and Supports
+
+Where it is determined that a student has participated in dating violence behavior in violation of this policy, the school district may take disciplinary action against the perpetrator including suspension, expulsion, and/or referral to law enforcement officials for possible legal action, as appropriate.
+
+The school district will also take appropriate action against any student of the school district who retaliates against any person who makes a report in good faith of alleged dating violence or against any person who testifies, assists, or participates in an investigation or hearing related to the allegations.
+
+When appropriate, attempts will be made to use disciplinary alternatives for students who engage in dating violence or who retaliate against a student who reports a dating violence incident. The school district may take steps to counsel the perpetrator or offer other educational programming designed to prevent this behavior in the future. The district will make available evidence-based resources and comprehensive research-based programs to help school personnel address dating violence. Program support may include coaching, awareness training and education for staff, reporting practices and templates, surveys and evaluation tools, student skill training, and curricular or program implementation support.
+
+Employees found to have participated in dating violence behavior or to have been aware that dating violence was occurring and failed to report the behavior are considered to be in violation of this policy and may be subject to disciplinary action. The school district will cooperate with all judicial orders, including any temporary restraining orders or injunctions.
+
+[PAGE 3]
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
+
+### TEEN DATING VIOLENCE PROHIBITED 6446 ###
+
+Student Personnel Services staff will provide ongoing support for the identified victim(s) by offering help in creating an individualized safety plan that addresses on and off campus safety, assisting with the enforcement of protection orders, providing a list of local resources, making appropriate referrals to community-based organizations with expertise in teen dating and sexual violence, and making accommodations to protect the victim(s).
+
+Confidentiality
+
+All information concerning a student’s status as a victim or perpetrator of dating violence, or as the petitioner or respondent of a protection order provided to the school district or its employees, shall be regarded with the utmost of sensitivity and confidence, except to the extent that a disclosure is allowed or required by applicable state or federal law.
+
+Disclosure and Public Reporting
+
+This policy shall be distributed annually to all students and their parents/guardians via the Student Handbook and Discipline Procedures and shall be prominently posted on each school website.
+
+The school district will provide a copy of the policy to any person who requests it.
+
+### THE FOLLOWING RECORDS WILL BE MAINTAINED: ###
+
+• the number of dating and sexual violence incidents reported;
+
+• sanctions imposed for incidents found to be in violation of this policy; and
+
+• supports and accommodations offered to victims.
+
+•
+
+An annual summary report shall be prepared and presented to the Board of Education. The report will include trends in teen dating violence and recommendations on how to further reduce interpersonal violence. The annual report will be made available to the public.
+
+### PROCEDURES ###
+
+Adopted: 2/3/14

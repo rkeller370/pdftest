@@ -1,7 +1,7 @@
 # MANIFEST
 SOURCE: Legal-Budget-2025-2026.pdf
 ENGINE: azure
-DATE: 2026-01-21T04:03:31.139Z
+DATE: 2026-01-21T04:04:03.279Z
 PAGES_EXTRACTED: 37
 
 ########################################
@@ -2402,7 +2402,7 @@ Payments for Community College Programs 4170 0
 
 
 
-Other Payments to In-State Govt Units - Programs (Describe & ftemize) 4190 0
+Other Payments to In-State Govt Units - Programs (Describe & Itemize) 4190 0
 
 
 

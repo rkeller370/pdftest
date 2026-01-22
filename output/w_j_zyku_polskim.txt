@@ -1,0 +1,215 @@
+# MANIFEST
+SOURCE_NAME: W języku polskim
+SOURCE_URL: https://maine207.org/wp-content/uploads/2025/06/final2526polish.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:57.730Z
+PAGES_EXTRACTED: 5
+
+########################################
+
+[PAGE 1]
+Okręg 207 szkół średnich w powiecie Maine
+
+2025-26 POSIŁKI BEZPŁATNE / PO OBNIŻONEJ CENIE I ZWOLNIENIE Z OPŁAT
+
+### INSTRUKCJE DOTYCZĄCE SKŁADANIA WNIOSKU ###
+
+Aby wystąpić o posiłki bezpłatne i po obniżonej cenie i/lub zwolnienie z opłat, wypełnij wniosek, korzystając z tych instrukcji. Podpisz wniosek i zwróć do szkoły.
+
+1. INFORMACJE WNIOSKODAWCY Wszystkie gospodarstwa domowe wypełniają tę sekcję (1).
+
+A. Wpisz imiona i nazwiska dzieci, których dotyczy wniosek.
+
+B. Podaj numer legitymacji każdego dziecka.
+
+C. Numer sprawy TANF – jeśli dotyczy. Podaj aktualny numer sprawy TANF lub numer SNAP dla każdego
+
+dziecka. Do wniosku należy dołączyć kopię karty (kart) TANF/SNAP. Nie można użyć numeru karty Link.
+
+Przejdź do kroku (6). Należy pamiętać, że stan Illinois nie zezwala już Okręgowi na dostęp do systemu bezpośredniej certyfikacji, a wszystkie rodziny objęte programem SNAP muszą wypełnić wniosek, aby się kwalifikować.
+
+D. Zaznacz, jeśli wniosek dotyczy dziecka przysposobionego. Dołącz kopię przedniej i tylnej strony karty
+
+medycznej dziecka.
+
+Przejdź do kroku (5). 2. OSOBA BEZDOMNA, MIGRANT, UCIEKINIER LUB OSOBA OBJĘTA PROGRAMEM HEAD START (kategorycznie kwalifikująca się)
+
+A. Zaznacz pole (jeśli ma zastosowanie) dla ucznia, którego dotyczy wniosek.
+
+B. Uzyskaj odpowiedni podpis. Przejdź do sekcji (5).
+
+### 3. CAŁKOWITY DOCHÓD GOSPODARSTWA DOMOWEGO ###
+
+A. Wpisz imiona i nazwiska wszystkich członków gospodarstwa domowego, bez względu na to, czy mają dochód,
+
+czy nie. Uwzględnij siebie, dzieci, których dotyczy wniosek, wszystkie inne dzieci, współmałżonka(-ę), dziadków i inne spokrewnione i niespokrewnione osoby w Twoim gospodarstwie domowym. Użyj kolejnej kartki, jeśli potrzebujesz więcej miejsca. Zaznacz pole po prawej, jeśli członek gospodarstwa domowego nie ma żadnych dochodów.
+
+B. Wypełnij całkowity dochód każdej osoby i załącz kopię ostatniego zeznania podatkowego (2024) – formularz
+
+IRS 1040 i wszystkie formularze W-2/1099 dla każdego członka gospodarstwa domowego, jeśli ma to zastosowanie. Jeśli nie ma zeznania podatkowego, ale członek gospodarstwa domowego jest zatrudniony, proszę podać powód braku zeznania podatkowego. Twój wniosek może zostać odrzucony, jeśli nie dostarczysz kopii zeznania podatkowego za rok 2024 i wszystkich formularzy W-2/1099 dla każdego zatrudnionego członka gospodarstwa domowego.
+
+C. Musisz wypełnić Wniosek o transkrypcję formularza zeznania podatkowego 4506-T dla każdego zatrudnionego
+
+członka gospodarstwa domowego, który nie może dostarczyć zeznania podatkowego. (1) Wypełnij wiersz Identyfikator ucznia na górze strony. (2) Wypełnij wszystkie pozycje w sekcjach od 1 do 4, jeśli ma to zastosowanie. (3) Podpisz się w pierwszym wierszu podpisu (wymagany jest tylko jeden podpis); (4) podaj datę, (5) numer telefonu.
+
+[PAGE 2]
+### 4. TOŻSAMOŚCI RASOWE I ETNICZNE DZIECI ###
+
+Odpowiedz na te pytania, jeśli chcesz. (Opcjonalnie)
+
+5. PODPIS I NUMER UBEZPIECZENIA SPOŁECZNEGO Wszystkie gospodarstwa domowe wypełniają tę sekcję.
+
+A. Wszystkie wnioski muszą mieć podpis pełnoletniego członka gospodarstwa domowego.
+
+B. Osoba dorosła podpisująca formularz musi również podać cztery ostatnie cyfry swojego numeru ubezpieczenia
+
+społecznego.
+
+C. Jeżeli osoba dorosła nie posiada numeru ubezpieczenia społecznego, zaznacz pole „Nie mam numeru
+
+ubezpieczenia społecznego”.
+
+D. Numer ubezpieczenia społecznego nie jest wymagany, jeśli składasz wniosek podając numer sprawy SNAP
+
+lub TANF lub jeśli składasz wniosek dotyczący dziecka przysposobionego.
+
+E. Jeżeli nie ma numeru ubezpieczenia społecznego, a pole na to wskazujące nie zostanie zaznaczone,
+
+wniosek zostanie odrzucony.
+
+Oświadczenie dotyczące Ustawy o ochronie prywatności: Ta sekcja wyjaśnia, w jaki sposób będziemy wykorzystywać informacje, które nam przekazujesz. Ustawa Richarda B. Russella National School Lunch Act wymaga podania informacji wymaganych w tym wniosku. Nie musisz podawać informacji, ale jeśli tego nie zrobisz, nie możemy zatwierdzić bezpłatnych posiłków lub posiłków obniżonej cenie dla Twojego dziecka. Należy podać cztery ostatnie cyfry numeru ubezpieczenia społecznego dorosłego członka gospodarstwa domowego, który podpisuje wniosek. Ostatnie cztery cyfry numeru ubezpieczenia społecznego nie są wymagane, gdy składasz wniosek w imieniu dziecka przysposobionego lub podajesz numer sprawy programu dodatkowej pomocy żywieniowej (SNAP), programu tymczasowej pomocy dla potrzebujących rodzin (TANF) lub programu dystrybucji żywności w rezerwatach Indian (FDPIR) lub inny identyfikator FDPIR dla Twojego dziecka lub gdy wskażesz, że pełnoletni członek gospodarstwa domowego podpisujący wniosek nie posiada numeru ubezpieczenia społecznego. Wykorzystamy podane przez Ciebie informacje w celu ustalenia, czy Twoje dziecko kwalifikuje się do posiłków bezpłatnych lub po obniżonej cenie, a także do administrowania i egzekwowania programów obiadowych i śniadaniowych. MOŻEMY udostępniać informacje o Twojej kwalifikowalności programom edukacyjnym, zdrowotnym i żywieniowym, aby pomóc im ocenić, sfinansować lub określić korzyści z ich programów, audytorom przeprowadzającym przeglądy programów oraz funkcjonariuszom organów ścigania, aby pomóc im zbadać naruszenia zasad programu.
+
+Zgodnie z federalnym prawem dotyczącym praw obywatelskich oraz przepisami i politykami dotyczącymi praw obywatelskich Departamentu Rolnictwa Stanów Zjednoczonych (USDA), instytucja ta nie może dyskryminować ze względu na rasę, kolor skóry, pochodzenie narodowe, płeć (w tym tożsamość płciową i orientację seksualną), niepełnosprawność, wiek lub odwet za wcześniejsze działania na rzecz praw obywatelskich. Informacje o programie mogą być dostępne w językach innych niż angielski. Osoby niepełnosprawne, które potrzebują alternatywnych środków komunikacji w celu uzyskania informacji o programie (np. alfabet Braille'a, duży druk, taśma audio, amerykański język migowy), powinny skontaktować się z odpowiedzialną agencją stanową lub lokalną, która zarządza programem lub z Centrum TARGET USDA pod numerem (202) 720-2600 (głos i TTY) lub skontaktować się z USDA za pośrednictwem Federalnej Usługi Przekaźnikowej pod numerem (800) 877-8339. Aby złożyć skargę dotyczącą dyskryminacji w programie, skarżący powinien wypełnić formularz AD-3027, USDA Program Discrimination Complaint Form, który można uzyskać online pod adresem: https://www.usda.gov/sites/default/files/documents/USDA-OASCR%20P-Complaintant-Form-0508-0002-508- 11-28-17Fax2Mail.pdf, w dowolnym biurze USDA, dzwoniąc pod numer (866) 632-9992 lub pisząc list zaadresowany do USDA. Pismo musi zawierać imię i nazwisko skarżącego, adres, numer telefonu oraz pisemny opis domniemanego działania dyskryminacyjnego w sposób wystarczająco szczegółowy, aby poinformować Asystenta Sekretarza ds. Praw Obywatelskich (ASCR) o charakterze i dacie domniemanego naruszenia praw obywatelskich. Wypełniony formularz AD- 3027 lub pismo należy przesłać do USDA do: 1. Pocztą: U.S. Department of Agriculture, Office of the Assistant Secretary for Civil Rights, 1400 Independence Avenue, SW Washington D.C. 20250-9410; lub 2. Faksem: (833) 256-1665 lub (202) 690-7442; lub 3. E-mail: program.intake@usda.gov.
+
+[PAGE 3]
+1. CZY MUSZĘ WYPEŁNIAĆ WNIOSEK DLA KAŻDEGO DZIECKA? NIE. Użyj jednego wniosku dla wszystkich
+
+uczniów w Twoim gospodarstwie domowym, na każdy okręg. Nie możemy zatwierdzić wniosku, który nie jest kompletny, więc wypełnij wszystkie wymagane informacje. Wypełniony wniosek należy zwrócić do szkoły.
+
+2. WNIOSEK MOJEGO DZIECKA ZOSTAŁ ZATWIERDZONY W OSTATNIM ROKU, CZY MUSZĘ WYPEŁNIĆ
+
+KOLEJNY? Tak, wniosek Twojego dziecka jest ważny tylko na dany rok szkolny. Musisz wysłać nowy wniosek, nawet jeśli otrzymujesz pomoc od SNAP lub TANF.
+
+3. DOSTAJĘ WIC. CZY MOJE DZIECKO (DZIECI) MOŻE OTRZYMAĆ BEZPŁATNE POSIŁKI? Dzieci w
+
+gospodarstwach domowych uczestniczących w WIC MOGĄ mieć prawo do posiłków bezpłatnych lub po obniżonej cenie i zwolnienia z opłat. Wypełnij wniosek.
+
+4. CZY MOGĘ ZŁOŻYĆ WNIOSEK, JEŚLI KTOŚ Z MOJEGO DOMU NIE JEST OBYWATELEM USA? Tak. Ty ani
+
+twoje dziecko (dzieci) nie musicie być obywatelami USA, aby kwalifikować się do bezpłatnych posiłków lub posiłków po obniżonych cenach i zwolnienia z opłat.
+
+5. MOJA RODZINA POTRZEBUJE WIĘCEJ POMOCY, CZY SĄ INNE PROGRAMY, O KTÓRE MOŻEMY
+
+WNIOSKOWAĆ? Aby dowiedzieć się, jak ubiegać się o SNAP, TANF lub inne świadczenia pomocy, skontaktuj się z lokalnym Departamentem Usług Społecznych lub zadzwoń pod numer (800) 843-6154 (głos) lub (800) 447-6404
+
+### (TTY). ###
+
+6. JESTEM ODBIORCĄ SNAP, ALE NIE MOGĘ ZNALEŹĆ MOJEGO LISTU Z POWIADOMIENIEM O DECYZJI SNAP.
+
+JAK MOGĘ UZYSKAĆ KOPIĘ TEGO LISTU? Możesz wysłać wiadomość e-mail, zadzwonić lub udać się osobiście do biura Illinois Department of Human Services (IDHS) i poprosić o kopię listu. Informacje kontaktowe i adresy kilku lokalizacji można znaleźć poniżej. Kontaktując się z IDHS, należy poprosić o "Dowód otrzymania świadczeń z programu".
+
+Departament Usług Społecznych stanu Illinois Biuro West Suburban (229), Melrose Park, IL 60160. (708)338-7600 --------------------
+
+DHS Family Community Resource Center w powiecie Cook - N. Suburban 3501 W. Algonquin Rd., 4th Floor, Rolling Meadows, IL 60008. (847) 483-7171 --------------------
+
+Stan Illinois Północny FCRC
+
+8001 Lincoln Ave., 6th Floor, Skokie, IL 60077. (847) 745-3200
+
+### APLIKACJA PONIŻEJ ###
+
+[PAGE 4]
+Okręg 207 szkół średnich w powiecie Maine 2025-26 WNIOSEK O POSIŁKI BEZPŁATNE / PO OBNIŻONEJ CENIE I ZWOLNIONE Z OPŁAT
+
+### (1) INFORMACJE WNIOSKODAWCY ###
+
+Imiona i nazwiska wszystkich dzieci uczęszczających do szkoły
+
+Pierwsze imię – Drugie imię – Nazwisko
+
+Identyfikator ucznia
+
+Numer karty żywnościowej lub numer sprawy TANF (jeśli dotyczy, dla każdego dziecka). Jeśli podasz numer sprawy SNAP lub TANF, należy dołączyć aktualną kopię listu uprawniającego do świadczeń IDHS wraz z numerem sprawy, a następnie przejść do punktu (6) Zaznacz, jeśli dziecko jest przysposobione*
+
+* Należy dołączyć kopię przedniej i tylnej strony karty medycznej dziecka przysposobionego.
+
+(2) OSOBA BEZDOMNA, MIGRANT, UCIEKINIER lub OSOBA OBJĘTA PROGRAMEM HEAD START (kategorycznie kwalifikująca się) Bezdomny Migrant Uciekinier Head Start Podpis szkolnej osoby kontaktowej z bezdomnymi, Data Koordynator ds. migrantów lub Dyrektor ds. programu Head Start (3) CAŁKOWITY DOCHÓD BRUTTO GOSPODARSTWA DOMOWEGO - przed potrąceniami, musisz podać ile on wynosi i jak często występuje.
+
+### IMIONA I NAZWISKA ###
+
+### (WYMIEŃ WSZYSTKICH ###
+
+### DOMOWNIKÓW Z DOCHODAMI) ###
+
+DOCHÓD BRUTTO I JAK CZĘSTO BYŁ OTRZYMYWANY (Przykłady: $100/miesiąc, $100/dwa razy w miesiącu, $100/co drugi tydzień, $100/tydzień Zarobki z pracy (Przed odliczeniami) Opieka społeczna, alimenty na dzieci Emerytury, ubezpieczenie społeczne
+
+Ubezpieczenie pracownicze Zasiłek dla bezrobotnych, SST itp.
+
+Wszystkie inne dochody Kwota Jak często Kwota Jak często Kwota Jak często Kwota Jak często 1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Załączono kopię formularza IRS 1040 za rok 2024, wszystkie formularze 1099/W-2 dla każdego pracującego członka gospodarstwa domowego.
+
+Nie złożyłem(-am) formularza IRS 1040, ponieważ (4) TOŻSAMOŚCI RASOWE I ETNICZNE DZIECI (opcjonalnie) Zaznacz jedną tożsamość etniczną: Zaznacz jedną lub więcej tożsamości rasowych:
+
+Latynoskie Azjatyckie Czarnoskóry lub Afroamerykanin Nie latynoskie Biały Indianin amerykański lub mieszkaniec Alaski Rodowity Hawajczyk lub mieszkaniec innych wysp Pacyfiku (5) PODPIS I NUMER UBEZPIECZENIA SPOŁECZNEGO (podpis musi złożyć osoba dorosła) Wniosek musi podpisać dorosły członek gospodarstwa domowego. Osoba dorosła podpisująca formularz musi również podać swój numer ubezpieczenia społecznego lub zaznaczyć pole „Nie mam numeru ubezpieczenia społecznego”.
+
+Numer ubezpieczenia społecznego: X X X - X X- Nie mam numeru ubezpieczenia społecznego.
+
+Oświadczam (obiecuję), że wszystkie informacje zawarte w tym wniosku są prawdziwe i że podany został cały dochód gospodarstwa domowego. Rozumiem, że władze szkoły mogą zweryfikować (sprawdzić) informacje. Rozumiem, że jeśli celowo podam nieprawdziwe informacje, moje dzieci mogą stracić świadczenia, a ja mogę zostać postawiony w stan oskarżenia.
+
+/ /
+
+Data Imię i nazwisko dorosłego członka gospodarstwa domowego Podpis pełnoletniego członka gospodarstwa domowego Adres dorosłego członka gospodarstwa domowego Miasto Kod pocztowy 2 maja
+
+[PAGE 5]
+Okręg 207 szkół średnich w powiecie Maine POSIŁKI BEZPŁATNE / PO OBNIŻONEJ CENIE I ZWOLNIENIE Z OPŁAT 2025-26 Wytyczne dotyczące kwalifikowalności dochodów Wytyczne dotyczące kwalifikowalności dochodów Obowiązują od 1 lipca 2025 do 30 czerwca 2026 Bezpłatne posiłki 130% federalnych wytycznych dotyczących ubóstwa Posiłki po obniżonej cenie 185% federalnych wytycznych dotyczących ubóstwa Liczba członków gospodarstwa domowego
+
+Rocznie Miesięcznie Dwa razy w miesiącu
+
+Co dwa tygodnie Tygodniowo Liczba członków gospodarstwa domowego
+
+Rocznie Miesięcznie Dwa razy w miesiącu
+
+Co dwa tygodnie Tygodniowo 1 20 345 1 696 848 783 392 1 28 953 2 413 1 207 1 114 557 2 27 495 2 292 1 146 1 058 529 2 39 128 3 261 1 631 1 505 753 3 34 645 2 888 1 444 1 333 667 3 49 303 4 109 2 055 1 897 949 4 41 795 3 483 1 742 1 608 804 4 59 478 4 957 2 479 2 288 1 144 5 48 945 4 079 2 040 1 883 942 5 69 653 5 805 2 903 2 679 1 340 6 56 095 4 675 2 338 2 158 1 079 6 79 828 6 653 3 327 3 071 1 536 7 63 245 5 271 2 636 2 433 1 217 7 90 003 7 501 3 751 3 462 1 731 8 70 395 5 867 2 934 2 708 1 354 8 100 178 8 349 4 175 3 853 1 927 Za każdego dodatkowego członka rodziny dodaj
+
+7 150 596 298 275 138 Za każdego dodatkowego członka rodziny dodaj
+
+10 175 848 424 392 196 Poniżej znajduje się definicja dochodu: Dochód definiuje się jako wszelkie środki pieniężne zarobione przed jakimikolwiek potrąceniami, takimi jak podatki dochodowe, podatki na ubezpieczenie społeczne, składki ubezpieczeniowe, składki na cele charytatywne i obligacje. Obejmuje następujące elementy:
+
+• Rekompensata pieniężna za usługi obejmuje pensje, prowizje od wynagrodzeń lub opłaty:
+
+• Dochód netto z samozatrudnienia poza rolnictwem;
+
+• Dochód netto z pracy na własny rachunek w gospodarstwie rolnym;
+
+• Zasiłek z opieki społecznej;
+
+• Dywidendy lub odsetki od oszczędności lub obligacji lub dochodów z majątku lub funduszy powierniczych;
+
+• Dochód netto z wynajmu;
+
+• Pomoc publiczna lub świadczenia socjalne;
+
+• Zasiłek dla bezrobotnych;
+
+• Emerytury dla pracowników państwowych cywilnych lub wojskowych lub renty dla weteranów;
+
+• Prywatne emerytury lub renty;
+
+• Alimenty lub alimenty na dziecko;
+
+• Regularne wpłaty od osób niemieszkających w gospodarstwie domowym;
+
+• Tantiemy netto;
+
+• Inne dochody pieniężne – inne dochody pieniężne obejmowałyby kwoty otrzymane lub pobrane z
+
+dowolnego źródła, w tym z oszczędności, inwestycji, rachunków powierniczych i innych zasobów, które byłyby dostępne, aby pokryć cenę posiłku dla dziecka.

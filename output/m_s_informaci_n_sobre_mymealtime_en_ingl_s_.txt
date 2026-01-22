@@ -1,0 +1,47 @@
+# MANIFEST
+SOURCE_NAME: Más información sobre MyMealtime en inglés.
+SOURCE_URL: https://maine207.org/wp-content/uploads/2022/07/MyMealtime_Parent_Flyer_ESP.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:57.697Z
+PAGES_EXTRACTED: 1
+
+########################################
+
+[PAGE 1]
+Abra la aplicación, luego siga estos 3 fáciles pasos para empezar: www.MyMealTime.com
+
+¿Necesita ayuda? Comuníquese con nosotros. correo electrónico: support@mealtimeclm.com teléfono: 800-755-0904.
+
+Pagos en línea rápidos, seguros
+
+### 1 2 3 ###
+
+https://goo.gl/AqkgYT https://goo.gl/YQtcEm ¡Descargue ahora la aplicación MyMealTime!
+
+*Su escuela o distrito decide qué cuotas/fondos están disponibles en My MealTime.
+
+** Es posible que se aplique una pequeña tarifa por transacción.
+
+Regístrese Haga un pago Vincule a Su estudiante ¡Pague almuerzos y otras cuotas* de la escuela con su teléfono inteligente o dispositivo móvil!
+
+### CON MYMEALTIME USTED PUEDE: ###
+
+• Mantenerse informado. Monitorear el saldo y la actividad de la cuenta de
+
+almuerzos de su estudiante.
+
+• Recibir notificaciones. Recibir notificaciones cuando la cuenta de almuerzos
+
+de su estudiante se haya reducido.
+
+• Hacer pagos seguros. Usando su tarjeta Visa, MasterCard o Discover.**
+
+• Almacenar su tarjeta de crédito/débito. Para repetir el uso de manera rápida
+
+y fácil.
+
+• Programar depósitos. Semanal, mensual o en cualquier frecuencia que
+
+usted desee.
+
+¡Descárguela en la ¡Obténgala en

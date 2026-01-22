@@ -1,0 +1,64 @@
+# MANIFEST
+SOURCE_NAME: Pass-Fail Form
+SOURCE_URL: https://maine207.org/wp-content/uploads/2019/07/Pass-Fail-FormProcedures.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:58.379Z
+PAGES_EXTRACTED: 2
+
+########################################
+
+[PAGE 1]
+### DISTRICT 207 PASS/FAIL PETITION ###
+
+(Pass/fail procedures on reverse side) Student Name (please print) ID# Counselor I herein petition to complete the following course on a pass/fail basis:
+
+Course Name (print) Instructor Period This course is in addition to my other four units of credit.
+
+1. I understand that a course cannot be taken for a pass/fail grade:
+
+ When it is for accelerated credit  When it is required for graduation
+
+2. I further understand that if any course is dropped resulting in my taking less than five (5)
+
+courses, this petition automatically becomes void and I will receive a letter grade for this course.
+
+3. Eligible students enrolled in a full year course who petition to complete the course on a
+
+pass/fail basis for the first semester WILL AUTOMATICALLY remain on a pass/fail status in the course for the second semester. Semester courses must be petitioned on a semester by semester basis. STUDENTS WHO DESIRE TO RETURN TO A
+
+### REGULAR GRADING STATUS SECOND SEMESTER MUST NOTIFY THEIR ###
+
+### COUNSELOR AND TEACHER OF THE RESPECTIVE COURSE. ###
+
+PLEASE RETURN THE COMPLETED FORM TO YOUR COUNSELOR’S OFFICE NO LATER THAN 3:30 p.m. on the Friday of the second week following the start of the first or third quarter of the year.
+
+____________________________________ _____________________________________ Student Signature Approval of Parent (Signature) _____________________________________ Approval of Counselor
+
+### (DO NOT WRITE BELOW THIS LINE) ###
+
+Date completed petition returned to counselor: ____________
+
+### FOR OFFICE USE ONLY COPY TO: ###
+
+Class Instructor: _____________________________________ Counselor’s Copy _____________________________________ Department Chairperson: _______________________________ Original to Scheduling: _________________________________
+
+[PAGE 2]
+Pass/Fail Procedures
+
+The pass/fail policy was developed to give students opportunities for learning without the pressure of grades. Passing grades received under the pass/fail system are designated on grade reports and official transcripts as satisfactory (PA). Failing grades received under the pass/fail system are designated on grade reports and official transcripts as an “F”. A failing (F) grade will be computed in a student’s grade point average. Students may take any one-half credit or one credit course during the regular school year, as well as summer school, pass/fail according to the following
+
+### GUIDELINES: ###
+
+• Students may petition to take courses pass/fail only if they are registered for more than
+
+four full credit courses. If a student who is taking a fifth course pass/fail decides to drop a course that is being taken for a letter grade, the pass/fail course must be taken for a letter grade.
+
+• Students must meet all prerequisites for admission to any class they wish to take pass/fail.
+
+Accelerated classes may not be taken pass/fail.
+
+• Courses required for graduation may not be taken pass/fail except for courses taken to
+
+complete the two-year graduation requirement in applied arts and technology, fine arts, or foreign language.
+
+The deadline to submit a pass/fail petition is the Friday of the second week following the start of the first or third quarter of the year.

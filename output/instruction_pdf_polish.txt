@@ -1,0 +1,27 @@
+# MANIFEST
+SOURCE_NAME: Instruction PDF Polish
+SOURCE_URL: https://maine207.org/wp-content/uploads/2025/08/Polish-PS-Flyer.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:57.223Z
+PAGES_EXTRACTED: 1
+
+########################################
+
+[PAGE 1]
+Okręg 207 korzysta obecnie z ParentSquare jako systemu komunikacji między szkołą a domem. Platforma ta została zaprojektowana w celu informowania rodziców i opiekunów oraz zachęcania ich do większego zaangażowania i nawiązywania kontaktów ze szkołą dziecka.
+
+Aktywacja konta
+
+Aktualizacja ustawień językowych Większość rodziców/opiekunów aktywowała już swoje konta. Jeśli jednak nie aktywowałeś swojego konta, dzisiaj (28 sierpnia) wysłaliśmy Ci wiadomość e-mail z instrukcjami dotyczącymi aktywacji konta.
+
+Język angielski jest domyślnym językiem wszystkich wiadomości i informacji w ParentSquare. Preferencje językowe można zmienić w dowolnym momencie po
+
+### ZALOGOWANIU SIĘ: ###
+
+Na komputerze kliknij swoje imię w prawym górnym rogu > Moje konto > Ustawienia języka. W aplikacji mobilnej kliknij ikonę trzech linii w lewym górnym rogu > Konto > Preferencje > Język.
+
+Masz pytania? Odwiedź https://maine207.org/parentsquare/ Zeskanuj powyższy kod, aby pobrać aplikację!
+
+Aktualizacja ustawień powiadomień Możesz wybrać sposób otrzymywania powiadomień pocztowych od ParentSquare. Po zalogowaniu:
+
+Kliknij swoje imię w prawym górnym rogu > Moje konto > Ustawienia powiadomień. W aplikacji mobilnej kliknij ikonę trzech linii w lewym górnym rogu > Konto > Powiadomienia.

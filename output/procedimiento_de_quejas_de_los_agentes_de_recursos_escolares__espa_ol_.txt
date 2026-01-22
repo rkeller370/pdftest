@@ -1,0 +1,101 @@
+# MANIFEST
+SOURCE_NAME: Procedimiento de quejas de los agentes de recursos escolares (español)
+SOURCE_URL: https://maine207.org/wp-content/uploads/2021/08/SRO_Uniform_G_spanish.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:58.169Z
+PAGES_EXTRACTED: 3
+
+########################################
+
+[PAGE 1]
+Distrito Escolar 207 de Enseñanza Secundaria de Maine Township Encargado de Recursos Escolares - Procedimiento de Queja Uniforme
+
+### I. PROPÓSITO ###
+
+### ESTE PROCEDIMIENTO BUSCA GARANTIZAR QUE: ###
+
+● Todos los estudiantes, padres/madres/tutores y personal del Distrito Escolar 207 de
+
+Enseñanza Secundaria de Maine Township (MTHS D207) tengan un proceso para presentar quejas en relación a la calidad de servicio y conducta del Encargado de Recursos Escolares (SRO), y que el formulario de queja uniforme y el proceso sea accesible para todos, sin importar raza, etnia, edad, identidad de género, creencias religiosas, orientación sexual o estado de discapacidad.
+
+● El estudiante, padre/madre/tutor y personal que haya presentado una queja está protegido
+
+ante cualquier tipo de represalia.
+
+● El MTHS D207 mantiene procedimientos efectivos y transparentes para informar,
+
+investigar y resolver alegatos de conducta inapropiada.
+
+● El MTHS D207 proporciona un enfoque consistente a la investigación y la resolución de
+
+quejas contra el SRO.
+
+● El MTHS D207 mantiene la integridad a través de un sistema de disciplina interna,
+
+donde se garantizan la objetividad y la justicia mediante investigaciones y revisión imparciales
+
+### II. PROCEDIMIENTOS Y PROCESOS ###
+
+a. Presentar una queja
+
+El Distrito pondrá a disposición información sobre el procedimiento de queja uniforme en cada escuela del Distrito en una ubicación de fácil acceso para estudiantes, padres/madres/tutores y personal. El formulario de quejas y el proceso estará disponible en el sitio web maine207.org y también en el manual del estudiante.
+
+Cualquier estudiante, padre/madre/tutor o personal del MTHS D207 podrá utilizar el procedimiento de queja uniforme para informar sobre un incidente en relación a la conducta del Encargado de Recursos Escolares. Los estudiantes, padres/madres/tutores y personal pueden presentar una queja al SRO al hacer clic en el formulario siguiente: Distrito Escolar 207 de Enseñanza Secundaria de Maine Township | Formulario de Queja Uniforme del Encargado de Recursos Escolares (SRO) Reporte cualquier incidente, y para revisar los hechos a tiempo, incluido el entrevistar a los testigos, la queja se debe presentar lo antes posible.
+
+[PAGE 2]
+Cuando se complete y guarde el formulario, se lo enviará al Superintendente Adjunto de Recursos Humanos, quien liderará la investigación y será punto de contacto para el estudiante/padre/madre/tutor/personal que realice la queja.
+
+b. Tiempos de procesamiento de las quejas Se harán los mejores esfuerzos en
+
+cada caso para ofrecer una respuesta escrita y/o verbal a la queja en menos de 45 días calendario desde la fecha que se hace la queja, a menos que la queja involucre a varios individuos o incidentes en cuyo caso, incluso en el mejor de los esfuerzos, el Distrito no podrá completar la investigación en 45 días calendario.
+
+En dichos casos, el Superintendente Adjunto de Recursos Humanos informará sobre la queja por escrito o por teléfono que se requiere más tiempo.
+
+c. Investigación de la queja y conclusión Al realizar la investigación, los
+
+investigadores pueden comunicarse con cualquier individuo que el denunciante haya incluido en relación a los alegatos; seguimiento por teléfono, en persona y/o por escrito con el denunciante a fin de solicitar información adicional o documentos que pueda ser útil para la investigación.
+
+Ningún encargado involucrado en el incidente pertinente a la queja o que de otro modo tenga un conflicto de intereses tendrá autorización para participar en la investigación de la queja. La gravedad de la queja determinará si el SRO involucrado debe ser apartado de la escuela durante la investigación.
+
+Cuando la investigación haya concluido, se presentará un informe escrito al Superintendente y/o designado que incluya qué acciones, si las hay, tomará el Distrito en respuesta a la queja.
+
+e. Apelación de la queja e informe
+
+Política de la junta 2:260
+
+f. Prohibición contra represalias, intimidación, acoso o amenazas
+
+Política de la junta 7:20
+
+Política de la junta 5:20
+
+### III. QUEJA ANÓNIMA ###
+
+Los estudiantes, padres/madres/tutores y personal tendrán derecho a hacer una queja anónima. Si una queja anónima proporciona un medio de contacto, el Distrito comunicará los resultados de la queja al contacto incluido en la queja anónima. Sin embargo, si el denunciante prefiere
+
+[PAGE 3]
+permanecer anónimo y no proporciona un medio de contacto, el Distrito no comunicará de forma directa los resultados de la queja al denunciante.
+
+V. Informe anual de datos y tendencias
+
+El Superintendente Adjunto de Recursos Humanos será responsable de la preparación del informe anual de datos y tendencias al Superintendente y/o designado. Este resumen incluirá lo
+
+### SIGUIENTE: ###
+
+### 1. TIPO DE QUEJA ###
+
+2. Número de quejas fundamentadas y alegaciones contra el encargado de recursos escolares
+
+3. Quejas fundamentadas por escuela
+
+4. Tendencias de las quejas, si corresponde
+
+5. Tiempo para investigar y resolver/proporcionar resultados sobre la investigación de la
+
+queja
+
+### 6. NÚMERO DE APELACIONES ###
+
+7. Resultados de las apelaciones presentadas
+
+8. Pasos tomados por el Distrito para resolver preocupaciones sistemáticas

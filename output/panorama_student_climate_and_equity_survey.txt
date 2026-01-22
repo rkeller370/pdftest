@@ -1,0 +1,194 @@
+# MANIFEST
+SOURCE_NAME: Panorama Student Climate and Equity Survey
+SOURCE_URL: https://maine207.org/wp-content/uploads/2025/10/Panorama-Student-Climate-and-Equity-Survey.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:58.478Z
+PAGES_EXTRACTED: 4
+
+########################################
+
+[PAGE 1]
+Student School Climate and Equity
+
+For the following questions, we are interested in learning more about how you think about your school. Please give us your honest opinions so that we can better understand your experience and work to make the school a better place.
+
+Your Classes
+
+Please tell us about how you feel about your current teachers and classes.
+
+1. How respectful are your teachers towards you?
+
+Not at all respectful A little respectful Somewhat respectful Very respectful Extremely respectful
+
+2. If you were upset when you came into class, how concerned would your teachers be?
+
+Not at all concerned A little concerned Somewhat concerned Very concerned Extremely concerned
+
+3. When your teachers ask, "How are you?", how often do you feel they really want to know your answer?
+
+Almost never Once in a while Sometimes A lot of the time Almost always
+
+4. How excited would you be if you could have your same teachers in the next grade too?
+
+Not at all excited A little excited Somewhat excited Very excited Extremely excited Feelings About Being at School
+
+In this section, we would like to understand how you feel about your school.
+
+5. How well do people at your school understand the kind of person you are?
+
+Do not understand at all Understand a little Understand somewhat Understand mostly Completely understand
+
+6. How much support do the adults at your school give you?
+
+No support at all A little bit of support Some support A lot of support A huge amount of support
+
+7. How much respect do students at your school show you?
+
+No respect at all A little bit of respect Some respect A lot of respect A huge amount of respect
+
+8. When you are at school, how much do you feel like you belong?
+
+Do not belong at all Belong a little bit Belong somewhat Mostly belong Completely belong Your Teachers
+
+Please tell us about how much your teachers encourage you to do your best.
+
+Page 1
+
+Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+
+### SAMPLE FORM ###
+
+[PAGE 2]
+9. How much do your teachers encourage you to do your best?
+
+Do not encourage me at all
+
+Encourage me a little Encourage me some Encourage me a lot Encourage me a huge amount
+
+10. How often do your teachers ask you to explain your answers?
+
+Almost never Once in a while Sometimes A lot of the time Almost always
+
+11. How often do your teachers take time to make sure you understand your schoolwork?
+
+Almost never Once in a while Sometimes A lot of the time Almost always
+
+12. How high are your teachers' expectations of you?
+
+Not high at all A little high Somewhat high Very high Extremely high
+
+13. When you feel like giving up, how likely is it that your teachers will ask you to keep trying?
+
+Not at all likely A little likely Somewhat likely Very likely Extremely likely Feelings About School
+
+Please let us know what you think about school in general.
+
+14. How often do teachers encourage you to learn about people from different races, ethnicities, or cultures?
+
+Almost never Once in a while Sometimes Frequently Almost always
+
+15. How often do you spend time at school with students from different races, ethnicities, or cultures?
+
+Almost never Once in a while Sometimes Frequently Almost always
+
+16. How often do you have classes with students from different racial, ethnic, or cultural backgrounds?
+
+Almost never Once in a while Sometimes Frequently Almost always
+
+17. At your school, how often do students from different races, ethnicities, or cultures hang out with each other?
+
+Almost never Once in a while Sometimes Frequently Almost always
+
+18. At your school, how common is it for students to have close friends from different racial, ethnic, or cultural
+
+backgrounds?
+
+Not at all common Slightly common Somewhat common Quite common Extremely common Page 2
+
+Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+
+### SAMPLE FORM ###
+
+[PAGE 3]
+19. How fairly do students at your school treat people from different races, ethnicities, or cultures?
+
+Not at all fairly Slightly fairly Somewhat fairly Quite fairly Extremely fairly
+
+20. How fairly do adults at your school treat people from different races, ethnicities, or cultures?
+
+Not at all fairly Slightly fairly Somewhat fairly Quite fairly Extremely fairly
+
+21. How often do you think about what someone of a different race, ethnicity, or culture experiences?
+
+Almost never Once in a while Sometimes Frequently Almost always
+
+22. How confident are you that students at your school can have honest conversations with each other about
+
+race?
+
+Not at all confident Slightly confident Somewhat confident Quite confident Extremely confident
+
+23. At your school, how often are you encouraged to think more deeply about race-related topics?
+
+Almost never Once in a while Sometimes Frequently Almost always
+
+24. How comfortable are you sharing your thoughts about race-related topics with other students at your school?
+
+Not at all comfortable Slightly comfortable Somewhat comfortable Quite comfortable Extremely comfortable
+
+25. How often do students at your school have important conversations about race, even when they might be
+
+uncomfortable?
+
+Almost never Once in a while Sometimes Frequently Almost always
+
+26. When there are major news events related to race, how often do adults at your school talk about them with
+
+students?
+
+Almost never Once in a while Sometimes Frequently Almost always
+
+27. How well does your school help students speak out against racism?
+
+Not at all well Slightly well Somewhat well Quite well Extremely well
+
+28. At your school, how much does the behavior of other students hurt or help your learning?
+
+Hurts my learning a tremendous amount
+
+Hurts my learning some
+
+Hurts my learning a little bit Neither helps nor hurts my learning Helps my learning a little bit Helps my learning some
+
+Helps my learning a tremendous amount
+
+Demographic information Page 3
+
+Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+
+### SAMPLE FORM ###
+
+[PAGE 4]
+We ask students these questions each time we conduct a survey, because we do not store the information anywhere we can access it. Your responses will not be viewed individually, nor shared with your parents/guardians or teachers. School leaders look at patterns of responses in groups only, and use the information as one way to help them understand how students with various identify factors are experiencing our school environment. If fewer than 10 students select a specific choice, we cannot view response patterns by that particular group, in order to protect confidentiality.
+
+### 29. CURRENTLY, I MOST STRONGLY IDENTIFY AS: ###
+
+Female Genderqueer, nonbinary, or fluid (not strictly male or female)
+
+Male Different identity not listed here
+
+Prefer not to answer
+
+### 30. CURRENTLY, I MOST STRONGLY IDENTIFY AS: ###
+
+Cisgender (my gender identity corresponds to the sex I was assigned at birth) Transgender (my gender identity is not the same as the sex I was assigned at birth) or nonbinary/fluid
+
+Different identity not listed here Prefer not to answer
+
+### 31. CURRENTLY, I MOST STRONGLY IDENTIFY AS: ###
+
+Bisexual, gay, or lesbian Heterosexual/straight Different identity not listed here Prefer not to answer Page 4
+
+Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+
+### SAMPLE FORM ###

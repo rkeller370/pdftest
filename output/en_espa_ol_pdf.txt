@@ -1,0 +1,121 @@
+# MANIFEST
+SOURCE_NAME: En español PDF
+SOURCE_URL: https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Spanish.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:58.024Z
+PAGES_EXTRACTED: 3
+
+########################################
+
+[PAGE 1]
+Maine Township High School District 207 1177 South Dee Road . Park Ridge, Illinois 60068-4398 . (847) 696-3600 . FAX (847) 692-8007 Dr. Tatiana Bonuma District 207 Administration Center Superintendent
+
+Nuestra misión es mejorar el aprendizaje Procedimiento uniforme de quejas
+
+Un estudiante, padre/madre/tutor, empleado o miembro de la comunidad debe notificar a cualquier Gerente de Quejas del Distrito si cree que la Junta de Educación, sus empleados o funcionarios han infringido sus derechos garantizados por la Constitución Estatal o Federal, los estatutos Estatales o Federales, o las políticas de la Junta,
+
+### ENTRE ELLOS: ###
+
+1. Título II de la Ley de los Estadounidenses con Discapacidades
+
+### 2. TÍTULO IX DE LAS ENMIENDAS EDUCATIVAS DE 1972 ###
+
+### 3. SECCIÓN 504 DE LA LEY DE REHABILITACIÓN DE 1973 ###
+
+4. Título VI de la Ley de Derechos Civiles, 42 U.S.C. §2000d y siguientes.
+
+5. Acoso sexual (Ley de Derechos Humanos de Illinois, Título VII de la Ley de Derechos Civiles de 1964 y
+
+Título IX de las Enmiendas Educativas de 1972)
+
+6. Ley de Igualdad de Oportunidades en el Empleo (Título VII de la Ley de Derechos Civiles), 42 U.S.C.
+
+§2000e y siguientes.
+
+### 7. INTIMIDACIÓN, 105 ILCS 5/27-23.7 ###
+
+8. Uso indebido de fondos recibidos para servicios destinados a mejorar las oportunidades educativas para
+
+niños con desventajas o privaciones educativas
+
+9. Planes de estudios, materiales didácticos y/o programas
+
+10. Ley de Protección y Seguridad Económica de las Víctimas, 820 ILCS 180
+
+11. Ley de Igualdad Salarial de Illinois de 2003, 820 ILCS 112
+
+### 12. PRESTACIÓN DE SERVICIOS A ESTUDIANTES SIN HOGAR ###
+
+13. Ley de Denunciantes de Illinois, 740 ILCS 174/.
+
+14. Uso indebido de información genética (Ley de Privacidad de la Información Genética de Illinois (GIPA),
+
+410 ILCS 513/ y Títulos I y II de la Ley de No Discriminación de la Información Genética (GINA), 42 U.S.C. §2000ff y siguientes.)
+
+15. Ley de Privacidad del Crédito de los Empleados, 820 ILCS 70/.
+
+El Gerente de Quejas se esforzará por responder y resolver las quejas sin recurrir a este procedimiento de quejas y, si se presenta una queja, la abordará de manera rápida y equitativa. El derecho de una persona a recibir una resolución rápida y equitativa de la queja presentada en virtud del presente no se verá afectado por la búsqueda de otros remedios por parte de la persona y el uso de este procedimiento de quejas no extiende ningún plazo de presentación relacionado con la búsqueda de otros remedios. Todos los plazos bajo este procedimiento pueden ser prorrogados por el Gerente de Quejas según lo considere apropiado. Tal como se usa en esta política, "días hábiles escolares" significa los días en que la oficina principal del Distrito está abierta.
+
+Presentar una queja
+
+Una persona (en lo adelante, el Demandante) que desee acogerse a este procedimiento de quejas puede hacerlo presentando una queja ante un Gerente de Quejas designado. El Demandante no estará obligado a presentar una denuncia ante un Gerente de Quejas en particular y podrá solicitar un Gerente de Quejas del mismo sexo. El Gerente de Quejas puede solicitar al Demandante que complete un Formulario de Queja sobre la naturaleza de la queja o requerir una reunión con los padres/tutores de un estudiante. El Gerente de Quejas le prestará asistencia al Demandante según sea necesario.
+
+[PAGE 2]
+Investigación
+
+El Gerente de Quejas investigará la queja o designará a una persona calificada para que lleve a cabo la investigación en su nombre. Si el Demandante es un estudiante menor de 18 años, el Gerente de Quejas notificará a sus padres/tutores que pueden asistir a cualquier reunión de investigación en la que esté involucrado su hijo/a. La queja como tal y la identidad del Demandante no se divulgarán excepto (1) según lo exija la ley o esta política, o (2) según sea necesario para investigar completamente la queja, o (3) según lo autorice el Demandante. La identidad de los estudiantes testigos no será revelada excepto: (1) según lo requiera la ley o cualquier acuerdo de negociación colectiva, o (2) según sea necesario para investigar completamente la queja, o (3) según lo autorice el padre/tutor del estudiante testigo, o por el mismo estudiante si el estudiante tiene 18 años de edad o más. En el transcurso de 30 días hábiles escolares a partir de la fecha en que se presentó la queja, el Gerente de Quejas deberá presentar un informe escrito de sus hallazgos al Superintendente. El Gerente de Quejas puede solicitar una extensión del tiempo.
+
+Si una queja de acoso sexual contiene acusaciones que involucran al Superintendente, el informe escrito se presentará ante la Junta de Educación, que tomará una decisión con respecto a la resolución de la queja. El Superintendente mantendrá informada a la Junta de todas las quejas.
+
+Decisión y Apelación
+
+En el transcurso de 5 días hábiles escolares posteriores a la recepción del informe del Gerente de Quejas, el Superintendente enviará su decisión por escrito al Demandante por correo postal de los EE. UU. de primera clase, así como al Gerente de Quejas.
+
+En el transcurso de 10 días hábiles escolares después de recibir la decisión del Superintendente, el Demandante puede apelar la decisión ante la Junta presentando una solicitud por escrito al Gerente de Quejas. El Gerente de Quejas enviará de inmediato todos los materiales relacionados con la queja y la apelación a la Junta. En el transcurso de 30 días hábiles escolares, la Junta deberá afirmar, revertir o enmendar la decisión del Superintendente o indicarle al Superintendente que recopile información adicional. En el transcurso de 5 días hábiles escolares de la decisión de la Junta, el Superintendente informará al Demandante de la acción de la Junta. Este procedimiento de quejas no se deberá interpretar como que crea un derecho independiente a una audiencia de la Junta de Educación.
+
+No cumplir estrictamente los plazos en este procedimiento de quejas no deberá causar prejuicio a ninguna de las partes. Este procedimiento uniforme de quejas no se aplica a las quejas que puedan presentarse bajo los procedimientos establecidos por el convenio colectivo.
+
+El Superintendente ha designado a dos Gerentes de Quejas del Distrito para implementar los procedimientos uniformes de quejas del distrito. Todos los padres, estudiantes y empleados tienen derecho a iniciar una queja o queja de discriminación ilegal comunicándose con uno de los siguientes Gerentes de Quejas:
+
+Sr. George Dagres, Superintendente Asistente de Recursos Humanos Gerente de Quejas del Distrito Escolar 207 de Enseñanza Secundaria de Maine Township 1177 S. Dee Road
+
+Park Ridge, IL 60068
+
+### 1-847-692-8056 ###
+
+Sra. Mary Kalou, Superintendente Asistente de Negocios
+
+Gerente de Quejas del Distrito Escolar 207 de Enseñanza Secundaria de Maine Township 1177 S. Dee Road
+
+Park Ridge, IL 60068
+
+### 1-847-692-8025 ###
+
+Los empleados no discriminarán ni tomarán represalias contra ninguna persona porque esa persona se haya opuesto a cualquier acto o práctica que considere discriminatorio por motivos de raza, color, religión, nacionalidad de origen, ascendencia, edad, sexo, orientación sexual, estado civil, discapacidad, o minusvalía, o porque esa persona hizo una acusación, testificó, ayudó o participó de cualquier manera en una investigación de la Oficina de Derechos Civiles o en otra investigación relacionada con la discriminación. Los empleados no coaccionarán, intimidarán, amenazarán ni interferirán con ninguna persona en el ejercicio o disfrute de las protecciones o derechos otorgados por la Sección 504, Título II, Título IV o la Ley de Edad y la política de la Junta de Educación.
+
+[PAGE 3]
+### FORMULARIO UNIFORME DE QUEJAS ###
+
+Los estudiantes, padres/tutores, empleados o miembros de la comunidad deben completar este formulario para presentar una queja si creen que la Junta de Educación, sus empleados o agentes han infringido sus derechos garantizados por la constitución federal o estatal, los estatutos federales o estatales o las políticas de la junta.
+
+Información de contacto del demandante
+
+### NOMBRE DEL DEMANDANTE: ###
+
+Número de teléfono (día) Número de teléfono (tarde)
+
+### DIRECCIÓN: ###
+
+Ciudad, Estado, Código postal:
+
+Indique si usted es estudiante, padre/madre, tutor, empleado o miembro de la comunidad.
+
+Naturaleza de la queja
+
+### FECHA DEL INCIDENTE: ###
+
+Nombres e información de contacto de los testigos:
+
+Describa la naturaleza de su queja:
+
+Firma del demandante (o padres/tutores) Fecha

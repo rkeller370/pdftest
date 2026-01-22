@@ -1,0 +1,231 @@
+# MANIFEST
+SOURCE_NAME: En Espanol
+SOURCE_URL: https://maine207.org/wp-content/uploads/2025/06/final2526spanish.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:57.652Z
+PAGES_EXTRACTED: 5
+
+########################################
+
+[PAGE 1]
+Distrito Escolar 207 de Enseñanza Secundaria de Maine Township COMIDAS A PRECIO REDUCIDO/GRATIS Y EXENCIÓN DE TARIFAS EN 2025-26
+
+### INSTRUCCIONES PARA SOLICITAR ###
+
+Para solicitar el servicio de comidas a precio reducido o gratis y/o la exención de tarifas, complete la solicitud siguiendo estas instrucciones. Firmar la solicitud y devolver a la escuela.
+
+1. INFORMACIÓN DEL SOLICITANTE Todos los hogares completan la sección (1).
+
+A. Escribir el nombre o nombres de todos los estudiantes por lo que usted hace la solicitud.
+
+B. Poner el número de ID de cada estudiante.
+
+C. Número de caso TANF, si corresponde. Poner un número actual de caso TANF o número SNAP para cada
+
+estudiante. Adjunte una copia de la(s) tarjeta(s) TANF/SNAP a la solicitud. No se puede usar el número de la tarjeta Link. Pase a (6). Tenga en cuenta que el Estado de Illinois ya no permite que el Distrito acceda al Sistema de Certificación Directa y todas las familias en SNAP deben completar la solicitud para ser elegibles.
+
+D. Marcar si la solicitud es para un niño(a) adoptado(a). Adjunte una copia del anverso y reverso de la
+
+tarjeta médica del niño(a).
+
+Pase a (5).2. SIN HOGAR, INMIGRANTE, FUGADO DEL HOGAR O HEAD START (Categóricamente elegible)
+
+A. Marque la casilla (si corresponde) del estudiante en la solicitud.
+
+B. Obtenga la firma correspondiente. Vaya a la Sección (5).
+
+### 3. INGRESOS TOTALES DEL HOGAR ###
+
+A. Escriba los nombres de todos los miembros de su hogar, ya sea que reciban ingresos o no. Inclúyase a sí mismo,
+
+a los niños por los que está solicitando, a todos los demás niños, a su cónyuge, abuelos y otras personas relacionadas y no relacionadas que viven en su hogar. Use otra hoja de papel si necesita más espacio. Marque la casilla a la derecha si el miembro no tiene ningún ingreso.
+
+B. Ponga el ingreso total de cada persona y adjunte una copia de la declaración de impuestos más reciente
+
+(2024); el Formulario 1040 del IRS y todos los formularios W-2/1099 de cada miembro del hogar, según corresponda. Si no tiene una declaración de impuestos, pero el miembro del hogar está empleado, por favor indique el motivo de no tener la declaración de impuestos. Su solicitud puede ser denegada si no proporciona una copia de la declaración de impuestos de 2024 y todos los formularios W-2/1099 de cada miembro del hogar empleado.
+
+C. Debe completar un formulario 4506-T de Solicitud de transcripción de declaración de impuestos para cada
+
+miembro del hogar con empleo que no pueda proporcionar una declaración de impuestos. (1) Complete la línea de ID del estudiante en la parte superior de la página. (2) Complete todos los detalles en las Secciones 1 a 4 según corresponda. (3) Firme en la primera línea de firmar (solo se requiere una firma); (4) fecha, (5) número de teléfono.
+
+[PAGE 2]
+### 4. IDENTIDADES RACIALES Y ÉTNICAS DE LOS NIÑOS ###
+
+Responder estas preguntas es opcional. (Opcional)
+
+5. FIRMA Y NÚMERO DE SEGURO SOCIAL Todos los hogares completan esta parte.
+
+A. Todas las solicitudes deben tener la firma de un miembro adulto del hogar.
+
+B. El adulto que firma el formulario también debe incluir los últimos cuatro dígitos de su número de Seguro Social.
+
+C. Si el adulto no tiene un número de Seguro Social, marque la casilla que indica "No tengo un número de Seguro
+
+Social".
+
+D. No se requiere un número de seguro social si hace la solicitud con un número de caso SNAP o TANF o si
+
+hace la solicitud para un hijo(a) adoptivo(a).
+
+E. Si no hay un número de Seguro Social y la casilla que así lo indica no está marcada, la solicitud será
+
+denegada.
+
+Declaración de la Ley de Privacidad: Explica cómo usaremos la información que nos proporciona. La Ley Nacional de Almuerzos Escolares Richard B. Russell requiere la información en esta solicitud. No tiene que proporcionar la información, pero si no lo hace, no podemos aprobar a su hijo(a) para las comidas gratis o de precio reducido. Debe incluir los últimos cuatro dígitos del número de seguro social del miembro adulto del hogar que firma la solicitud. Los últimos cuatro dígitos del número de seguro social no se requieren cuando hace la solicitud en nombre de un niño(a) adoptivo(a) o cuando lista un número de caso del Programa de Asistencia Nutricional Suplementaria (SNAP), Programa de Asistencia Temporal para Familias Necesitadas (TANF) o Programa de Distribución de Alimentos en Reservas Indias (FDPIR) u otro identificador FDPIR para su hijo(a) o cuando usted indica que el miembro adulto del hogar que firma la solicitud no tiene un número de seguro social. Usaremos su información para determinar si su hijo(a) es elegible para recibir comidas gratuitas o de precio reducido, y para la administración y aplicación de los programas de almuerzo y desayuno. PODEMOS compartir su información de elegibilidad con programas de educación, salud y nutrición para ayudarlos a evaluar, financiar o determinar los beneficios de sus programas, con auditores para revisiones de los programas y con funcionarios del orden púbico para ayudarlos a investigar violaciones de las reglas del programa.
+
+De acuerdo con la ley federal de derechos civiles y las normativas y políticas de derechos civiles del Departamento de Agricultura de EE.UU. (USDA), esta institución tiene prohibido discriminar por motivos de raza, color, origen nacional, sexo (incluidas la identidad de género y la orientación sexual), discapacidad, edad o represalias por actividades previas relacionadas con los derechos civiles. La información del programa puede estar disponible en idiomas distintos del inglés.
+
+Las personas con discapacidad que necesiten medios de comunicación alternativos para obtener información sobre el programa (por ejemplo, Braille, letra grande, cinta de audio, lenguaje de signos americano), deben ponerse en contacto con la agencia estatal o local responsable que administra el programa o con el Centro TARGET del USDA en el (202) 720-2600 (voz y TTY) o ponerse en contacto con el USDA a través del Servicio Federal de Retransmisión en el (800) 8778339. Para presentar una denuncia por discriminación en un programa, el denunciante debe rellenar el formulario AD3027, Formulario de denuncia por discriminación en un programa del USDA, que puede obtenerse en línea en: https://www.usda.gov/sites/default/files/documents/USDA-OASCR%20P-Complaintant-Form-0508-0002-508-11-28- 17Fax2Mail.pdf, en cualquier oficina del USDA, llamando al (866) 632-9992, o escribiendo una carta dirigida al USDA. La carta debe contener el nombre, la dirección y el número de teléfono del denunciante, así como una descripción escrita de la supuesta acción discriminatoria lo suficientemente detallada como para informar al Subsecretario de Derechos Civiles (ASCR) sobre la naturaleza y la fecha de una supuesta violación de los derechos civiles. El formulario AD-3027 cumplimentado o la carta deben enviarse al USDA a más tardar el 1. Correo postal: U.S. Department of Agriculture, Office of the Assistant Secretary for Civil Rights, 1400 Independence Avenue, SW Washington D.C. 20250-9410; o 2. Fax (833) 256-1662. 2. Fax (833) 256-1665 o (202) 690-7442. Correo electrónico: program.intake@usda.gov.
+
+[PAGE 3]
+1. ¿NECESITO COMPLETAR UNA SOLICITUD PARA CADA NIÑO(A)? No. Use una Solicitud para todos los
+
+estudiantes en su hogar por distrito. No podemos aprobar una solicitud que esté incompleta, así que asegúrese de llenar toda la información necesaria. Devuelva la solicitud completa a la escuela.
+
+2. LA SOLICITUD DE MI HIJO(A) FUE APROBADA EL AÑO PASADO, ¿NECESITO LLENAR OTRA? Sí, la solicitud
+
+de su hijo(a) solo es válida para ese año escolar. Debe enviar una nueva solicitud incluso si está recibiendo asistencia de SNAP o TANF.
+
+3. RECIBO WIC. ¿PUEDEN MIS HIJOS OBTENER COMIDAS GRATIS? Los niños en hogares que participan en WIC
+
+PODRÍAN ser elegibles para recibir comidas gratis o a precio reducido y una exención de tarifas. Complete la solicitud.
+
+4. ¿PUEDO HACER LA SOLICITUD SI ALGUIEN EN MI HOGAR NO ES CIUDADANO DE LOS ESTADOS UNIDOS?
+
+Sí. Usted o sus hijos no tienen que ser ciudadanos de los EE. UU. para calificar para recibir comidas gratis o a precio reducido y una exención de tarifas.
+
+5. MI FAMILIA NECESITA MÁS AYUDA, ¿HAY OTROS PROGRAMAS QUE PODRÍAMOS SOLICITAR? Para
+
+averiguar cómo solicitar SNAP, TANF u otros beneficios de asistencia, comuníquese con la oficina local del Departamento de Servicios Humanos o llame al (800) 843-6154 (voz) o (800) 447-6404 (TTY).
+
+6. SOY BENEFICIARIO DEL SNAP, PERO NO ENCUENTRO MI CARTA DE NOTIFICACIÓN DE DECISIÓN DEL
+
+SNAP. ¿CÓMO PUEDO OBTENER UNA COPIA DE ESTA CARTA? Usted puede enviar un correo electrónico, llamar, o ir en persona a una Oficina del Departamento de Servicios Humanos de Illinois (IDHS) y solicitar una copia de su carta. A continuación encontrará la información de contacto y las direcciones de varios lugares. Cuando se ponga en contacto con el IDHS, debe solicitar un "Comprobante de recepción de beneficios del programa".
+
+Departamento de Servicios Humanos de IL
+
+Oficina Suburbana Oeste (229), Melrose Park, IL 60160 (708)338-7600
+
+------------------------
+
+Centro de Recursos Comunitarios Familiares del DHS en el Condado de Cook - N. Suburban 3501 W. Algonquin Rd., 4to Piso, Rolling Meadows, IL 60008 (847) 483-7171
+
+------------------------
+
+Estado de Illinois Northern FCRC
+
+8001 Lincoln Ave., 6ª planta, Skokie, IL 60077 (847) 745-3200
+
+### SOLICITUD A CONTINUACIÓN ###
+
+[PAGE 4]
+Distrito Escolar 207 de Enseñanza Secundaria de Maine Township SOLICITUD DE COMIDAS A PRECIO REDUCIDO/GRATIS Y EXENCIÓN DE TARIFAS EN 2025-26
+
+### (1) INFORMACIÓN DEL SOLICITANTE ###
+
+Nombres de todos los niños en la escuela Nombre - Segundo nombre - Apellido ID # del estudiante
+
+Número de caso de Food Stamp o TANF (si tiene, por niño). Si pone un número de caso SNAP o TANF, debe adjuntar una copia actual de la Carta de Elegibilidad de Beneficios (IDHS) con el número de caso incluido, luego, pase a (6)
+
+Marque si el niño(a) es adoptado(a)*
+
+* Debe adjuntar una copia del anverso y reverso de la tarjeta médica del niño(a) adoptado(a).
+
+(2) SIN HOGAR, INMIGRANTE, FUGADO DEL HOGAR O HEAD START (Categóricamente elegible) Sin hogar Inmigrante Fugado Head Start Firma de su Coordinador escolar para personas sin hogar, Fecha Coordinador de inmigrantes o Director de Head Start (3) TOTAL DE INGRESOS BRUTOS DEL HOGAR - antes de las deducciones. Debe decirnos la cantidad y con qué frecuencia la gana.
+
+### NOMBRES ###
+
+### (ENUMERE A TODOS LOS ###
+
+### MIEMBROS DEL HOGAR ###
+
+### CON INGRESOS) ###
+
+INGRESO BRUTO Y LA FRECUENCIA CON QUE SE RECIBIÓ (Ejemplos $100/por mes, $100/dos veces al mes, $100/cada dos semanas, $100/por semana Ingresos del trabajo (antes de las deducciones) Asistencia social, manutención de los hijos, pensión alimenticia Pensiones, jubilación, seguridad social Compensación al trabajador.
+
+Compensación por desempleo, SST, etc. (Todos los demás ingresos) Cantidad ¿Con qué frecuencia?
+
+Cantidad ¿Con qué frecuencia?
+
+Cantidad ¿Con qué frecuencia?
+
+Cantidad ¿Con qué frecuencia?
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Se adjunta una copia del Formulario 1040 del IRS de 2024, todos los 1099 y W-2 para cada miembro del hogar con empleo.
+
+No presenté el Formulario 1040 del IRS porque (4) IDENTIDADES RACIALES Y ÉTNICAS DE LOS NIÑOS (Opcional) Marque una identidad étnica: Marque una o más identidades raciales:
+
+Hispano/Latino Asiático Negro o Afroamericano No Hispano/Latino Blanco Indio Americano o Nativo de Alaska Nativo hawaiano u otras islas del Pacífico (5) FIRMA Y NÚMERO DE SEGURO SOCIAL (El adulto debe firmar) Un miembro adulto del hogar debe firmar la solicitud. El adulto que firma el formulario también debe incluir su número de seguro social o marcar la casilla "No tengo un número de seguro social".
+
+Número de Seguro Social: X X X - X X- no tengo un número de seguro social.
+
+Certifico (doy mi palabra) que toda la información en esta solicitud es verdadera y que se informan todos los ingresos del hogar.
+
+Entiendo que los funcionarios escolares pueden revisar (verificar) la información. Entiendo que, si deliberadamente doy información falsa, mis hijos pueden perder los beneficios y yo podría ser procesado por la ley.
+
+/ /
+
+Fecha Nombre en letra de imprenta del miembro adulto del hogar Firma del miembro adulto del hogar Dirección del miembro adulto del hogar Ciudad Código postal 2 Mai
+
+[PAGE 5]
+Distrito Escolar 207 de Enseñanza Secundaria de Maine Township
+
+### COMIDAS A PRECIO REDUCIDO/GRATIS Y EXENCIÓN DE TARIFAS ###
+
+Pautas de elegibilidad de ingresos en 2025-26 Pautas de elegibilidad de ingresos Vigente desde el 1 de julio de 2025 hasta el 30 de junio de 2026 Comidas gratuitas 130 % de las pautas federales de pobreza
+
+Comidas reducidas 185 % de las pautas federales de pobreza
+
+Tamaño del hogar Anual Mensual Dos veces al mes
+
+Cada dos semanas Semanal Tamaño del hogar Anual Mensual Dos veces al mes
+
+Cada dos semanas Semanal
+
+1 20,345 1,696 848 783 392 1 28,953 2,413 1,207 1,114 557 2 27,495 2,292 1,146 1,058 529 2 39,128 3,261 1,631 1,505 753 3 34,645 2,888 1,444 1,333 667 3 49,303 4,109 2,055 1,897 949 4 41,795 3,483 1,742 1,608 804 4 59,478 4,957 2,479 2,288 1,144 5 48,945 4,079 2,040 1,883 942 5 69,653 5,805 2,903 2,679 1,340 6 56,095 4,675 2,338 2,158 1,079 6 79,828 6,653 3,327 3,071 1,536 7 63,245 5,271 2,636 2,433 1,217 7 90,003 7,501 3,751 3,462 1,731 8 70,395 5,867 2,934 2,708 1,354 8 100,178 8,349 4,175 3,853 1,927 Por cada miembro adicional de la familia, agregue
+
+7,150 596 298 275 138 Por cada miembro adicional de la familia, agregue
+
+10,175 848 424 392 196 La definición de ingresos es: Cualquier dinero ganado antes de cualquier deducción como impuestos sobre la renta, impuestos de seguridad social, primas de seguros, contribuciones caritativas y bonos. Incluye lo
+
+### SIGUIENTE: ###
+
+• Compensación monetaria por servicios incluidos sueldos, salarios, comisiones u honorarios;
+
+• Ingresos netos del trabajo por cuenta propia no agrícola;
+
+• Ingresos netos del trabajo por cuenta propia agrícola;
+
+• Seguridad social;
+
+• Dividendos o intereses sobre ahorros o bonos, o ingresos de propiedades o fideicomisos;
+
+• Ingresos netos de alquiler;
+
+• Asistencia pública o pagos de asistencia social;
+
+• Compensación por desempleo;
+
+• Jubilación de empleados civiles o militares del gobierno, o pensiones o pagos de veteranos;
+
+• Pensiones privadas o anualidades;
+
+• Pensión alimenticia o pagos de manutención de niños;
+
+• Contribuciones regulares de personas que no viven en el hogar;
+
+• Regalías netas;
+
+• Otros ingresos en efectivo: incluyen montos en efectivo recibidos o retirados de cualquier fuente, incluidos
+
+ahorros, inversiones, cuentas de fideicomiso y otros recursos que estarían disponibles para pagar el precio de la comida de un niño.

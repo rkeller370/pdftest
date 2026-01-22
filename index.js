@@ -13,7 +13,9 @@ const INPUT_DIR = "./input_pdfs";
 const OUTPUT_DIR = "./output";
 const CONCURRENCY = Math.max(1, os.cpus().length - 1);
 const MIN_CHARS_PER_PAGE = 50;
+const DATA_JSON = "./pdf.json";
 
+if (!fs.existsSync(INPUT_DIR)) fs.mkdirSync(INPUT_DIR);
 if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR);
 
 class TextStructureAnalyzer {
@@ -38,19 +40,14 @@ class TextStructureAnalyzer {
     let score = 0;
     const words = line.split(/\s+/);
     const isAllCaps = line === line.toUpperCase() && /[A-Z]/.test(line);
-
     if (isAllCaps && words.length <= 8) score += 4;
     if (/^[A-Z0-9][A-Z0-9\s\-\.]+$/.test(line) && line.length < 60) score += 2;
     if (/^(\d+\.|\d+\.\d+|[IVXLCDM]+\.)\s+[A-Z]/.test(line)) score += 3;
     if (line.endsWith(':') && line.length < 50) score += 2;
     if (/^#+\s/.test(line)) score += 5;
-
-    const prevLine = index > 0 ? this.lines[index - 1] : "";
-    const nextLine = index < this.lines.length - 1 ? this.lines[index + 1] : "";
     if (line.length < this.stats.medianLength * 0.7) {
         if (!/[.!?]$/.test(line)) score += 2;
     }
-
     return score >= 4;
   }
 
@@ -115,133 +112,128 @@ function applyArtifactCleanup(text) {
         .replace(/[ \t]+/g, " ");
 }
 
-async function processSinglePDF(file) {
-  const start = Date.now();
-  const pdfPath = path.join(INPUT_DIR, file);
-  const base = path.parse(file).name;
+async function downloadFile(url, targetPath) {
+    const response = await axios({
+        url,
+        method: 'GET',
+        responseType: 'stream'
+    });
+    const writer = fs.createWriteStream(targetPath);
+    response.data.pipe(writer);
+    return new Promise((resolve, reject) => {
+        writer.on('finish', resolve);
+        writer.on('error', reject);
+    });
+}
 
-  try {
-    let pages = await extractPdfParse(pdfPath);
-    let usable = pages.filter(p => p.text.trim().length >= MIN_CHARS_PER_PAGE).length / pages.length > 0.5;
-    let method = "pdf-parse";
+async function processEntry(entry) {
+    const safeName = entry.file_name.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+    const pdfPath = path.join(INPUT_DIR, `${safeName}.pdf`);
+    const outputPath = path.join(OUTPUT_DIR, `${safeName}.txt`);
 
-    if (!usable || ocrOverride) {
-      pages = await extractAzure(pdfPath);
-      method = "azure";
+    if (fs.existsSync(outputPath)) return;
+
+    try {
+        if (!fs.existsSync(pdfPath)) {
+            await downloadFile(entry.pdf_link, pdfPath);
+        }
+
+        let pages = await extractPdfParse(pdfPath);
+        let usable = pages.filter(p => p.text.trim().length >= MIN_CHARS_PER_PAGE).length / pages.length > 0.5;
+        let method = "pdf-parse";
+
+        if (!usable || ocrOverride) {
+            pages = await extractAzure(pdfPath);
+            method = "azure";
+        }
+
+        const processedPages = pages.map(p => ({
+            ...p,
+            text: applyArtifactCleanup(processContent(p.text))
+        })).filter(p => p.text.length > 10);
+        
+        const output = [
+            `# MANIFEST`,
+            `SOURCE_NAME: ${entry.file_name}`,
+            `SOURCE_URL: ${entry.pdf_link}`,
+            `ENGINE: ${method}`,
+            `DATE: ${new Date().toISOString()}`,
+            `PAGES_EXTRACTED: ${processedPages.length}`,
+            `\n${'#'.repeat(40)}\n`,
+            ...processedPages.map(p => `[PAGE ${p.page}]\n${p.text}\n`)
+        ].join('\n');
+
+        fs.writeFileSync(outputPath, output);
+        console.log(`[SUCCESS] ${entry.file_name}`);
+    } catch (err) {
+        if (err.response && err.response.status === 429) {
+            const retryAfter = (parseInt(err.response.headers['retry-after']) || 5) * 1000;
+            await sleep(retryAfter);
+            return processEntry(entry);
+        }
+        console.error(`[FAILURE] ${entry.file_name}: ${err.message}`);
     }
-
-    const processedPages = pages.map(p => ({
-        ...p,
-        text: applyArtifactCleanup(processContent(p.text))
-    })).filter(p => p.text.length > 10);
-    
-    const output = [
-      `# MANIFEST`,
-      `SOURCE: ${file}`,
-      `ENGINE: ${method}`,
-      `DATE: ${new Date().toISOString()}`,
-      `PAGES_EXTRACTED: ${processedPages.length}`,
-      `\n${'#'.repeat(40)}\n`,
-      ...processedPages.map(p => `[PAGE ${p.page}]\n${p.text}\n`)
-    ].join('\n');
-
-    fs.writeFileSync(path.join(OUTPUT_DIR, `${base}.txt`), output);
-    console.log(`[SUCCESS] ${file} | ${method} | ${Date.now() - start}ms`);
-  } catch (err) {
-    console.error(`[FAILURE] ${file} | ${err.message}`);
-    fs.writeFileSync(path.join(OUTPUT_DIR, `${base}.error.log`), err.stack);
-  }
 }
 
 async function extractPdfParse(pdfPath) {
-  const buffer = fs.readFileSync(pdfPath);
-  const parser = new PDFParse({ data: buffer });
-  const result = await parser.getText();
-  if (Array.isArray(result.pages)) {
-    return result.pages.map((p, i) => ({ page: i + 1, text: p.text || "" }));
-  }
-  return result.text.split("\f").map((text, i) => ({ page: i + 1, text }));
-}
-
-async function extractAzureModern(pdfPath) {
-  const file = fs.readFileSync(pdfPath);
-
-  const endpoint = process.env.AZURE_ENDPOINT; // https://maine207pdf.cognitiveservices.azure.com/
-const apiVersion = "2024-02-28-preview";      // valid version
-const model = "prebuilt-layout";
-
-const response = await axios.post(
-  `${endpoint}formrecognizer/documentModels/${model}:analyze?api-version=${apiVersion}`,
-  file,
-  {
-    headers: {
-      "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY,
-      "Content-Type": "application/pdf"
+    const buffer = fs.readFileSync(pdfPath);
+    try {
+        const parser = new PDFParse({ data: buffer });
+        const result = await parser.getText();
+        if (Array.isArray(result.pages)) {
+            return result.pages.map((p, i) => ({ page: i + 1, text: p.text || "" }));
+        }
+        return result.text.split("\f").map((text, i) => ({ page: i + 1, text }));
+    } catch (e) {
+        return [{ page: 1, text: "" }];
     }
-  }
-);
-
-
-  const pollUrl = response.headers["operation-location"];
-  
-  const result = await pollUntilComplete(pollUrl);
-  
-  return result.pages.map(page => ({
-    page: page.pageNumber,
-    text: page.paragraphs
-      ? page.paragraphs.map(p => p.content).join("\n\n")
-      : page.lines.map(l => l.content).join("\n")
-  }));
 }
-
 
 async function extractAzure(pdfPath) {
-  const file = fs.readFileSync(pdfPath);
-  const response = await axios.post(
-    `${process.env.AZURE_ENDPOINT}/formrecognizer/documentModels/prebuilt-layout:analyze?api-version=2023-07-31`,
-    file,
-    {
-      headers: {
-        "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY,
-        "Content-Type": "application/pdf"
-      }
-    }
-  );
+    const file = fs.readFileSync(pdfPath);
+    const response = await axios.post(
+        `${process.env.AZURE_ENDPOINT}/formrecognizer/documentModels/prebuilt-layout:analyze?api-version=2023-07-31`,
+        file,
+        {
+            headers: {
+                "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY,
+                "Content-Type": "application/pdf"
+            }
+        }
+    );
 
-  const pollUrl = response.headers["operation-location"];
-  let result;
-  while (true) {
-    const poll = await axios.get(pollUrl, {
-      headers: { "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY }
-    });
-    if (poll.data.status === "succeeded") {
-      result = poll.data;
-      break;
+    const pollUrl = response.headers["operation-location"];
+    let result;
+    while (true) {
+        const poll = await axios.get(pollUrl, {
+            headers: { "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY }
+        });
+        if (poll.data.status === "succeeded") {
+            result = poll.data;
+            break;
+        }
+        if (poll.data.status === "failed") throw new Error("Azure OCR Failed");
+        await sleep(2000);
     }
-    if (poll.data.status === "failed") throw new Error("Azure OCR Failed");
-    await sleep(2000);
-  }
 
-  return result.analyzeResult.pages.map(page => ({
-    page: page.pageNumber,
-    text: page.lines.map(l => l.content).join("\n")
-  }));
+    return result.analyzeResult.pages.map(page => ({
+        page: page.pageNumber,
+        text: page.lines.map(l => l.content).join("\n")
+    }));
 }
 
-
 async function runQueue(items, limit, worker) {
-  const queue = [...items];
-  const workers = Array.from({ length: limit }, async () => {
-    while (queue.length > 0) {
-      const item = queue.shift();
-      if (item) await worker(item);
-    }
-  });
-  await Promise.all(workers);
+    const queue = [...items];
+    const workers = Array.from({ length: limit }, async () => {
+        while (queue.length > 0) {
+            const item = queue.shift();
+            if (item) await worker(item);
+        }
+    });
+    await Promise.all(workers);
 }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-const pdfFiles = fs.readdirSync(INPUT_DIR).filter(f => /\.pdf$/i.test(f));
-console.log(`INIT: ${pdfFiles.length} files | ${CONCURRENCY} threads`);
-runQueue(pdfFiles, CONCURRENCY, processSinglePDF);
+const data = JSON.parse(fs.readFileSync(DATA_JSON, "utf8"));
+runQueue(data.pdf_links, CONCURRENCY, processEntry);

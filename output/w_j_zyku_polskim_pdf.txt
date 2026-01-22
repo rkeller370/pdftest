@@ -1,0 +1,121 @@
+# MANIFEST
+SOURCE_NAME: W języku polskim PDF
+SOURCE_URL: https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Polish.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:58.154Z
+PAGES_EXTRACTED: 3
+
+########################################
+
+[PAGE 1]
+Maine Township High School District 207
+
+1177 South Dee Road . Park Ridge, Illinois 60068-4398 . (847) 696-3600 . FAX (847) 692-8007 Dr. Tatiana Bonuma District 207 Administration Center Superintendent
+
+Naszą misją jest poprawa uczenia się
+
+Jednolita procedura składania skarg
+
+Uczeń, rodzic/opiekun, pracownik lub członek społeczności powinien powiadomić dowolnego Menedżer ds. skarg w Okręgu, jeśli uważa, że Rada Szkoły, jej pracownicy lub agenci naruszyli jego prawa gwarantowane przez stanową lub federalną konstytucję, stanowy lub federalny statut lub politykę Rady, w tym:
+
+1. Tytuł II Ustawy o Amerykanach z Niepełnosprawnościami
+
+2. Tytuł IX Poprawek Edukacyjnych z 1972 r.
+
+3. Artykuł 504 Ustawy o Rehabilitacji z 1973 r.
+
+4. Tytuł VI Ustawy o Prawach Obywatelskich, 42 U.S.C. §2000d i nast.
+
+5. Molestowanie seksualne (Ustawa o Prawach Człowieka stanu Illinois, Tytuł VII Ustawy o Prawach
+
+Obywatelskich z 1964 r. i Tytuł IX Poprawek Edukacyjnych z 1972 r.)
+
+6. Ustawa o Równych Szansach w Zatrudnieniu (Tytuł VII Ustawy o Prawach Obywatelskich), 42 U.S.C.
+
+§2000e i nast.
+
+### 7. NĘKANIE, 105 ILCS 5/27-23.7 ###
+
+8. Niewłaściwe wykorzystanie środków finansowych otrzymanych na usługi mające na celu poprawę
+
+możliwości edukacyjnych dzieci znajdujących się w niekorzystnej sytuacji edukacyjnej lub w trudnej sytuacji materialnej
+
+9. Program nauczania, materiały instruktażowe i/lub programy
+
+10. Ustawa o Bezpieczeństwie Ekonomicznym Ofiar, 820 ILCS 180
+
+11. Ustawa o Równości Wynagrodzeń stanu Illinois z 2003 r., 820 ILCS 112
+
+12. Świadczenie usług dla bezdomnych uczniów
+
+13. Ustawa o Informowaniu o Nieprawidłowościach stanu Illinois, 740 ILCS 174/.
+
+14. Nadużycie informacji genetycznej (Ustawa o Ochronie Prywatności Informacji Genetycznych stanu
+
+Illinois (GIPA), 410 ILCS 513/ oraz Tytuły I i II Ustawu o Niedyskryminacji w Zakresie Informacji Genetycznych (GINA), 42 U.S.C. §2000ff i nast.)
+
+15. Ustawa o Ochronie Prywatności Kredytowej Pracowników, 820 ILCS 70/.
+
+Menedżer ds. skarg dołoży wszelkich starań, aby odpowiedzieć na skargę i rozwiązać ją bez uciekania się do tej procedury składania skarg, a w przypadku złożenia skargi, szybko i sprawiedliwie rozpatrzy skargę. Prawo osoby do szybkiego i sprawiedliwego rozstrzygnięcia złożonej skargi nie zostanie naruszone przez skorzystanie przez tę osobę z innych środków zaradczych, a skorzystanie z tej procedury składania skarg nie przedłuża żadnego terminu na złożenie skargi związanego z korzystaniem z innych środków zaradczych. Wszystkie terminy w ramach niniejszej procedury mogą zostać przedłużone przez Menedżera ds. skarg, jeśli uzna to za stosowne.
+
+Stosowane w niniejszej polityce określenie „szkolne dni robocze” oznacza dni, w których główne biuro Okręgu jest otwarte.
+
+Składanie reklamacji
+
+Osoba (zwana dalej Skarżącym), która chce skorzystać z tej procedury składania skarg, może to zrobić, składając skargę do wyznaczonego Menedżera ds. skarg. Skarżący nie jest zobowiązany do złożenia skargi do konkretnego Menedżera ds. skarg i może zwrócić się do Menedżera ds. skarg tej samej płci. Menedżer ds. skarg może zwrócić się do skarżącego o wypełnienie formularza skargi dotyczącego charakteru skargi lub zażądać spotkania z rodzicem (rodzicami) / opiekunem (opiekunami) ucznia. Menedżer ds. skarg pomaga Skarżącemu w razie potrzeby.
+
+[PAGE 2]
+Dochodzenie
+
+Menedżer ds. skarg zbada skargę lub wyznaczy wykwalifikowaną osobę do przeprowadzenia dochodzenia w jego imieniu. Jeśli Skarżący jest uczniem poniżej 18 roku życia, Menedżer ds. skarg powiadomi rodzica (rodziców) / opiekuna (opiekunów), że może uczestniczyć we wszelkich spotkaniach dochodzeniowych, w które zaangażowane jest jego dziecko. Skarga i tożsamość Skarżącego nie zostaną ujawnione, z wyjątkiem (1) sytuacji wymaganych przez prawo lub niniejszą politykę, lub (2) niezbędnych do pełnego zbadania skargi lub (3) po upoważnieniu przez Skarżącego. Tożsamość jakichkolwiek świadków będących uczniami nie zostanie ujawniona, z wyjątkiem: (1) zgodnie z wymogami prawa lub jakiegokolwiek układu zbiorowego, lub (2) w razie potrzeby w celu pełnego zbadania skargi, lub (3) zgodnie z upoważnieniem rodzica/opiekuna ucznia lub samego ucznia, jeśli uczeń ma 18 lat lub więcej. W ciągu 30 szkolnych dni roboczych od daty złożenia skargi Menedżer ds. skarg składa pisemne sprawozdanie ze swoich ustaleń do Dyrektora. Menedżer ds. skarg może wnioskować o przedłużenie terminu. Jeżeli skarga o molestowanie seksualne zawiera zarzuty dotyczące Dyrektora, pisemny raport należy złożyć w Kuratorium Oświaty, które podejmie decyzję w sprawie rozstrzygnięcia skargi. Dyrektor będzie na bieżąco informować Kuratorium o wszystkich skargach.
+
+Decyzja i odwołanie
+
+W ciągu 5 dni roboczych szkoły od otrzymania raportu Menedżera ds. skarg, Dyrektor prześle swoją pisemną decyzję do Skarżącego pocztą amerykańską, pierwszą klasą, jak również do Menedżera ds. skarg.
+
+W ciągu 10 szkolnych dni roboczych od otrzymania decyzji Dyrektora, Skarżący może odwołać się od tej decyzji do Kuratorium, składając pisemny wniosek do Menedżera ds. skarg. Menedżer ds. skarg niezwłocznie przekaże wszystkie materiały związane ze skargą i odwołaniem do Kuratorium. W ciągu 30 szkolnych dni roboczych Kuratorium potwierdza, cofa lub zmienia decyzję Dyrektora lub nakazuje Dyrektorowi zebranie dodatkowych informacji. W ciągu 5 szkolnych dni roboczych od podjęcia decyzji przez Kuratorium, Dyrektor poinformuje Skarżącego o działaniu Kuratorium. Niniejsza procedura składania skarg nie może być interpretowana jako stworzenie niezależnego prawa do przesłuchania przez Kuratorium Oświaty. Nieprzestrzeganie terminów określonych w niniejszej procedurze składania skarg nie będzie miało wpływu na żadną ze stron. Ta jednolita procedura składania skarg nie ma zastosowania do skarg, które mogą być wniesione zgodnie z procedurami określonymi w układzie zbiorowym.
+
+Dyrektor wyznaczył dwóch Menedżerów ds. skarg w Okręgu w celu wdrożenia jednolitych dla okręgu procedur składania skarg. Każdy rodzic, uczeń i pracownik ma prawo do złożenia skargi lub zażalenia na niezgodną z prawem dyskryminację, kontaktując się z jednym z następujących Menedżerów ds. skarg:
+
+Pan George Dagres, Zastępca dyrektora ds. zasobów ludzkich Menedżer ds. skarg w Okręgu 207 szkół średnich w powiecie Maine 1177 S. Dee Road
+
+Park Ridge, IL 60068
+
+### 1-847-692-8056 ###
+
+Pani Mary Kalou, Zastępca dyrektora ds. ekonomicznych Menedżer ds. skarg w Okręgu 207 szkół średnich w powiecie Maine 1177 S. Dee Road
+
+Park Ridge, IL 60068
+
+### 1-847-692-8025 ###
+
+Pracownicy nie mogą dyskryminować ani podejmować działań odwetowych wobec żadnej osoby, ponieważ osoba ta sprzeciwiła się jakiemukolwiek działaniu lub praktyce, które uważa za dyskryminujące ze względu na rasę, kolor skóry, religię, pochodzenie, wiek, płeć, orientację seksualną, stan cywilny, upośledzenie lub niepełnosprawność, lub ponieważ osoba ta wniosła oskarżenie, zeznała, pomogła lub uczestniczyła w jakikolwiek sposób w dochodzeniu prowadzonym przez Biuro Praw Obywatelskich lub w innym dochodzeniu związanym z dyskryminacją.
+
+Pracownicy nie będą zmuszać, zastraszać, grozić ani ingerować w żadną osobę w wykonywaniu lub korzystaniu z ochrony lub praw przyznanych na mocy Sekcji 504, Tytułu II, Tytułu IV lub Ustawy o wieku i polityki Kuratorium Oświaty.
+
+[PAGE 3]
+### JEDNOLITY FORMULARZ SKARGI ###
+
+Uczniowie, rodzice/opiekunowie, pracownicy lub członkowie społeczności powinni wypełnić ten formularz w celu złożenia skargi, jeśli uważają, że Kuratorium Oświaty, jego pracownicy lub agenci naruszyli ich prawa gwarantowane przez konstytucję federalną lub stanową, statut federalny lub stanowy lub politykę kuratorium.
+
+Informacje kontaktowe skarżącego Imię i nazwisko skarżącego:
+
+Numer telefonu (w ciągu dnia):
+
+Numer telefonu (wieczorem):
+
+### ADRES: ###
+
+Miasto, stan, kod pocztowy:
+
+Wskaż, czy jesteś uczniem, rodzicem, opiekunem, pracownikiem lub członkiem społeczności.
+
+Charakter skargi
+
+### DATA INCYDENTU: ###
+
+Nazwiska i dane kontaktowe świadków:
+
+Opisz charakter swojej skargi:
+
+Podpis skarżącego (lub rodzica/opiekuna prawnego) Data

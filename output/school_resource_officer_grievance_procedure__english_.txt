@@ -1,0 +1,94 @@
+# MANIFEST
+SOURCE_NAME: School Resource Officer Grievance Procedure (English)
+SOURCE_URL: https://maine207.org/wp-content/uploads/2018/06/School-Resource-Officer-_-Uniform-Grievance-Procedure.pdf
+ENGINE: pdf-parse
+DATE: 2026-01-22T03:11:58.078Z
+PAGES_EXTRACTED: 2
+
+########################################
+
+[PAGE 1]
+Maine Township High School District 207
+
+School Resource Officer - Uniform Grievance Procedure
+
+### I. PURPOSE ###
+
+### THIS PROCEDURE IS INTENDED TO ENSURE THAT: ###
+
+● All students, parents/guardians and staff of Maine Township High School District 207 (MTHS D207)
+
+have a process to submit complaints pertaining to the quality of service and conduct of the School Resource Officer (SRO), and that the uniform grievance form and process is accessible to all, regardless of race, ethnicity, age, gender identity, religious beliefs, sexual orientation, or disability status.
+
+● The student, parent/guardian and staff who has submitted a complaint is protected from any type of
+
+retaliation.
+
+● MTHS D207 maintains effective and transparent procedures for reporting, investigating, and
+
+resolving allegations of misconduct.
+
+● MTHS D207 provides a consistent approach to the investigation and resolution of complaints against
+
+the SRO.
+
+● MTHS D207 maintains integrity through a system of internal discipline, where objectivity and
+
+fairness are assured by impartial investigations and review
+
+### II. PROCEDURES & PROCESS ###
+
+a. Filing a Complaint
+
+The District shall make available information about the uniform grievance procedure in every school in the District in a location that is easily accessible to students, parents/guardians and staff. The complaint form and process will be available on the maine207.org website and as a part of the student handbook.
+
+The uniform grievance procedure shall be used by any student, parent/guardian or staff of the MTHS D207 to report an incident that pertains to the conduct of a School Resource Officer. Students, parents/guardians and staff may file a SRO complaint by clicking on the following form: Maine Township High School District 207 | School Resource Officer (SRO) Uniform Grievance Form Report any incident, and in order for timely review of the facts, including interviewing witnesses, the complaint should be filed as soon as possible. When the form is completed and saved it will be sent to the Assistant Superintendent of Human Resources, who will lead the investigation and will act as the point of contact for the student/parent/guardian/staff making a complaint.
+
+b. Timelines for Handling Complaints Best efforts shall be used in every case to provide a written
+
+and/or verbal response to the complainant within 45 calendar days of the date that the complaint is made, unless the complaint involves multiple individuals or incidents which, even in exercising their best efforts, the District cannot complete the investigation with the 45 calendar day timeline. In such instances, the Assistant Superintendent - Human Resources shall inform the complainant in writing or by phone that additional time is needed.
+
+c. Investigation of the Complaint and Conclusion In conducting its investigation, the investigators
+
+may contact any individuals that the complainant has listed with respect to the allegations; follow-up
+
+[PAGE 2]
+by phone, in-person and/or in writing with the complainant to request any additional information or documents that may be helpful to the investigation.
+
+No officer who was involved in the incident that is the subject of the complaint or who otherwise has a conflict of interest shall be allowed to participate in the investigation of the complaint. The severity of the complaint will determine if the SRO involved needs to be removed from the school during the investigation.
+
+When the investigation has concluded, there will be a written report submitted to the Superintendent and/or designee that includes what actions, if any, will be taken by the District in response to the complaint.
+
+e. Appeal of the Complaint and Report
+
+Board Policy 2:260
+
+f. Prohibition Against Retaliation, Intimidation, Harassment, or Threats
+
+Board Policy 7:20
+
+Board Policy 5:20
+
+### III. ANONYMOUS COMPLAINT ###
+
+Students, parents/guardians and staff shall have a right to make an anonymous complaint. If an anonymous complainant provides a means of contact, the District shall report the results of the complaint to the contact listed on the anonymous complaint. However, if the complainant prefers to remain anonymous and does not provide a means of contact, the District will not directly report the results of the complaint to the complainant.
+
+### V. ANNUAL REPORT OF DATA AND TRENDS ###
+
+The Assistant Superintendent - Human Resources will be responsible for the preparation of the annual report of data and trends to the Superintendent and/or designee. This summary shall include the following:
+
+### 1. TYPE OF COMPLAINT ###
+
+2. Number of founded complaints and allegations against school resource officer
+
+### 3. FOUNDED COMPLAINTS PER SCHOOL SITE ###
+
+### 4. TRENDS IN COMPLAINTS, IF APPLICABLE ###
+
+5. Length of time for investigating and resolving/providing results of the complaint investigation
+
+### 6. NUMBER OF APPEALS ###
+
+### 7. RESULTS OF APPEALS THAT WERE FILED ###
+
+8. Any steps taken by the District to resolve systemic concerns
