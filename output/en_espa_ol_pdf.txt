@@ -1,7 +1,7 @@
 # MANIFEST
 SOURCE: En español PDF
 METHOD: pdf-parse
-STAMP: 2026-01-22T14:11:22.626Z
+STAMP: 2026-01-26T14:03:17.738Z
 
 ==================================================
 

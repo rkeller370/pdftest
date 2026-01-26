@@ -17,6 +17,8 @@ require("dotenv").config();
 
 const INPUT_DIR = "./input_pdfs";
 const OUTPUT_DIR = "./output";
+const NORMAL_DIR = "./"
+const CSV_OUTPUT = path.join(NORMAL_DIR, "file_manifest.csv");
 const CONCURRENCY = Math.max(1, os.cpus().length - 1);
 const MIN_CHARS_PER_PAGE = 50;
 const DATA_JSON = "./pdf.json";
@@ -193,13 +195,13 @@ async function downloadFile(url, targetPath) {
 
 async function processEntry(entry) {
     const safeName = entry.file_name.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+    const fileName = `${safeName}.txt`;
     const pdfPath = path.join(INPUT_DIR, `${safeName}.pdf`);
-    const outputPath = path.join(OUTPUT_DIR, `${safeName}.txt`);
+    const outputPath = path.join(OUTPUT_DIR, fileName);
 
-    // Added existence check to skip already processed files
     if (fs.existsSync(outputPath)) {
-        console.log(`[SKIP] ${entry.file_name} already exists in output.`);
-        return;
+        console.log(`[SKIP] ${entry.file_name} already exists.`);
+        return fileName;
     }
 
     try {
@@ -237,21 +239,43 @@ async function processEntry(entry) {
 
         fs.writeFileSync(outputPath, manifest);
         console.log(`[DONE] ${entry.file_name} via ${method}`);
+        return fileName;
     } catch (err) {
         console.error(`[ERR] ${entry.file_name}: ${err.message}`);
+        return null;
     }
 }
 
 async function run(items, limit, worker) {
     const queue = [...items];
+    const results = [];
     const pool = Array.from({ length: limit }, async () => {
         while (queue.length > 0) {
             const item = queue.shift();
-            if (item) await worker(item);
+            if (item) {
+                const processedFileName = await worker(item);
+                if (processedFileName) results.push(processedFileName);
+            }
         }
     });
     await Promise.all(pool);
+    return results;
 }
 
+// Main Execution logic
 const config = JSON.parse(fs.readFileSync(DATA_JSON, "utf8"));
-run(config.pdf_links, CONCURRENCY, processEntry);
+
+run(config.pdf_links, CONCURRENCY, processEntry).then((processedFiles) => {
+    const GITHUB_BASE = "https://github.com/rkeller370/pdftest/blob/main/output/";
+    
+    // Create CSV content
+    let csvContent = "filename,github_url\n";
+    processedFiles.forEach(file => {
+        const fullUrl = `${GITHUB_BASE}${file}`;
+        csvContent += `${file},${fullUrl}\n`;
+    });
+
+    fs.writeFileSync(CSV_OUTPUT, csvContent);
+    console.log(`\n--- Processing Complete ---`);
+    console.log(`CSV Manifest created at: ${CSV_OUTPUT}`);
+});

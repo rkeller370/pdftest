@@ -1,7 +1,7 @@
 # MANIFEST
 SOURCE: Responding to Acts of Hate, Racism, and Discrimination
 METHOD: pdf-parse
-STAMP: 2026-01-22T14:11:22.213Z
+STAMP: 2026-01-26T14:03:17.306Z
 
 ==================================================
 
