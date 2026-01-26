@@ -1,0 +1,4558 @@
+# MANIFEST
+SOURCE: Legal Budget 2025-2026
+METHOD: azure-fallback
+STAMP: 2026-01-26T14:13:11.046Z
+
+==================================================
+
+[PAGE 1]
+District Type: x
+
+School District Joint Agreement Accounting Basis:
+
+### CASH ###
+
+x
+
+### ACCRUAL ###
+
+Is this an amended budget?
+
+### ILLINOIS STATE BOARD OF EDUCATION ###
+
+School Business Services Division
+
+### SCHOOL DISTRICT/JOINT AGREEMENT BUDGET FORM * ###
+
+July 1, 2025 - June 30, 2026 Balanced budget; no Deficit Reduction Plan is required.
+
+Date of Amended Budget:
+
+District Name:
+
+Maine Township HSD 207 District RCDT No:
+
+### (MM/DD/Y) ###
+
+If your FY2025 AFR states that you need to do a deficit reduction plan and your FY2026 budget is balanced, please state the measures you took to have your budget become balanced. (Bckgrnd-Assumpt 25-26)
+
+### BUDGET OF ###
+
+Maine Township HSD 207
+
+### , COUNTY OF ###
+
+### COOK ###
+
+State of Illinois, for the Fiscal Year beginning
+
+### JULY 1, 2025 ###
+
+### AND ENDING ###
+
+### JUNE 30, 2026 ###
+
+WHEREAS the Board of Education of Maine Township HSD 207
+
+### COUNTY OF ###
+
+### COOK ###
+
+, State of Illinois, caused to be prepared in tentative form a budget, and the Secretary of this Board has made the same conveniently available to public inspection for at least thirty days prior to final action thereon;
+
+AND WHEREAS a public hearing was held as to such budget on the
+
+### 4TH ###
+
+### DAY OF ###
+
+### AUGUST ###
+
+- notice of said hearing was given at least thirty days prior thereto as required by law, and all other legal requirements have been complied with;
+
+NOW, THEREFORE, Be it resolved by the Board of Education of said district as follows:
+
+Section 1: That the fiscal year of this school district be and the same hereby is fixed and declared to be
+
+### BEGINNING ###
+
+### JULY 1, 2025 ###
+
+### AND ENDING ###
+
+### JUNE 30, 2026 ###
+
+Section 2: That the following budget containing an estimate of amounts available in each Fund, separately, and expenditures from each be and the same is hereby adopted as the budget of this school district for said fiscal year.
+
+### ADOPTION OF BUDGET ###
+
+The budget shall be approved and signed below by members of the School Board. Adopted this by a roll call vote of
+
+### YEAS, AND ###
+
+### NAYS, TO WIT: ###
+
+### 2ND ###
+
+### DAY OF ###
+
+### SEPTEMBER ###
+
+### ,20 2025 ###
+
+**
+
+### ** MEMBERS VOTING NAY: ###
+
+### DANA FAIR ###
+
+Theite Youj . abrams
+
+* Based on the 23 Illinois Administrative Code-Part 100 and inconformity with Section 17-1 of the School Code.
+
+** Type in the members who voted "YEA" nor "NAY". Actual school board member signatures are not required for electronic submission.
+
+(1) A certified copy of this document must be filed with the county clerk within 30 days of adoption as required by Section 18-50 of the Property Tax Code (35 ILCS 200/18-50).
+
+(2) Districts are required to submit the adopted/amended budget electronically to ISBE within 30 days of adoption or by October 30, whichever comes first. Budgets are submitted through IWAS: https://apps.isbe.net/iwas/asp/login.asp?is=true Please type the member signatures before submitting to ISBE. We do not accept PDF copies.
+
+### SD50-36/JA50-39 5/24 ###
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 2]
+Budget Summary
+
+### PAGE 2 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Begin entering data on EstRev 5-11 and EstExp 12-20 tabs.
+
+### ACCT ###
+
+#
+
+### (10) ###
+
+Educational
+
+### (20) ###
+
+Operations & Maintenance
+
+### (30) ###
+
+Debt Service
+
+### (40) ###
+
+Transportation
+
+### (50] ###
+
+Municipal Retirement/ Social Security
+
+### (60) ###
+
+Capital Projects
+
+### (70) ###
+
+Working Cash
+
+### (80) ###
+
+### (90) ###
+
+Fire Prevention &
+
+### SAFETY ###
+
+Description: Enter Whole Numbers Only
+
+### TORT ###
+
+ESTIMATED BEGINNING FUND BALANCE (without Student Activity Funds)1 as of July 1, 2025 140,207,300 38,793,810 7,489,050 5,432,870 9,255,150 29,634,860 276,250 943,300 3,898,450 RECEIPTS/REVENUES (without Student Activity Funds)
+
+### LOCAL SOURCES ###
+
+126,154,240 25,429,300 13,250,600 3,415,800 3,897,940 6,415,000 2,309,400 2,565,330
+
+### FLOW-THROUGH RECEIPTS/REVENUES FROM ONE DISTRICT TO ###
+
+### ANOTHER DISTRICT ###
+
+### STATE SOURCES ###
+
+7,076,230 --
+
+1,501,200
+
+### FEDERAL SOURCES ###
+
+-
+
+-
+
+### 1 4000 ###
+
+5,607,785 D
+
+Total Direct Receipts/Revenues 1 138,848,255 25,429,300 | 13,250,600 4,917,000 3,897,940 6,415,000 2,309,400 2,565,330 | Receipts/Revenues for "On Behalf" Payments 40,600,000 -
+
+### ------ ###
+
+Total Receipts/Revenues 179,448,255 25,429,300 13,250,600 4,917,000 3,897,940 6,415,000 D
+
+2,309,400 2,565,330 DISBURSEMENTS/EXPENDITURES (without Student Activity Funds) --
+
+### INSTRUCTION ###
+
+-
+
+97,916,552 1,937,880
+
+### SUPPORT SERVICES ###
+
+### 1 2000 ###
+
+33,213,271 21,364,311 4,144,730 2,002,610 3,537,710 1,990,600 2,431,700 ;
+
+### COMMUNITY SERVICES ###
+
+--
+
+887,365
+
+### 19,640 ###
+
+### PAYMENTS TO OTHER DISTRICTS & GOVT UNITS ###
+
+1,892,765 D
+
+D
+
+### DEBT SERVICES ###
+
+12,798,520 D
+
+### PROVISION FOR CONTINGENCIES ###
+
+-
+
+0}
+
+Total Direct Disbursements/Expenditures 133,909,953 21,364,311 12,798,520 4,144,730 3,960,130 3,537,710 1,990,600 2,431,700 ₺ Disbursements/Expenditures for "On Behalf" Payments" 40,600,000 D
+
+### 0 1 ###
+
+Total Disbursements/Expenditures 174,509,953 21,364,311 12,798,520 4,144,730 3,960,130 3,537,710 1,990,600 2,431,700 Excess of Direct Receipts/Revenues Over (Under) Direct Disbursements/Expenditures 4,938,302 4,064,989 452,080 772,270 (62,190) 2,877,290 , 318,800 133,630
+
+### OTHER SOURCES/USES OF FUNDS ###
+
+### OTHER SOURCES OF FUNDS (7000) ###
+
+### PERMANENT TRANSFER FROM VARIOUS FUNDS ###
+
+Abolishment the Working Cash Fund 16 Abatement of the Working Cash Fund 16 Transfer of Working Cash Fund Interest Transfer Among Funds Transfer of Interest Transfer from Capital Projects Fund to O&M Fund Transfer of Excess Fire Prev & Safety Tax & Interest " Proceeds to O&M Fund Transfer of Excess Accumulated Fire Prev & Safety Bond and Int "" Proceeds to Debt Service Fund
+
+### SALE OF BONDS (7200) ###
+
+Principal on Bonds Sold Premium on Bonds Sold Accrued Interest on Bonds Sold Sale or Compensation for Fixed Assets Transfer to Debt Service to Pay Principal on Leases Transfer to Debt Service to Pay Interest on Leases Transfer to Debt Service Fund to Pay Principal on Revenue Bonds Transfer to Debt Service Fund to Pay Interest on Revenue Bonds 0 !
+
+Transfer to Capital Projects Fund ISBE Loan Proceeds -
+
+Other Sources Not Classified Elsewhere Total Other Sources of Funds D
+
+-
+
+L
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 3]
+
+### BUDGET SUMMARY ###
+
+### PAGE 3 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Begin entering duta on EstRev 6-11 and EstExp 12-20 tabs.
+
+### ACCT ###
+
+#
+
+### (10) ###
+
+### EDUCATIONAL ###
+
+### (20) ###
+
+### OPERATIONS & ###
+
+### MAINTENANCE ###
+
+### (30) ###
+
+### DEBT SERVICE ###
+
+### (40) ###
+
+### TRANSPORTATION ###
+
+### (50) ###
+
+### MUNICIPAL ###
+
+### | RETIREMENT/ SOCIAL ###
+
+### SECURITY ###
+
+### (60) ###
+
+### CAPITAL PROJECTS ###
+
+### (70) ###
+
+### WORKING CASH ###
+
+### (80) ###
+
+### TORT ###
+
+### (90) ###
+
+### FIRE PREVENTION & ###
+
+### SAFETY ###
+
+Description: Enter Whole Numbers Only
+
+### OTHER USES OF FUNDS (8000) ###
+
+### TRANSFER TO VARIOUS OTHER FUNDS (8100) ###
+
+Abolishment or Abatement of the Working Cash Fund 15 Transfer of Working Cash Fund Interest
+
+### TRANSFER AMONG FUNDS ###
+
+### TRANSFER OF INTEREST5 ###
+
+Transfer from Capital Projects Fund to O&M Fund Transfer of Excess Fire Prev & Safety Tax & Interest " Proceeds to O&M Fund Transfer of Excess Accumulated Fire Prev & Safety Bond 3ª
+
+### AND ###
+
+Int Proceeds to Debt Service Fund Taxes Pledged to Pay Principal on Leases Grants/Reimbursements Pledged to Pay Principal on Leases
+
+### B420 ###
+
+Other Revenues Pledged to Pay Principal on Leases Fund Balance Transfers Pledged to Pay Principal on Leases . ..
+
+Taxes Pledged to Pay Interest on Leases Grants/Reimbursements Pledged to Pay Interest on Leases --.
+
+Other Revenues Pledged to Pay Interest on Leases Fund Balance Transfers Pledged to Pay Interest on Leases Taxes Pledged to Pay Principal on Revenue Bonds Grants/Reimbursements Pledged to Pay Principal on Revenue Bonds Other Revenues Pledged to Pay Principal on Revenue Bonds Fund Balance Transfers Pledged to Pay Principal on Revenue Bonds Taxes Pledged to Pay Interest on Revenus Bonds Grants/Reimbursements Pledged to Pay Interest on Revenue Bonds Other Revenues Pledged to Pay Interest on Revenue Bonds Fund Balance Transfers Pledged to Pay Interest on Revenue Bonds Taxes Transferred to Pay for Capital Projects Grants/Reimbursements Pledged to Pay for Capital Projects Other Revenues Pledged to Pay for Capital Projects Fund Balance Transfers Pledged to Pay for Capital Projects Transfer to Debt Service Fund to Pay Principal on ISBE Loans Other Uses Not Classified Elsewhere Total Other Uses of Funds 9 O
+
+### 0 1 ###
+
+### OTO ###
+
+Total Other Sources/Uses of Fund O
+
+ESTIMATED ENDING FUND BALANCE (without Student Activity Funds) as of June
+
+### 30, 2026 ###
+
+### 145,145,602 ###
+
+### 42,858,799 ###
+
+### 7,941,130 ###
+
+### 6,205,140 ###
+
+### 9,192,960 ###
+
+### 32,512,150 ###
+
+### 276,250 ###
+
+### 1,262,100 ###
+
+### 4,032,080 ###
+
+Student Activity (Fund 11) ESTIMATED BEGINNING FUND BALANCE as of
+
+### JULY 1, 2025 ###
+
+### 2,095,000 ###
+
+RECEIPTS/REVENUES (For Student Activity Funds) Total Student Activity Direct Receipts/Revenues (Local Sources)
+
+### 2,100,000 ###
+
+DISBURSEMENTS/EXPENDITURES (For Student Activity Funds) Total Student Activity Direct Disbursements/Expenditures
+
+### 2,100,000 ###
+
+Excess of Direct Receipts/Revenues Over (Under) Direct Disbursements/Expenditures -
+
+Student Activity ESTIMATED ENDING FUND BALANCE as of June 30, 2026
+
+### 2,095,000 ###
+
+L
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 4]
+Budget Summary Page 4 A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+-
+
+J
+
+K
+
+Begin entering data on EstRev 6-11 and EstExp 12-20 tabs.
+
+### ACCT ###
+
+#
+
+### (10) ###
+
+### (20) ###
+
+### (30) ###
+
+### (40) ###
+
+### (50) ###
+
+### (60) ###
+
+### (70] ###
+
+Working Cash
+
+### (80} ###
+
+### TORT ###
+
+### (90) ###
+
+Fire Prevention & Safety Description: Enter Whole Numbers Only Educational Operations & Maintenance Debt Service Transportation Municipal Retirement/ Social Security Capital Projects Total ESTIMATED BEGINNING FUND BALANCE {All Sources Including Student Activity Funds) as of July 1, 2025 142,302,300 38,793,810 7,489,050 5,432,870 9,255,150 29,634,860 276,250 943,300 3,898,450 RECEIPTS/REVENUES (All Sources with Student Activity Funds)
+
+### LOCAL SOURCES ###
+
+1 1000 128,264,240 25,429,300 13,250,600 3,415,800 3,897,940 6,415,000 2,309,400 2,565,330
+
+### 94 ANOTHER DISTRICT ###
+
+### FLOW-THROUGH RECEIPTS/REVENUES FROM ONE DISTRICT TO ###
+
+D
+
+### STATE SOURCES ###
+
+7,076,230 1,501,200
+
+### 0 1 ###
+
+-
+
+### FEDERAL SOURCES ###
+
+$ 4000 5,607,785 Total Direct Receipts/Revenues 140,948,255 25,429,300 13,250,600 4,917,000 3,897,940 6,415,000 2,309,400 2,565,330 Receipts/Revenues for "On Behalf" Payments" 40,600,000 D
+
+Total Receipts/Revenues 181,548,255 25,429,300 13,250,600 4,917,000 3,897,940 6,415,000 2,309,400 2,565,330 100 DISBURSEMENTS/EXPENDITURES (All Sources with Student Activity Funds)
+
+### 101 INSTRUCTION ###
+
+100,016,552 1,937,880 D
+
+### 102 SUPPORT SERVICES ###
+
+33,213,271 21,364,311 4,144,730 2,002,610 3,537,710 1,990,600 2,431,700
+
+### 103 COMMUNITY SERVICES ###
+
+-
+
+887,365 .
+
+19,640
+
+### 104 PAYMENTS TO OTHER DISTRICTS & GOVT UNITS ###
+
+1,892,765 -
+
+### 0 1 ###
+
+### 105 DEBT SERVICES ###
+
+12,798,520
+
+### 106 PROVISION FOR CONTINGENCIES ###
+
+Total Direct Disbursements/Expenditures 136,009,953 21,364,311 12,798,520 4,144,730 3,960,130 3,537,710 1,990,600 2,431,700 Disbursements/Expenditures for "On Behalf" Payments 40,600,000 -
+
+Total Disbursements/Expenditures 176,609,953 21,364,311 | 12,798,520 4,144,730 3,960,130 3,537,710 1,990,600 !
+
+2,431,700 Excess of Direct Receipts/Revenues Over (Under) Direct Disbursements/Expenditures 4,938,302 4,064,989 452,080 772,270 (62,190) 2,877,290 318,800 133,630
+
+### 111 OTHER SOURCES/USES OF FUNDS ###
+
+### 112 OTHER SOURCES OF FUNDS (7000) ###
+
+Total Other Sources of Funds
+
+### 114 OTHER USES OF FUNDS (8000) ###
+
+Total Other Uses of Funds 0 !
+
+D
+
+### 0 1 ###
+
+Total Other Sources/Uses of Fund D
+
+-
+
+-
+
+118 of June 30, 2026 ESTIMATED ENDING FUND BALANCE (All Sources with Student Activity Funds) as 147.240.602 42,858,799 7,941,130 6,205,140 9,192,960 32,512,150 276,250 1.262,100 4,032.080 L
+
+SUMMARY OF EXPENDITURES Without Student Activity Funds (by Major Object) Description
+
+### ACCT ###
+
+#
+
+### (10} ###
+
+Educational
+
+### (20) ###
+
+Operations & Maintenance
+
+### (30) ###
+
+Debt Service
+
+### 40) ###
+
+Transportation
+
+### (50) ###
+
+Municipal Retirement/ Social Security
+
+### (60) ###
+
+Capital Projects
+
+### (70) ###
+
+Working Cash
+
+### (80) ###
+
+### TORT ###
+
+### [90) ###
+
+Fire Prevention & Safety Total By Object 123 Object Name Salaries 98,222,567 8,868,026 Û
+
+107,090,593 Employee Benefits 16,186,615 2,123,100 3,960,130 -
+
+770,000
+
+### 0 1 ###
+
+23,039,845 Purchased Services 4,704,650 2,611,810 -
+
+3,593,000 1,220,600 a
+
+12,130,060 Supplies & Materials 7,159,699 3,307,500 354,000 O
+
+-
+
+10,821,199 Capital Outlay 510,925 4,435,875 197,730 3,537,710 D
+
+2,431,700 11,113,940 Other Objects 7,072,997 18,000 12,798,520
+
+### -1R ###
+
+19,889,517 Non-Capitalized Equipment 52,500 D
+
+52,500 Termination Benefits D
+
+Total Expenditures 133,909,953 21,364,311 12,798,520 4,144,730 3,960 130 3,537,710 1 990 600 2,431 700 184,137,654 S:ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 5]
+Summary of Cash Transactions Page 5 A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only Acct #
+
+### {10) ###
+
+Educational
+
+### (20) ###
+
+Operations & Maintenance
+
+### (30) ###
+
+Debt Service
+
+### (40) ###
+
+Transportation
+
+### (50) ###
+
+Municipal Retirement/ Social Security
+
+### (60) ###
+
+Capital Projects
+
+### (70} ###
+
+Working Cash
+
+### (80) ###
+
+### TORT ###
+
+### (90) ###
+
+Fire Prevention & Safety BEGINNING CASH BALANCE ON HAND (without Student Activity Funds)7 as of July 1, 2025 141,423,940 37,954,140 6,810,000 5,268,730 9,199,800 29,353,940 302,250 1,237,060 3,766,550 Total Direct Receipts & Other Sources 138,848,255 25,429,300 13,250,600 4,917,000 3,897,940 6,415,000 2,309,400 2,565,330
+
+### ÖTHER RECEIPTS ###
+
+Interfund Loans Payable (Loans from Other Funds) Interfund Loans Receivable (Repayment of Loans) Notes and Warrants Payable Other Current Assets Total Other Receipts 0 .
+
+Total Direct Receipts, Other Sources, & Other Receipts 138,848,255 25,429,300 13,250,600 4,917,000 3,897,940 6,415,000 2,309,400 2,565,330 Total Amount Available 280,272,195 63,383,440 20,060,600 10,185,730 13,097,740 35,768,940 302,250 3,546,460 6,331,880 Total Direct Disbursements & Other Uses 133,909,953 21,364,311 12,798,520 4,144,730 } 3,960,130 3,537,710 --
+
+Đ
+
+1,990,600 | 2,431,700
+
+### OTHER DISBURSEMENTS ###
+
+Interfund Loans Receivable (Loans to Other Funds) 1 Interfund Loans Payable (Repayment of Loans) Notes and Warrants Payable Other Current Liabilities Total Other Disbursements D
+
+### 0 1 ###
+
+Total Direct Disbursements, Other Uses, & Other Disbursements 133,909,953 21,364,311 12,798,520 4,144,730 3,960,130 3,537,710 j 1,990,600 2,431,700 ENDING CASH BALANCE ON HAND (without Student Activity Funds) as of June 30, 2026 146,362,242 42,019,129 7,262,080 6,041,000 9,137,610 32,231,230 302,250 1,5$5,860 3,900,180 Activity Funds BEGINNING CASH BALANCE ON HAND7 as of July 1, 2025 2,095,000 Total Direct Receipts & Other Sources 8 2,100,000 Total Amount Avallable 4,195,000 Total Direct Disbursements & Other Uses 2,100,000 Activity funds ENDING CASH BALANCE ON HAND7 as of June 30, 2026 2,095,000 Total BEGINNING CASH BALANCE ON HAND (with Student Activity Funds)7 as of July 1, 2025 143,518,940 37,954,140 6,810,000 5,268,730 9,199,800 29,353,940 302,250 1,237,060 3,766,550 Total Direct Receipts & Other Sources 140,948,255 25,429,300 13,250,600 4,917,000 3,897,940 6,415,000 2,309,400 2,565,330 Total Other Receipts
+
+### --- ###
+
+Total Direct Receipts, Other Sources, & Other Receipts 140,948,255 25,429,300 13,250,600 4,917,000 3,897,940 6,415,000 2,309,400 2,565,330 Total Amount Available 284,467,195 63,383,440 20,060,600 10,185,730 13,097,740 35,768,940 302,250 3,546,460 6,331,880 Total Direct Disbursements & Other Uses 136,009,953 21,364,311 12,798,520 -
+
+4,144,730 .
+
+3,960,130 3,537,710 1,990,600 2,431,700 Total Other Disbursements
+
+### 0 | ###
+
+Total Direct Disbursements, Other Uses, & Other Disbursements 136,009,953 21,364,311 12,798,520 4,144,730 3,960,130 3,537,710 1,990,600 2,431,700 Total ENDING CASH BALANCE ON HAND (with Student Activity Funds)7 as of June 30, 2026 148,457,242 42,019,129 7,262,080 6,041,000 9,137,610 32,231,230 302,250 1,555,860 3,900,180 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 6]
+Estimated Receipts/Revenues
+
+### PAGE 6 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+### ACCT ###
+
+#
+
+### (10) ###
+
+### EDUCATIONAL ###
+
+### (20) ###
+
+### OPERATIONS & ###
+
+### (30) ###
+
+### DEBT SERVICE ###
+
+### (40) ###
+
+### TRANSPORTATION ###
+
+### (50) ###
+
+### MUNICIPAL ###
+
+### RETIREMENT/ SOCIAL ###
+
+### SECURITY ###
+
+### (60) ###
+
+### CAPITAL PROJECTS ###
+
+### (70) ###
+
+### WORKING CASH ###
+
+### (80) ###
+
+### TORT ###
+
+### (90) ###
+
+### FIRE PREVENTION & ###
+
+### SAFETY ###
+
+Description: Enter Whole Numbers Only
+
+### MAINTENANCE ###
+
+### RECEIPTS/REVENUES FROM LOCAL SOURCES (1000) ###
+
+-
+
+### AD VALOREM TAXES LEVIED BY LOCAL EDUCATION AGENCY ###
+
+-
+
+Designated Purposes Levies 11 (1110-1120) -
+
+### 115,682,090 ###
+
+### 24,204,300 ###
+
+### 12,950,600 ###
+
+### 3,255,800 ###
+
+### 870,210 ###
+
+### 2,284,400 ###
+
+### 2,505,330 ###
+
+Leasing Purposes Levy 12 Special Education Purposes Levy
+
+### 1,799,850 ###
+
+FICA and Medicare Only Levies
+
+### 2,347,730 ###
+
+Area Vocational Construction Purposes Levy Summer School Purposes Levy Other Tax Levies (Describe & Itemize) Total Ad Valorem Taxes Levled by District
+
+### 117,481,940 ###
+
+### 24,204,300 ###
+
+### 12,950,600 ###
+
+### 3,255,800 ###
+
+### 3,217,940 ###
+
+### 2,284,400 ###
+
+### 2,505,330 ###
+
+### PAYMENTS IN LIEU OF TAXES ###
+
+Mobile Home Privilege Tax Payments from Local Housing Authority Corporate Personal Property Replacement Taxes13
+
+### 360,000 ###
+
+### 5,640,000 ###
+
+Other Payments in Lieu of Taxes (Describe & Itemize) Total Payments In Lieu of Taxes
+
+### 360,000 ###
+
+### 5,640,000 ###
+
+### TUITION ###
+
+Regular Tuition from Pupils or Parents (In State) Regular Tuition from Other Districts (In State) Regular Tuition from Other Sources (In State) Regular Tuition from Other Sources (Out of State) Summer School Tuition from Pupils or Parents (In State)
+
+### 675,000 ###
+
+Summer School Tuition from Other Districts (In State) Summer School Tuition from Other Sources (In State) Summer School Tuition from Other Sources (Out of State) CTE Tuition from Pupils or Parents (In State) CTE Tuition from Other Districts (In State) CTE Tuition from Other Sources (In State) CTE Tuition from Other Sources (Out of State) Special Education Tuition from Pupils or Parents (In State) Special Education Tuition from Other Districts (In State) Special Education Tuition from Other Sources (In State) Special Education Tuition from Other Sources (Out of State) Adult Tultion from Pupils or Parents (In State) Adult Tuition from Other Districts (In State) Adult Tuition from Other Sources (In State) Adult Tultion from Other Sources (Out of State)
+
+### TOTAL TUITION ###
+
+### 675,000 ###
+
+### TRANSPORTATION FEES ###
+
+Regular Transportation Fees from Pupils or Parents (In State) Regular Transportation Fees from Other Districts (In State) Regular Transportation Fees from Other Sources (In State) Regular Transportation Fees from Co-curricular Activities (In State) Regular Transportation Fees from Other Sources (Out of State) Summer School Transportation Fees from Pupils or Parents (In State) Summer School Transportation Fees from Other Districts (In State) Summer School Transportation Fees from Other Sources (In State) Summer School Transportation Fees from Other Sources (Out of State) CTE Transportation Fees from Pupils or Parents (In State) CTE Transportation Fees from Other Districts (In State) CTE Transportation Fees from Other Sources (In State) CTE Transportation Fees from Other Sources (Out of State) -
+
+Special Education Transportation Fees from Pupils or Parents (In State) Special Education Transportation Fees from Other Districts (In State) S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 7]
+Estimated Receipts/Revenues
+
+### PAGE 7 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only
+
+### ACCT ###
+
+#
+
+### (10) ###
+
+Educational
+
+### (20) ###
+
+Operations & Maintenance
+
+### (30) ###
+
+Debt Service
+
+### (40) ###
+
+Transportation
+
+### (50) ###
+
+### MUNICIPAL ###
+
+Retirement/ Social
+
+### SECURITY ###
+
+### (60) ###
+
+Capital Projects
+
+### (70) ###
+
+Working Cash
+
+### (80) ###
+
+### TORT ###
+
+### (90) ###
+
+Fire Prevention &
+
+### SAFETY ###
+
+Special Education Transportation Fees from Other Sources [In State] Special Education Transportation Fees from Other Sources [Out of State] Adult Transportation Fees from Pupils or Parents (In State) Adult Transportation Fees from Other Districts (in State) Adult Transportation Fees from Other Sources (In State) Adult Transportation Fees from Other Sources (Out of State) Total Transportation Fees -
+
+### EARNINGS ON INVESTMENTS ###
+
+Interest on Investments
+
+### 6,000,000 ###
+
+### 1,200,000 ###
+
+### 300,000 ###
+
+### 160,000 ###
+
+### 320,000 ###
+
+### 775,000 ###
+
+-
+
+### 25,000 ###
+
+### 60,000 ###
+
+Gain or Loss on Sale of Investments Unrealized Gain or Loss on Investments Total Earnings on Investments
+
+### 6,000,000 ###
+
+### 1,200,000 ###
+
+### 300,000 ###
+
+### 160,000 ###
+
+### 320,000 ###
+
+### 775,000 ###
+
+-
+
+### 25,000 ###
+
+### 60,000 ###
+
+### FOOD SERVICE ###
+
+Sales to Pupils - Lunch
+
+### 130,000 ###
+
+Sales to Pupils - Breakfast Sales to Pupils - A la Carte Sales to Pupils - Other (Describe & Itemize) Sales to Adults Other Food Service (Describe & Itemize) Total Food Service
+
+### 130,000 ###
+
+### DISTRICT/SCHOOL ACTIVITY INCOME ###
+
+Admissions - Athletic
+
+### 95,000 ###
+
+Admissions - Other
+
+### 7,600 ###
+
+--
+
+### FEES ###
+
+### 1,400 ###
+
+Book Store Sales
+
+### 1,192,000 ###
+
+Other District/School Activity Revenue (Describe & Itemize)
+
+### 17,100 ###
+
+Student Activity Fund Revenues
+
+### 2,100,000 ###
+
+Total District/School Activity Income (without Student Activity Funds 1799)
+
+### 1,313,100 ###
+
+Total District/School Activity Income (with Student Activity Funds 1799)
+
+### 3,413,100 ###
+
+### TEXTBOOK INCOME ###
+
+Textbook Rentals - Regular Textbooks Textbook Rentals - Summer School Textbooks Textbook Rentals - Adult/Continuing Education Textbooks Textbook Rentals - Other (Describe & Itemize) Textbook Sales - Regular Textbooks Textbook Sales - Summer School
+
+### --- ###
+
+Textbook Sales - Adult/Continuing Education Textbook Sales - Other (Describe & Itemize) Other Textbook Income (Describe & Itemize) Total Textbooks
+
+### OTHER REVENUE FROM LOCAL SOURCES ###
+
+### - - ###
+
+### RENTALS ###
+
+### 31,200 ###
+
+### 25,000 ###
+
+Contributions and Donations from Private Sources
+
+### 58,100 ###
+
+100 Impact Fees from Municipal or County Governments -
+
+Services Provided Other Districts -
+
+### 2,100 ###
+
+102 Refund of Prior Years' Expenditures
+
+### 25,000 ###
+
+103 Payments of Surplus Moneys from TIF Districts
+
+### 320,000 ###
+
+104 Drivers' Education Fees
+
+### 34,600 ###
+
+105 Proceeds from Vendors' Contracts 106 School Facility Occupation Tax Proceeds Payment from Other Districts 108 Sale of Vocational Projects 109 Other Local Fees (Describe & itemize) 110 Other Local Revenues (Describe & Itemize)
+
+### 93,200 ###
+
+Total Other Revenue from Local Sources
+
+### 564,200 ###
+
+### 25,000 ###
+
+D
+
+S:ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 8]
+Estimated Receipts/Revenues
+
+### PAGE 8 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only
+
+### ACCT ###
+
+#
+
+### (10) ###
+
+### EDUCATIONAL ###
+
+### (20) ###
+
+### OPERATIONS & ###
+
+### MAINTENANCE ###
+
+### (30) ###
+
+### DEBT SERVICE ###
+
+### (40) ###
+
+### TRANSPORTATION ###
+
+### (50) ###
+
+### MUNICIPAL ###
+
+| Retirement/ Social
+
+### SECURITY ###
+
+### (60) ###
+
+### CAPITAL PROJECTS ###
+
+### (70) ###
+
+### WORKING CASH ###
+
+### (80) ###
+
+### TORT ###
+
+### (90) ###
+
+### FIRE PREVENTION & ###
+
+### SAFETY ###
+
+Total Receipts/Revenues from Local Sources (without Student Activity Funds 1799)
+
+### 126,164,240 ###
+
+### 25,429,300 ###
+
+### 13,250,600 ###
+
+### 3,415,800 ###
+
+### 3,897,940 ###
+
+### 6,415,000 ###
+
+### 2,309,400 ###
+
+### 2,565,330 ###
+
+-
+
+Total Receipts/Revenues from Local Sources (with Student Activity Funds 1799)
+
+### 128,264,240 ###
+
+-
+
+### 114 DISTRICT TO ANOTHER DISTRICT (2000) ###
+
+### FLOW-THROUGH RECEIPTS/REVENUES FROM ONE ###
+
+### --- ###
+
+115 Flow-Through Revenue from State Sources 116 Flow-Through Revenue from Federal Sources 117 Other Flow-Through Revenue (Describe & Itemize) Total Flow-Through Receipts/Revenues From One District to Another District
+
+### 119 RECEIPTS/REVENUES FROM STATE SOURCES (3000) ###
+
+### 120 UNRESTRICTED GRANTS-IN-AID (3001-3099) ###
+
+121 Evidence Based Funding Formula (Section 18-8.15)
+
+### 5,610,000 ###
+
+Reorganization Incentives (Accounts 3005-3021) Other Unrestricted Grants-In-Aid From State Sources (Describe & Itemize) 124 Total Unrestricted Grants-In-Ald
+
+### 5,610,000 ###
+
+### 125 RESTRICTED GRANTS-IN-AID (3100-3900) ###
+
+--
+
+### 126 SPECIAL EDUCATION ###
+
+127 Special Education - Private/Public Facility Tuition
+
+### 820,000 ###
+
+128 Special Education - Orphanage - Individual
+
+### 80,000 ###
+
+129 Special Education - Orphanage - Summer Individual 130 Special Education - Other (Describe & Itemize) 131 Total Special Education
+
+### 900,000 ###
+
+### 132 CAREER AND TECHNICAL EDUCATION (CTE) ###
+
+133 CTE - Technical Education - Tech Prep 134 CTE - Secondary Program Improvement (CTEI)
+
+### 285,430 ###
+
+### 135 CTE - WECEP ###
+
+136 CTE - Agriculture Education 137 CTE - Instructor Practicum 138 CTE - Student Organizations 139 CTE - Other (Describe & Itemize) 140 Total Career and Technical Education
+
+### 285,430 ###
+
+141 State Free Lunch & Breakfast 142 School Breakfast Initiative
+
+### 1 3365 ###
+
+143 Driver Education
+
+### 35,000 ###
+
+144 Adult Education (from ICCB) 145 Adult Education - Other (Describe & Itemize)
+
+### 146 TRANSPORTATION ###
+
+Transportation - Regular and Vocational
+
+### 1,200 ###
+
+148 Transportation - Special Education
+
+### 1,500,00D ###
+
+149 Transportation - Other (Describe & (temize) 150 Total Transportation
+
+### 1,501,200 ###
+
+151 Learning Improvement - Change Grants 152 Scientific Literacy 153 Truant Alternative/Optional Education 154 Early Childhood - Block Grant 155 Chicago General Education Block Grant 156 Chicago Educational Services Block Grant School Safety & Educational Improvement Block Grant Technology - Technology for Success 159 State Charter Schools 160 Extended Learning Opportunities - Summer Bridges 161 Infrastructure Improvements - Planning/Construction S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 9]
+Estimated Receipts/Revenues
+
+### PAGE 9 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only
+
+### ACCT ###
+
+#
+
+### (10) ###
+
+### EDUCATIONAL ###
+
+### (20) ###
+
+### OPERATIONS & ###
+
+### MAINTENANCE ###
+
+### (30) ###
+
+### DEBT SERVICE ###
+
+### (40) ###
+
+Transportation
+
+### (50) ###
+
+### MUNICIPAL ###
+
+Retirement/ Social
+
+### SECURITY ###
+
+### (60) ###
+
+Capital Projects
+
+### (70) ###
+
+### WORKING CASH ###
+
+### (80) ###
+
+### TORT ###
+
+### (90) ###
+
+Fire Prevention &
+
+### SAFETY ###
+
+162 School Infrastructure - Maintenance Projects -
+
+Other Restricted Revenue from State Sources (Describe & Itemize)
+
+### 245,800 ###
+
+### --- ###
+
+-
+
+164 Total Restricted Grants-In-Aid
+
+### 1,466,230 ###
+
+### O ! ###
+
+### 1,501,200 ###
+
+Total Receipts/Revenues from State Sources
+
+### 7,076,230 ###
+
+### 1,501,200 ###
+
+D
+
+### 166 RECEIPTS/REVENUES FROM FEDERAL SOURCES (4000) ###
+
+### UNRESTRICTED GRANTS-IN-AID RECEIVED DIRECTLY FROM FEDERAL GOVT. (4001- ###
+
+### 167 4009) ###
+
+168 Federal Impact Aid Other Unrestricted Grants-In-Ald Received from Fed. Govt. (Describe & Itemize) Total Unrestricted Grants-In-Ald Received Directly from Fed Govt
+
+### RESTRICTED GRANTS-IN-AID RECEIVED DIRECTLY FROM FEDERAL GOVT ###
+
+### 0 1 ###
+
+O
+
+171 (4045-4090) 172 Head Start 173 Construction (Impact Aid)
+
+### 174 MAGNET ###
+
+Other Restricted Grants-In-Aid Received from Fed. Govt. (Describe & Itemize) Total Restricted Grants-In-Ald Received Directly from Federal Govt.
+
+D
+
+### 177 GOVT. THRU THE STATE_(4100-4999) ###
+
+### RESTRICTED GRANTS-IN-AID RECEIVED FROM FEDERAL ###
+
+### 178 TITLE V ###
+
+179 Title V - Flexibility and Accountability 180 Title V - SEA Projects 181 Title V - Rural Education Initiative (REI) Title V - Other (Describe & Itemize) 183| Total Title V D
+
+### 184 FOOD SERVICE ###
+
+185 Breakfast Start-Up Expansion 186 National School Lunch Program 187 Special Milk Program
+
+### 38,000 ###
+
+188 School Breakfast Program Summer Food Service Admin/Program Child and Adult Care Food Program Fresh Fruit and Vegetables -
+
+192 Food Service - Other (Describe & Itemize) 193 Total Food Service
+
+### 38,000 ###
+
+### 194 TITLE I ###
+
+Title I - Low Income -
+
+### 898,090 ###
+
+196 Title I - Low Income - Neglected, Private Title I - Migrant Education Title 1 - Other (Describe & Itemize) 199 Total Title !
+
+### 898,090 ###
+
+### 200 TITLE IV ###
+
+Title IV - Student Support & Academic Enrichment Grant
+
+### 101,500 ###
+
+### 202 SCHOOLS ###
+
+Title IV - Part A - Student Support & Academic Enrichment Grants Safe and Drug Free 203 Title IV - 21st Century Title IV - Other (Describe & Itemize) Total Title IV
+
+### 101,500 ###
+
+O
+
+### 206 FEDERAL - SPECIAL EDUCATION ###
+
+207 Federal Special Education - Preschool Flow-Through 208 Federal Special Education - Preschool Discretionary 209 Federal Special Education - IDEA Flow Through
+
+### 2,109,900 ###
+
+210 Federal Special Education - IDEA Room & Board
+
+### 520,000 ###
+
+-
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 10]
+Estimated Receipts/Revenues
+
+### PAGE 10 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only
+
+### ACCT ###
+
+#
+
+### (10) ###
+
+Educational
+
+### (20) ###
+
+Operations & Maintenance
+
+### (30) ###
+
+Debt Service
+
+### (40) ###
+
+Transportation
+
+### (50) ###
+
+### MUNICIPAL ###
+
+Retirement/ Social
+
+### SECURITY ###
+
+### (60) ###
+
+Capital Projects
+
+### (70} ###
+
+Working Cash
+
+### (80) ###
+
+### TORT ###
+
+### (90) ###
+
+Fire Prevention &
+
+### SAFETY ###
+
+211 Federal Special Education - IDEA Discretionary 212 Federal Special Education - IDEA - Other (Describe & Itemize) ... ..
+
+213 Total Federal Special Education
+
+### 2,629,900 ###
+
+### 214 CTE - PERKINS ###
+
+215 CTE - Perkins-Title IIIE Tech Prep
+
+### 163,155 ###
+
+216 CTE - Other (Describe & Itemize) Total CTE - Perkins
+
+### 163,155 ###
+
+218 Federal - Adult Education 219 Qualified Zone Academy Bond Tax Credits 220 Qualified School Construction Bond Credits 221 Build America Bond Tax Credits 222 Bulld America Bond Interest Reimbursement Total Stimulus Programs Race to the Top Program 225 Race to the Top - Preschool Expansion Grant 226 Title III - Instruction for English Learners & Immigrant Students
+
+### 19,050 ###
+
+227 Title III - English Language Acquistion
+
+### 114,600 ###
+
+228 Mckinney Education for Homeless Children 229 Title Il - Eisenhower - Professional Development Formula 230 Title Il - Teacher Quality
+
+### 225,400 ###
+
+231 Title II - Part A - Supporting Effective Instruction - State Grants 232 Federal Charter Schools 233 State Assessment Grants 234 Grant for State Assessments and Related Activities 235 Medicaid Matching Funds - Administrative Outreach
+
+### 140,000 ###
+
+236 Medicaid Matching Funds - Fee-For-Service Program
+
+### 510,000 ###
+
+Other Restricted Grants Received from Fed. Govt. thru State (Describe & Itemize)
+
+### 768,090 ###
+
+Total Restricted Grants-In-Ald Received from Federal Govt. Thru the State
+
+### 5,607,785 ###
+
+O
+
+### 239 TOTAL RECEIPTS/REVENUES FROM FEDERAL SOURCES ###
+
+### 5,607,785 ###
+
+### 0 1 ###
+
+TOTAL DIRECT RECEIPTS/REVENUES (without Student Activity Funds 1799) 138,848,255
+
+### 25,429,300 ###
+
+### 13,250,600 ###
+
+### 4,917,000 ###
+
+### 3,897,940 ###
+
+### 6,415,000 ###
+
+### 2,309,400 ###
+
+### 2,565,330 ###
+
+TOTAL DIRECT RECEIPTS/REVENUES (with Student Activity Funds 1799) 140,948,255 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 11]
+Estimated Disbursements/Expenditures Page 12 A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only Funct #
+
+### (100) ###
+
+Salaries
+
+### (200) ###
+
+Employee Benefits
+
+### (300) ###
+
+Purchased Services
+
+### (400) ###
+
+Supplles & Materials
+
+### (500) ###
+
+Capital Outlay
+
+### (600) ###
+
+Other Objects
+
+### (700) ###
+
+Non-Capitalized Equipment
+
+### (800) ###
+
+Termination Benefits
+
+### (900) ###
+
+### TOTAL ###
+
+### 10 - EDUCATIONAL FUND (ED) ###
+
+### INSTRUCTION (ED) ###
+
+Regular Programs -
+
+47,160,911 6,985,170 921,175 5,670,145 38,425 488,135 -
+
+30,000 61,293,961 Tuition Payment to Charter Schools Pre-K Programs Special Education Programs (Functions 1200 - 1220) 12,626,380 } 2,352,980 329,100 129,880 15,438,340 Special Education Programs Pre-K Remedial and Supplemental Programs K-12 416,893 128,750 18,000 25,500 589,143 Remedial and Supplemental Programs Pre-K Adult/Continuing Education Programs CTE Programs 6,908,342 974,410 181,085 312,970 80,000 26,660 22,500 8,505,967 Interscholastic Programs 4,285,954 1 242,390 373,910 251,590 43,150 5,196,994 Summer School Programs 524,500
+
+### 2,300 ###
+
+24,000 94,500 645,300 Gifted Programs
+
+### 2,400 ###
+
+### 3,180 ###
+
+Driver's Education Programs 253,344 78,380
+
+### 3,620 ###
+
+335,344 Bilingual Programs 1,277,856 299,940 51,000 10,000 1,639,296 Truant Alternative & Optional Programs Pre-K Programs - Private Tuition Regular K-12 Programs Private Tuition Special Education Programs K-12 Private Tultion 4,269,027 4,269,027 -
+
+Special Education Programs Pre-K Tuition O
+
+Remedial/Supplemental Programs K-12 Private Tuition Remedial/Supplemental Programs Pre-K Private Tuition Adult/Continuing Education Programs Private Tuition CTE Programs Private Tuition Interscholastic Programs Private Tuition Summer School Programs Private Tuition Gifted Programs Private Tuition 1.
+
+Bilingual Programs Private Tuition Truants Alternative/Opt Ed Programs Private Tuition Student Activity Fund Expenditures 2,100,000 2,100,000 Total Instruction" (Without Student Activity Funds 1999) 73,454,180 11,064,320 1,898,470 6,500,605 118,425 | 4,828,052 52,500 97,916,552 Total Instruction (With Student Activity Funds 1999) 73,454,180 11,064,320 1,898,470 6,500,605 118,425 6,928,052 52,500 100,016,552
+
+### SUPPORT SERVICES (ED) ###
+
+Support Services - Pupil Attendance & Social Work Services 1,317,953 236,410 :
+
+65,000 1,619,363 Guidance Services 6,873,373 1,326,240 27,000 30,110
+
+### 6,200 ###
+
+8,262,923 Health Services 750,698 157,640 141,000 15,510 1,064,848 Psychological Services 1,801,731 295,480 19,000 2,116,211 Speech Pathology & Audiology Services 737,043 69,680 50,800 12,000 869,523 Other Support Services - Pupils (Describe & Itemize) 259,461 56,190 316,651 Total Support Services - Pupil 11,740,259 2,141,640 283,800 77,120
+
+### 6,700 ###
+
+D
+
+14,249,519 Support Services - Instructional Staff Improvement of Instruction Services 525,257 106,865 477,260 17,984 59,500 1,186,866 Educational Media Services 2,306,308 405,910 591,820 185,990 390,000
+
+### 1,330 ###
+
+3,881,358 Assessment & Testing 174,884 12,780 81,430 20,000
+
+### 2,000 ###
+
+il
+
+291,094 Total Support Services - Instructional Staff -
+
+3,006,449 525,555 1,150,510 223,974 390,000 62,830 5,359,318 =
+
+Support Services - General Administration
+
+### ---- ###
+
+Board of Education Services 15,000 381,400
+
+### 1,500 ###
+
+43,900 } 441,800 Executive Administration Services 1,298,948 277,760
+
+### 5,000 ###
+
+### 2,500 ###
+
+11,350 } 1,595,558 Special Area Administration Services 572,182 149,480 181,000
+
+### 2,000 ###
+
+905,612 Tort Immunity Services
+
+### 2361, ###
+
+Total Support Services - General Administration 1,871,130 442,240 567,400
+
+### 6,000 ###
+
+56,200 2,942,970 Support Services - School Administration Office of the Principal Services 3,155,480 745,490 44,000 55,500 219,550 4,220,020 Other Support Services - School Administration (Describe & Itemize) 2,973,677 819,360 3,793,037 Total Support Services - School Administration 6,129,157 1,564,850 44,000 55,500 219,550 D
+
+8,013,057 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 12]
+Estimated Disbursements/Expenditures Page 13 A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only Funct #
+
+### (100) ###
+
+Salarles
+
+### (200) ###
+
+Employee Benefits
+
+### (300} ###
+
+Purchased Services
+
+### (400) ###
+
+Supplies & Materials
+
+### (500) ###
+
+Capital Outlay
+
+### (600) ###
+
+Other Objects
+
+### {700) ###
+
+Non-Capitalized Equipment
+
+### (800) ###
+
+Termination Benefits
+
+### (900) ###
+
+### TOTAL ###
+
+Support Services - Business -
+
+Direction of Business Support Services 328,977 113,240 24,000
+
+### 1,000 ###
+
+### 1,700 ###
+
+468,917 Fiscal Services 501,203 88,040
+
+### 2,000 ###
+
+### 3,500 ###
+
+595,243 Operation & Maintenance of Plant Services Pupil Transportation Services 13,000 13,000 Food Services 31,000 31,000 Internal Services 232,945 41,740 10,000 178,500 463,185 Total Support Services - Business 1,063,125 243,020 49,000 214,000
+
+### 2,200 ###
+
+1,571,345 Support Services - Central Direction of Central Support Services O
+
+Planning, Research, Development & Evaluation Services Information Services 264,838 40,270 107,000
+
+### 2,000 ###
+
+### 2,500 ###
+
+### 3,500 ###
+
+420,108 Staff Services 402,134 94,620 119,000 31,000
+
+### 1,200 ###
+
+647,954 Data Processing Services -
+
+Total Support Services - Central 666,972 134,890 226,000 33,000
+
+### 2,500 ###
+
+### 4,700 ###
+
+1,068,062 Other Support Services - Misc. (Describe & Itemize)
+
+### 1,000 ###
+
+### 8,000 ###
+
+### 9,000 ###
+
+Total Support Services 24,477,092 5,052,195 2,321,710 617,594 392,500 352,180 33,213,271
+
+### COMMUNITY SERVICES (ED) ###
+
+291,295 70,100 484,470 41,500 887,365
+
+### PAYMENTS TO OTHER DIST & GOVT UNITS (ED) ###
+
+Payments to Other Dist & Govt Units (In-State) Payments for Regular Programs Payments for Special Education Programs Payments for Adult/Continuing Education Programs Payments for CTE Programs -
+
+Payments for Community College Programs Other Payments to In-State Govt Units - Programs (Describe & ftemize) Total Payments to Other Dist & Govt Units (In-State) Payments for Regular Programs - Tuition 172,930 172,930 Payments for Special Education Programs - Tuition
+
+### --- ###
+
+1,719,835 1,719,835 Payments for Adult/Continuing Education Programs - Tuition Payments for CTE Programs - Tuition Payments for Community College Programs - Tuition Payments for Other Programs - Tuition Other Payments to In-State Govt Units - Tuition (Describe & Itemize) Total Payments to Other Dist & Govt Units - Tuition (In State) 1,892,765 1,892,765 Payments for Regular Programs - Transfers Payments for Special Education Programs - Transfers Payments for Adult/Continuing Ed Programs - Transfers O
+
+Payments for CTE Programs - Transfers Payments for Community College Program - Transfers -
+
+Payments for Other Programs - Transfers 101 Other Payments to In-State Govt Units - Transfers (Describe & Itemize) Total Payments to Other Dist & Govt Units-Transfers (in State) Payments to Other Dist & Govt Units (Out of State) Total Payments to Other Dist & Gout Units 1,892,765 1,892,765
+
+### 105 DEBT SERVICE (ED) ###
+
+106 Debt Service - Interest on Short-Term Debt Tax Anticipation Warrants 108 Tax Anticipation Notes 109 Corporate Personal Property Repl Tax Anticipated Notes 110 State Ald Anticipation Certificates
+
+### S140 ###
+
+Other interest on Short-Term Debt (Describe & Itemize) 112 Total Debt Service - Interest on Short-Term Debt
+
+### --- ###
+
+D
+
+113 Debt Service - Interest on Long-Term Debt Total Debt Service
+
+### 115 PROVISION FOR CONTINGENCIES (ED) ###
+
+Total Direct Disbursements/Expenditures (without Student Activity Funds (1999) 98,222,567 16,186,615 4,704,650 7,159,699 510,925 7,072,997 52,500 133,909,953 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 13]
+Estimated Disbursements/Expenditures
+
+### PAGE 14 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only
+
+### FUNCT # ###
+
+### (100) ###
+
+### SALARIES ###
+
+### (200) ###
+
+### EMPLOYEE ###
+
+### BENEFITS ###
+
+### (300) ###
+
+Purchased
+
+### SERVICES ###
+
+### (400) ###
+
+Supplies & Materials
+
+### (500) ###
+
+Capital Outlay
+
+### (600) ###
+
+Other Objects
+
+### (700) ###
+
+Non-Capitalized Equipment
+
+### (800) ###
+
+Termination
+
+### BENEFITS ###
+
+### (900) ###
+
+### TOTAL ###
+
+Total Direct Disbursements/Expenditures (with Student Activity Funds (1999) 98,222,567 16,186,615 4,704,650 7,159,699
+
+### 510,925 ###
+
+9,172,997
+
+### 52,500 ###
+
+.136,009,953 118 Student Activity Funds 1999) Excess (Deficiency) of Receipts/Revenues Over Disbursements/Expenditures [without 4,938,302 =
+
+119 Student Activity Funds 1999) Excess (Deficiency) of Receipts/Revenues Over Disbursements/Expenditures (with 4,938,302
+
+### 121 20 - OPERATIONS AND MAINTENANCE FUND (O&M) ###
+
+-
+
+### 122 SUPPORT SERVICES (0&M) ###
+
+123 Support Services - Pupil 124 Other Support Services - Pupils (Describe & Itemize) 125 Support Services - Business Direction of Business Support Services Facilities Acquisition & Construction Services Operation & Maintenance of Plant Services 8,868,026 2,123,100 2,611,810 3,307,500 4,435,875
+
+### 18,000 ###
+
+21,364,311 129 Pupil Transportation Services Food Services Total Support Services - Business 8,868,026 2,123,100 2,611,810 3,307,500 4,435,875 +
+
+### 18,000 ###
+
+21,364,311 Other Support Services - Misc. (Describe & Itemize) Total Support Services 8,868,026 2,123,100 2,611,810 3,307,500 4,435,875
+
+### 18,000 ###
+
+21,364,311
+
+### 134 COMMUNITY SERVICES (0&M) ###
+
+### 135 PAYMENTS TO OTHER DIST & GOVT UNITS (0&M) ###
+
+136 Payments to Other Dist & Govt Units (In-State) Payments for Regular Programs Payments for Special Education Programs Payments for CTE Program O
+
+140 Other Payments to In-State Govt Units - Programs (Describe & Itemize) Total Payments to Other Dist & Govt Units (in-State) Payments to Other Dist & Govt Units (Out of State} 14 Total Payments to Other Dist & Govt Unit D
+
+### DEBT SERVICE (O&M) ###
+
+### ----- ###
+
+145 Debt Service - Interest on Short-Term Debt Tax Anticipation Warrants 147 Tax Anticipation Notes 148 Corporate Personal Prop Repl Tax Anticipated Notes 149 State Aid Anticipation Certificates Other Interest on Short-Term Debt (Describe & Itemize) Total Debt Service - Interest on Short-Term Debt 152 Debt Service - Interest on Long-Term Debt Total Debt Service O
+
+### 154 PROVISION FOR CONTINGENCIES (O&M) ###
+
+Total Direct Disbursements/Expenditures 8,868,026 2,123,100 2,611,810 3,307,500 4,435,875
+
+### 18,000 ###
+
+21,364,311 Excess (Deficiency) of Receipts/Revenues Over Disbursements/Expenditures 4,064,989
+
+### 158 30 - DEBT SERVICE FUND (DS) ###
+
+-
+
+### 159 PAYMENTS TO OTHER DIST & GOVT UNITS (DS) ###
+
+160 Payments to Other Dist & Govt Units (In-State) 161 Payments for Regular Programs 162 Payments for Special Education Programs Other Payments to In-State Govt Units - Programs (Describe & Itemize) Total Payments to Other Dist & Govt Units (In-State)
+
+### 165 DEBT SERVICE (DS) ###
+
+166 Debt Service - Interest on Short-Term Debt 167 Tax Anticipation Warrants Tax Anticipation Notes -
+
+169 Corporate Personal Prop Repl Tax Anticipation Notes 170 State Aid Anticipation Certificates S:ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 14]
+Estimated Disbursements/Expenditures
+
+### PAGE 15 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+-
+
+J
+
+K
+
+Description: Enter Whole Numbers Only
+
+### FUNCT # ###
+
+### (100) ###
+
+### SALARIES ###
+
+### (200) ###
+
+### EMPLOYEE ###
+
+### BENEFITS ###
+
+### (300) ###
+
+### PURCHASED ###
+
+### SERVICES ###
+
+### (400) ###
+
+### SUPPLIES & ###
+
+### MATERIALS ###
+
+### (500) ###
+
+Capital Outlay
+
+### (600) ###
+
+### OTHER OBJECTS ###
+
+### (700) ###
+
+Non-Capitalized
+
+### EQUIPMENT ###
+
+### (800) ###
+
+### TERMINATION ###
+
+### BENEFITS ###
+
+### (900) ###
+
+### TOTAL ###
+
+171 Other Interest on Short-Term Debt (Describe & Itemize) Total Debt Service - Interest On Short-Term Debt 173 Debt Service - Interest on Long-Term Debt
+
+### 5,790,520 ###
+
+### 5,790,520 ###
+
+174 Principal Retired) (Describe & Itemize) Debt Service - Payments of Principal on Long-Term Debt 19 (Lease/Purchase
+
+### 7,005,000 ###
+
+### 7,005,000 ###
+
+175 Debt Service - Other (Describe & Itemize)
+
+### 3,000 ###
+
+### 3,000 ###
+
+176 Total Debt Service -
+
+--
+
+### 12,798,520 ###
+
+### 12,798,520 ###
+
+### PROVISION FOR CONTINGENCIES (DS) ###
+
+Total Direct Disbursements/Expenditures
+
+### 12,798,520 ###
+
+### 12,798,520 ###
+
+Excess (Deficiency) of Receipts/Revenues Over Disbursements/Expenditures
+
+### 452,080 ###
+
+### 181 40 - TRANSPORTATION FUND (TR) ###
+
+-
+
+### 182 SUPPORT SERVICES (TR) ###
+
+--
+
+183 Support Services - Pupils 184 Other Support Services - Pupils (Describe & Itemize) 185 Support Services - Business 186 Pupil Transportation Services
+
+### 3,593,000 ###
+
+### 354,000 ###
+
+### 197,730 ###
+
+### 4,144,730 ###
+
+187 Other Support Services - Business (Describe & Stemize) 188 Total Support Services -
+
+### 3,593,000 ###
+
+### 354,000 ###
+
+### 197,730 ###
+
+D
+
+D
+
+### 4,144,730 ###
+
+### 189 COMMUNITY SERVICES (TR) ###
+
+-
+
+--
+
+### 190 PAYMENTS TO OTHER DIST & GOVT UNITS (TR) ###
+
+-
+
+191 Payments to Other Dist & Govt Units (In-State) 192 Payments for Regular Program 193 Payments for Special Education Programs 194 Payments for Adult/Continuing Education Programs 195 Payments for CTE Programs -
+
+196 Payments for Community College Programs Other Payments to In-State Govt Units - Programs (Describe & Itemize) Total Payments to Other Dist & Govt Units (In-State)
+
+### --- ###
+
+Payments to Other Dist & Govt Units (Out-of-State) (Describe & Itemize) 200 Total Payments to Other Dist & Govt Units
+
+### 201 DEBT SERVICE (TR) ###
+
+-
+
+202 Debt Service - Interest on Short-Term Debt ..
+
+203 Tax Anticipation Warrants 204 Tax Anticipation Notes D
+
+205 Corporate Personal Prop Repl Tax Anticipation Notes D
+
+206 State Aid Anticipation Certificates 207 Other Interest on Short-Term Debt (Describe & Itemize) 208 Total Debt Service - Interest On Short-Term Debt
+
+### 1 5100 ###
+
+C
+
+-
+
+209 Debt Service - Interest on Long-Term Debt 210 Principal Retired) (Describe & itemize) Debt Service - Payments of Principal on Long-Term Debt" (Lease/Purchase Debt Service - Other (Describe & Itemize) 212 Total Debt Service
+
+### 213 PROVISION FOR CONTINGENCIES (TR) ###
+
+-
+
+214 Total Direct Disbursements/Expenditures Q
+
+### 3,593,000 ###
+
+### 354,000 ###
+
+### 197,730 ###
+
+### 4,144,730 ###
+
+Excess (Deficiency) of Receipts/Revenues Over Disbursements/Expenditures
+
+### 772,270 ###
+
+### 217 50 - MUNICIPAL RETIREMENT/SOC SEC FUND (MR/SS) ###
+
+-
+
+### 218 INSTRUCTION (MR/SS) ###
+
+-
+
+219 Regular Program
+
+### 939,870 ###
+
+### 939,870 ###
+
+Pre-K Programs Special Education Programs (Functions 1200-1220)
+
+### 509,750 ###
+
+### 509,750 ###
+
+222 Special Education Programs Pre-K 223 Remedial and Supplemental Programs K-12
+
+### 45,100 ###
+
+### 45,100 ###
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 15]
+Estimated Disbursements/Expenditures Page 16 A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only Funct #
+
+### (100) ###
+
+Salaries
+
+### (200) ###
+
+Employee Benefits
+
+### (300) ###
+
+Purchased Services
+
+### (400) ###
+
+Supplies & Materials
+
+### (500) ###
+
+Capital Outlay
+
+### (600) ###
+
+Other Objects
+
+### (700) ###
+
+Non-Capitalized Equipment
+
+### (800) ###
+
+Termination Benefits
+
+### (900) ###
+
+### TOTAL ###
+
+224 Remedial and Supplemental Programs Pre-K Adult/Continuing Education Programs 226 CTE Programs 155,650 155,650 Interscholastic Programs 198,270 198,270 Summer School Programs 22,510 !
+
+22,510 229 Gifted Programs Driver's Education Programs
+
+### 3,960 ###
+
+### 3,960 ###
+
+Bilingual Programs 62,770 62,770 232 Truant Alternative & Optional Programs Total Instruction 1,937,880 -
+
+1,937,880
+
+### 234 SUPPORT SERVICES (MR/SS) ###
+
+Support Services - Pupil Attendance & Social Work Services 40,530 40,530 Guidance Services 159,740 159,740 Health Services 41,580 41,580 Psychological Services 28,270 28,270 Speech Pathology & Audiology Services
+
+### 9,990 ###
+
+### 9,990 ###
+
+Other Support Services - Pupils (Describe & Itemize)
+
+### 8,410 ###
+
+### 8,410 ###
+
+--
+
+Total Support Services - Pupil 288,520 288,520 243 Support Services - Instructional Staff -
+
+### 244| ###
+
+Improvement of Instruction Services
+
+### 3,350 ###
+
+### 3,350 ###
+
+Educational Media Services 234,260 234,260 Assessment & Testing 29,950 29,950 Total Support Services - Instructional Staff !
+
+=
+
+267,560 267,560 Support Services - General Administration 249 Board of Education Services 250 Executive Administration Services 79,370 79,370 Special Area Administrative Services 28,930 28,930 252 Claims Pald from Self Insurance Fund Risk Management and Claims Services Payments Total Support Services - General Administration 108,300 108,300 255 Support Services - School Administration 256 Office of the Principal Services 164,890 164,890 Other Support Services - School Administration (Describe & Itemize) 43,020 43,020 258 Total Support Services - School Administration 207,910 207,910 259 Support Services - Business 260 Direction of Business Support Services 15,890 15,890 Fiscal Services 68,380 68,380 Facilities Acquisition & Construction Services
+
+### --- ###
+
+Operation & Maintenance of Plant Service 974,330 974,330 Pupil Transportation Services Food Services Internal Services 26,970 26,970 Total Support Services - Business 1,085,570 1,085,570 268 Support Services - Central 269 Direction of Central Support Services Planning, Research, Development & Evaluation Services Information Services 39,160 39,160 Staff Services
+
+### 5,590 ###
+
+### 5,590 ###
+
+Data Processing Services Total Support Services - Central 44,750 44,750 275 Other Support Services - Misc. (Describe & Itemize) Total Support Services 2,002,610 2,002,610
+
+### 277 COMMUNITY SERVICES (MR/SS) ###
+
+19,640 19,640
+
+### 278 PAYMENTS TO OTHER DIST & GOVT UNITS (MR/SS) ###
+
+279 Payments for Regular Programs 280 Payments for Special Education Programs 281 Payments for CTE Programs S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 16]
+Estimated Disbursements/Expenditures
+
+### PAGE 17 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only
+
+### FUNCT # ###
+
+### (100) ###
+
+### SALARIES ###
+
+### (200) ###
+
+### EMPLOYEE ###
+
+### BENEFITS ###
+
+### (300) ###
+
+### PURCHASED ###
+
+### SERVICES ###
+
+### (400) ###
+
+### SUPPLLES & ###
+
+### MATERIALS ###
+
+### (500) ###
+
+### CAPITAL OUTLAY ###
+
+### (600) ###
+
+### OTHER OBJECTS ###
+
+### (700) ###
+
+### NON-CAPITALIZED ###
+
+### EQUIPMENT ###
+
+### (800) ###
+
+### TERMINATION ###
+
+### BENEFITS ###
+
+### (900) ###
+
+### TOTAL ###
+
+282 Total Payments to Other Dist & Govt Units
+
+### 283 DEBT SERVICE (MR/SS) ###
+
+Debt Service - Interest on Short-Term Debt 285 Tax Anticipation Warrants Tax Anticipation Notes Corporate Personal Prop Repl Tax Anticipation Notes State Aid Anticipation Certificates Other Interest on Short-Term Debt (Describe & Itemize) Total Debt Service D
+
+=
+
+### 291 PROVISION FOR CONTINGENCIES (MR/SS} ###
+
+Total Direct Disbursements/Expenditures
+
+### 3,960,130 ###
+
+D
+
+### 3,960,130 ###
+
+Excess (Deficiency) of Receipts/Revenues Over Disbursements/Expenditures
+
+### (62,190) ###
+
+### 295 60 - CAPITAL PROJECTS [CP) ###
+
+### 296 SUPPORT SERVICES (CP) ###
+
+-
+
+### : 2000 ###
+
+297 Support Services - Business 298 Facilities Acquisition & Construction Services
+
+### 3,537,710 ###
+
+### 3,537,710 ###
+
+299 Other Support Services - Business (Describe & Itemize) 300 Total Support Services D
+
+### 3,537,710 ###
+
+### 3,537,710 ###
+
+### 301 PAYMENTS TO OTHER DIST & GOVT UNITS (CP) ###
+
+302 Payments to Other Dist & Govt Units (In-State) . .
+
+303 Payments to Regular Programs 304 Payment for Special Education Programs 305 Payment for CTE Programs 306 Payments to Other Govt Units - Programs (In-State) (Describe & Itemize) Total Payments to Other Districts & Govt Units
+
+### 308 PROVISION FOR CONTINGENCIES (CP) ###
+
+Total Direct Disbursements/Expenditures
+
+### 3,537,710 ###
+
+### 3,537,710 ###
+
+310 Excess (Deficiency) of Receipts/Revenues Over Disbursements/Expenditures
+
+### 2,877,290 ###
+
+### 312 70 WORKING CASH FUND (WC) ###
+
+### 314 80 - TORT FUND (TF) ###
+
+### 315 INSTRUCTION (TF) ###
+
+316 Regular Programs 317 Tuition Payment to Charter Schools 318 Pre-K Programs 319 Special Education Programs (Functions 1200 - 1220) 320 Special Education Programs Pre-K 321 Remedial and Supplemental Programs K-12 322 Remedial and Supplemental Programs Pre-K 323 Adult/Continuing Education Programs
+
+### CTE PROGRAMS ###
+
+325 Interscholastic Programs 326 Summer School Programs D
+
+327 Gifted Programs Driver's Education Programs Bilingual Programs Truant Alternative & Optional Programs D
+
+331 Pre-K Programs - Private Tuition 332 Regular K-12 Programs Private Tuition 333 Special Education Programs K-12 Private Tuition 334 Special Education Programs Pre-K Tuition 335 Remedial/Supplemental Programs K-12 Private Tuition Remedial/Supplemental Programs Pre-K Private Tuition D
+
+337 Adult/Continuing Education Programs Private Tuition D
+
+338 CTE Programs Private Tuition S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 17]
+Estimated Disbursements/Expenditures
+
+### PAGE 18 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only
+
+### FUNCT # ###
+
+### (100) ###
+
+### SALARIES ###
+
+### (200) ###
+
+### EMPLOYEE ###
+
+### BENEFITS ###
+
+### (300) ###
+
+### PURCHASED ###
+
+### SERVICES ###
+
+### (400) ###
+
+### SUPPLIES & ###
+
+### MATERIALS ###
+
+### (500) ###
+
+### CAPITAL OUTLAY ###
+
+### (600) ###
+
+### OTHER OBJECTS ###
+
+### (700) ###
+
+### NON-CAPITALIZED ###
+
+### EQUIPMENT ###
+
+### (800) ###
+
+### TERMINATION ###
+
+### BENEFITS ###
+
+### (900) ###
+
+### TOTAL ###
+
+339 Interscholastic Programs Private Tuition 340 Summer School Programs Private Tuition 341 Gifted Programs Private Tuition --
+
+342 Bilingual Programs Private Tuition Truants Alternative/Opt Ed Programs Private Tuition Total Instruction14 D
+
+### 345 SUPPORT SERVICES (TF) ###
+
+346 Support Services - Pupil Attendance & Social Work Services -
+
+### GULDANCE SERVICES ###
+
+-
+
+349 Health Services 350 Psychological Services 351 Speech Pathology & Audiology Services 352 Other Support Services - Pupils (Describe & Itemize)
+
+### 219D ###
+
+Total Support Services - Pupil
+
+### 0 : ###
+
+-
+
+### 0 1 ###
+
+O
+
+354 Support Services - Instructional Staff 355 Improvement of Instruction Services O
+
+356 Educational Media Services 357 Assessment & Testing -
+
+358 Total Support Services - Instructional Staff --
+
+### 0 : ###
+
+O
+
+359 Support Services - General Administration 360 Board of Education Services
+
+### 770,000 ###
+
+### 480,600 ###
+
+### 1,250,600 ###
+
+361 Executive Administration Services
+
+### DIO ###
+
+362 Special Area Administration Services 363 Claims Paid from Self Insurance Fund -
+
+364 Risk Management and Claims Services Payments
+
+### 740,000 ###
+
+### 740,000 ###
+
+Total Support Services - General Administration
+
+### 770,000 ###
+
+### 1,220,600 ###
+
+D
+
+### 1,990,600 ###
+
+366 Support Services - School Administration 367 Office of the Principal Services Other Support Services - School Administration (Describe & Itemize)
+
+### --- ###
+
+369 Total Support Services - Schoof Administration -..
+
+370 Support Services - Business 371 Direction of Business Support Services C
+
+372 Fiscal Services Facilities Acquisition & Construction Services 374 Operation & Maintenance of Plant Services Pupil Transportation Services
+
+### 376 FOOD SERVICES ###
+
+### INTERNAL SERVICES ###
+
+-
+
+Total Support Services - Business 379 Support Services - Central 380 Direction of Central Support Services Planning, Research, Development & Evaluation Services
+
+### --- ###
+
+382 Information Services 383 Staff Services O
+
+Data Processing Services Total Support Services - Central -
+
+386 Other Support Services - Misc. (Describe & Itemize) Total Support Services -
+
+### 770,000 ###
+
+### 1,220,600 ###
+
+### 1,990,600 ###
+
+### COMMUNITY SERVICES (TF) ###
+
+### 389 PAYMENTS TO OTHER DIST & GOVT UNITS (TF) ###
+
+390 Payments to Other Dist & Govt Units (In-State) 391 Payments for Regular Programs C
+
+392 Payments for Special Education Programs 393 Payments for Adult/Continuing Education Programs -
+
+394 Payments for CTE Programs Payments for Community College Programs
+
+### 0:00 ###
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 18]
+Estimated Disbursements/Expenditures
+
+### PAGE 19 ###
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+Description: Enter Whole Numbers Only
+
+### FUNCT # ###
+
+### (100) ###
+
+### SALARIES ###
+
+### (200) ###
+
+### EMPLOYEE ###
+
+### BENEFITS ###
+
+### (300) ###
+
+### PURCHASED ###
+
+### SERVICES ###
+
+### (400) ###
+
+### SUPPLIES & ###
+
+### MATERIALS ###
+
+### (500) ###
+
+### CAPITAL OUTLAY ###
+
+### (600} ###
+
+### OTHER OBJECTS ###
+
+### (700) ###
+
+### NON-CAPITALIZED ###
+
+### EQUIPMENT ###
+
+### (800) ###
+
+### TERMINATION ###
+
+### BENEFITS ###
+
+### (900) ###
+
+### TOTAL ###
+
+Other Payments to In-State Govt Units - Programs (Describe & Itemize) Total Payments to Other Dist & Govt Units (In-State) 398 Payments for Regular Programs - Tuition 399 Payments for Special Education Programs - Tuition
+
+### 422D ###
+
+400 Payments for Adult/Continuing Education Programs - Tuition Payments for CTE Programs - Tuition Payments for Community College Programs - Tuition 403 Payments for Other Programs - Tuition 404 Other Payments to In-State Govt Units - Tuition (Describe & itemize) 405 Total Payments to Other Dist & Govt Units - Tuition (In State) O
+
+406 Payments for Regular Programs - Transfers Payments for Special Education Programs - Transfers 408 Payments for Adult/Continuing Ed Programs - Transfers D
+
+Payments for CTE Programs - Transfers D
+
+Payments for Community College Program - Transfers D
+
+Payments for Other Programs - Transfers 412 Other Payments to In-State Govt Units - Transfers (Describe & Itemize) 413 Total Payments to Other Dist & Govt Units-Transfers [In State) D
+
+Payments to Other Dist & Govt Units (Out of State) 415 Total Payments to Other Dist & Govt Units
+
+### 416 DEBT SERVICE (TF) ###
+
+Debt Service - Interest on Short-Term Debt Tax Anticipation Warrants
+
+### TAX ANTICIPATION NOTES ###
+
+420 Corporate Personal Property Replacement Tax Anticipation Notes -
+
+State Aid Anticipation Certificates -
+
+422 Other Interest or Short-Term Debt (Describe & Itemize) Debt Service - Interest on Long-Term Debt Debt Service - Payments of Principal on Long-Term Debt 15 (Lease/Purchase Principal Retired) (Describe & Itemize)
+
+### --- ###
+
+425 Debt Service - Other (Describe & Itemize)
+
+### 426 TOTAL DEBT SERVICE ###
+
+-
+
+### PROVISION FOR CONTINGENCIES (TF) ###
+
+...
+
+-
+
+Total Direct Disbursements/Expenditures
+
+### 770,000 ###
+
+### 1,220,600 ###
+
+-
+
+### 1,990,600 ###
+
+Excess (Deficiency) of Receipts/Revenues Over Disbursements/Expenditures
+
+### 318,800 ###
+
+### 431 90 - FIRE PREVENTION & SAFETY FUND (FP&S) ###
+
+-
+
+### 432 SUPPORT SERVICES (FP&S) ###
+
+433 Support Services - Business 434 Facilities Acquisition & Construction Services
+
+### 2,431,700 ###
+
+### 2,431,700 ###
+
+435 Operation & Maintenance of Plant Service Total Support Services - Business D
+
+### 2,431,700 ###
+
+-
+
+### 2,431,700 ###
+
+437 Other Support Services - Misc. (Describe & Itemize) 438 Total Support Services
+
+### 2,431,700 ###
+
+### 2,431,700 ###
+
+### 439 PAYMENTS TO OTHER DISTRICTS & GOVT UNITS [FP&S) ###
+
+440 Payments to Regular Programs 441 Payments to Special Education Programs 442 Other Payments to In-State Govt Units - Programs (Describe & Itemize) Total Payments to Other Districts & Govt Units (FPS)
+
+### 444| DEBT SERVICE (FP&S) ###
+
+445 Debt Service - Interest on Short-Term Debt 446 Tax Anticipation Warrants Other Interest on Short-Term Debt (Describe & Itemize) 448 Total Debt Service - Interest on Short-Term Debt Debt Service - Interest on Long-Term Debt 450 Principal Retired) (Describe & Itemize) Debt Service - Payments of Principal on Long-Term Debt 15 (Lease/Purchase T
+
+S:ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 19]
+Estimated Disbursements/Expenditures Page 20 A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+-
+
+J
+
+K
+
+Description: Enter Whole Numbers Only Funct #
+
+### (100) ###
+
+Salarles
+
+### (200) ###
+
+Employee Benefits
+
+### (300) ###
+
+Purchased Services
+
+### (400) ###
+
+Supplies & Materials
+
+### (500) ###
+
+Capital Outlay
+
+### (600) ###
+
+Other Objects
+
+### (700) ###
+
+Non-Capitalized Equipment
+
+### (800) ###
+
+Termination Benefits
+
+### (900} ###
+
+### TOTAL ###
+
+Total Debt Service
+
+### 452 PROVISIONS FOR CONTINGENCIES (FP&S) ###
+
+### --- ###
+
+--
+
+453 Total Direct Disbursements/Expenditures 2,431,700 O
+
+2,431,700 454 Excess (Deficiency) of Receipts/Revenues Over Disbursements/Expenditures 133,630 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 20]
+Itemizations Page 21 B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+If there Is an amount in column C or column G, please describe the type of revenue or expenditure in column D or column H.
+
+Revenue Check: OK Expenditure Check:
+
+OK
+
+Revenues Acct. (EstRev
+
+### TAB ###
+
+Amount Describe Revenue Expenditures Fund- Function (EstExp tab) Amount Describe Expenditures 10-2190 $
+
+316,651 Scheduler and Director of Student Services 10-2490 $
+
+3,793,037 Department Chairs ?
+
+10-2900 $
+
+9,000 Title | Tutoring & Supplies 10-4190 $
+
+17,100 PACE Ventra Pass Sales 10-4290 10-4390 10-4400 10-5150 20-2190 $
+
+93,200 Fiscal Service Fee, Health Center Student Fees, Rebates and C 20-2900 20-4190 20-4400 20-5150 30-4190 30-5150 30-5300 $
+
+7,005,000 Principal on bonded debt $
+
+245,800 SBHC IDPH Grants 30-5400 $
+
+3,000 Debt Service paying agent fees 40-2190 40-2900 40-4190 40-4400 40-5150 40-5300 40-5400 50-2190 $
+
+8,410 Scheduler and Director of Student Services $
+
+768,090 ERATE WIA and PECT 50-2490 $
+
+43,020 Department Chairs 50-2900 50-5150 60-2900 60-4190 80-2190 80-2490 80-2900 80-4190 80-4290 80-4390 80-4400 80-5150 80-5300 80-5400 90-2900 90-4190 90-5150 90-5300 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 21]
+
+### PAGE 22 ###
+
+DEFICIT BUDGET SUMMARY INFORMATION - Operating Funds Only (School Districts Only) Description
+
+### EDUCATIONAL FUND (10) ###
+
+### OPERATIONS & ###
+
+### MAINTENANCE FUND (20) ###
+
+### TRANSPORTATION FUND ###
+
+### (40) ###
+
+### WORKING CASH FUND ###
+
+### (70) ###
+
+### TOTAL ###
+
+Direct Revenues 138,848,255 25,429,300 4,917,000 169,194,555 Direct Expenditures 133,909,953 21,364,311 4,144,730 159,418,994 Difference 4,938,302 4,064,989
+
+### 772,270 ###
+
+9,775,561 Estimated Fund Balance - June 30, 2026 145,145,602 42,858,799 6,205,140
+
+### 276,250 ###
+
+194,485,791 Balanced budget; no Deficit Reduction Plan is required.
+
+A deficit reduction plan is required if the local board of education adopts (or amends) the 2025-2026 school district budget in which the "operating funds" listed above result in direct revenues (line 9, BudgetSum 2-4) being less than direct expenditures (line 19, BudgetSum 2-4) by an amount equal to or greater than one-third (1/3) of the ending fund balance (line 81, BudgetSum 2-4).
+
+Note: The balance is determined using only the four funds listed above. That is, if the estimated ending fund balance is less than three times the deficit spending, the district must adopt and file with ISBE a deficit reduction plan to balance the shortfall within three years.
+
+Per School Code (105 ILCS 5/17-1) - If the Deficit AFR Summary Information tab from the 2024-2025 Annual Financial Report (AFR) reflects a deficit as defined above, then the school district shall adopt and submit a deficit reduction plan (found here on page 23-27) to ISBE within 30 days after acceptance of the
+
+### AFR. ###
+
+The deficit reduction plan, if required, is developed using ISBE guidelines and format.
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 22]
+UeTICIT Keauction Plan Page 23 A
+
+B
+
+*School Districts Only District Number Maine Township HSD 207 C
+
+D
+
+E
+
+### DEFICIT REDUCTION PLAN ###
+
+### ESTIMATED BUDGET ###
+
+### FY2025-2026 ###
+
+F
+
+G
+
+District Name Educational Fund Operations & Maintenance Fund Transportation Fund Working Cash Fund
+
+### TOTAL ###
+
+### ESTIMATED BEGINNING FUND BALANCE ###
+
+(must equal prior Ending Fund Balance) 140,207,300 38,793,810 5,432,870 276,250 184,710,230
+
+### RECEIPTS/REVENUES ###
+
+### ACCT # ###
+
+### LOCAL SOURCES ###
+
+126,164,240 25,429,300 3,415,800 155,009,340
+
+### 10 ANOTHER DISTRICT ###
+
+### FLOW-THROUGH RECEIPTS/REVENUES FROM ONE DISTRICT TO ###
+
+### STATE SOURCES ###
+
+7,076,230 1,501,200 8,577,430
+
+### FEDERAL SOURCES ###
+
+5,607,785 | 5,607,785 Total Receipts/Revenues 138,848,255 25,429,300 4,917,000 169,194,555
+
+### DISBURSEMENTS/EXPENDITURES ###
+
+Funct #
+
+### INSTRUCTION ###
+
+97,916,552 | 97,916,552
+
+### SUPPORT SERVICES ###
+
+33,213,271 21,364,311 4,144,730 58,722,312
+
+### COMMUNITY SERVICES ###
+
+887,365 -
+
+887,365
+
+### PAYMENTS TO OTHER DISTRICTS & GOVT. UNITS ###
+
+1,892,765 1,892,765
+
+### DEBT SERVICES ###
+
+### PROVISION FOR CONTINGENCIES ###
+
+Total Disbursements/Expenditures 133,909,953 21,364,311 4,144,730 159,418,994 Excess of Receipts/Revenue Over/(Under) Disbursements/Expenditures 4,938,302 4,064,989 772,270 9,775,561
+
+### OTHER SOURCES/USES OF FUNDS ###
+
+### 24 OTHER SOURCES OF FUNDS (7000) ###
+
+### 25 OTHER USES OF FUNDS (8000) ###
+
+### 0 1 ###
+
+### TOTAL OTHER SOURCES/USES OF FUNDS ###
+
+### ESTIMATED ENDING FUND BALANCE ###
+
+145,145,602 42,858,799 6,205,140 276,250 194,485,791 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 23]
+Deficit Reduction Plan H
+
+I
+
+J
+
+K
+
+### PAGE 24 ###
+
+L
+
+*School Districts Only A
+
+### ESTIMATED BUDGET ###
+
+### FY2026-2027 ###
+
+District Number Maine Township HSD 207 District Name Educational Fund Operations & Maintenance Fund Transportation Fund Working Cash Fund
+
+### TOTAL ###
+
+### ESTIMATED BEGINNING FUND BALANCE ###
+
+(must equal prior Ending Fund Balance) 145,145,602 42,858,799
+
+### 6,205,140 ###
+
+### 276,250 ###
+
+194,485,791
+
+### RECEIPTS/REVENUES ###
+
+### ACCT # ###
+
+### LOCAL SOURCES ###
+
+### FLOW-THROUGH RECEIPTS/REVENUES FROM ONE DISTRICT TO ###
+
+### ANOTHER DISTRICT ###
+
+### STATE SOURCES ###
+
+### FEDERAL SOURCES ###
+
+Total Receipts/Revenues
+
+### DISBURSEMENTS/EXPENDITURES ###
+
+### FUNCT # ###
+
+### INSTRUCTION ###
+
+### SUPPORT SERVICES ###
+
+### COMMUNITY SERVICES ###
+
+### PAYMENTS TO OTHER DISTRICTS & GOVT. UNITS ###
+
+### DEBT SERVICES ###
+
+### PROVISION FOR CONTINGENCIES ###
+
+Total Disbursements/Expenditures Excess of Receipts/Revenue Over/(Under) Disbursements/Expenditures C
+
+### OTHER SOURCES/USES OF FUNDS ###
+
+### 24 OTHER SOURCES OF FUNDS (7000} ###
+
+### OTHER USES OF FUNDS (8000) ###
+
+### TOTAL OTHER SOURCES/USES OF FUNDS ###
+
+### --- ###
+
+### ESTIMATED ENDING FUND BALANCE ###
+
+145,145,602 42,858,799
+
+### 6,205,140 ###
+
+### 276,250 ###
+
+194,485,791 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 24]
+VeTICIL Keauction Plan
+
+### RAGE 25 ###
+
+A
+
+B
+
+M
+
+N
+
+P
+
+*School Districts Only
+
+### ESTIMATED BUDGET ###
+
+### FY2027-2028 ###
+
+District Number Maine Township HSD 207 District Name Educational Fund Operations & Maintenance Fund Transportation
+
+### FUND ###
+
+Working Cash
+
+### FUND ###
+
+### TOTAL ###
+
+### ESTIMATED BEGINNING FUND BALANCE ###
+
+(must equal prior Ending Fund Balance) 145,145,602 42,858,799 6,205,140
+
+### 276,250 ###
+
+### ---- ###
+
+194,485,791
+
+### RECEIPTS/REVENUES ###
+
+### ACCT # ###
+
+### LOCAL SOURCES ###
+
+### 10 ANOTHER DISTRICT ###
+
+### FLOW-THROUGH RECEIPTS/REVENUES FROM ONE DISTRICT TO ###
+
+### 3 2000 ###
+
+### STATE SOURCES ###
+
+### FEDERAL SOURCES ###
+
+Total Receipts/Revenues D
+
+### DISBURSEMENTS/EXPENDITURES ###
+
+### FUNCT # ###
+
+### INSTRUCTION ###
+
+### SUPPORT SERVICES ###
+
+### COMMUNITY SERVICES ###
+
+### PAYMENTS TO OTHER DISTRICTS & GOVT. UNITS ###
+
+### DEBT SERVICES ###
+
+### PROVISION FOR CONTINGENCIES ###
+
+Total Disbursements/Expenditures Excess of Receipts/Revenue Över/(Under) Disbursements/Expenditures
+
+### OTHER SOURCES/USES OF FUNDS ###
+
+### OTHER SOURCES OF FUNDS (7000) ###
+
+### OTHER USES OF FUNDS (8000) ###
+
+### TOTAL OTHER SOURCES/USES OF FUNDS ###
+
+### 0 : ###
+
+o
+
+### ESTIMATED ENDING FUND BALANCE ###
+
+145,145,602 42,858,799 6,205,140
+
+### 276,250 ###
+
+194,485,791 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 25]
+Deficit Reduction Plan A
+
+B
+
+R
+
+S
+
+T
+
+U
+
+### PAGE 26 ###
+
+V
+
+*School Districts Only
+
+### ESTIMATED BUDGET ###
+
+### FY2028-2029 ###
+
+District Number Maine Township HSD 207 District Name Educational Fund Operations & Maintenance Fund Transportation
+
+### FUND ###
+
+Working Cash
+
+### FUND ###
+
+### TOTAL ###
+
+### ESTIMATED BEGINNING FUND BALANCE ###
+
+(must equal prior Ending Fund Balance) 145,145,602 42,858,799 :
+
+6,205,140
+
+### 276,250 ###
+
+194,485,791
+
+### RECEIPTS/REVENUES ###
+
+### ACCT # ###
+
+### LOCAL SOURCES ###
+
+### FLOW-THROUGH RECEIPTS/REVENUES FROM ONE DISTRICT TO ###
+
+### ANOTHER DISTRICT ###
+
+### STATE SOURCES ###
+
+### FEDERAL SOURCES ###
+
+Total Receipts/Revenues
+
+### DISBURSEMENTS/EXPENDITURES ###
+
+### FUNCT # ###
+
+### INSTRUCTION ###
+
+### SUPPORT SERVICES ###
+
+### COMMUNITY SERVICES ###
+
+-
+
+### PAYMENTS TO OTHER DISTRICTS & GOVT. UNITS ###
+
+### DEBT SERVICES ###
+
+### PROVISION FOR CONTINGENCIES ###
+
+Total Disbursements/Expenditures Excess of Receipts/Revenue Over/(Under) Disbursements/Expenditures D
+
+### OTHER SOURCES/USES OF FUNDS ###
+
+### OTHER SOURCES OF FUNDS (7000) ###
+
+### OTHER USES OF FUNDS (8000) ###
+
+### TOTAL OTHER SOURCES/USES OF FUNDS ###
+
+### ESTIMATED ENDING FUND BALANCE ###
+
+145,145,602 42,858,799 6,205,140
+
+### 276,250 ###
+
+194,485,791 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 26]
+UCHILL NEUuLIvIl Flal
+
+### FAYE ZŁ ###
+
+A
+
+B
+
+W
+
+X
+
+Y
+
+Z
+
+*School Districts Only
+
+### SUMMARY ###
+
+### BUDGET ADDENDUM - DEFICIT REDUCTION PLAN ###
+
+### ESTIMATED BUDGET ###
+
+Date of Adoption:
+
+District Number Maine Township HSD 207 (Enter os MM/DD/YY) District Name
+
+### FY2025-2026 ###
+
+### FY2026-2027 ###
+
+### FY2027-2028 ###
+
+### FY2028-2029 ###
+
+### ESTIMATED BEGINNING FUND BALANCE ###
+
+(must equal prior Ending Fund Balance) 184,710,230 194,485,791 194,485,791 194,485,791
+
+### RECEIPTS/REVENUES ###
+
+### ACCT # ###
+
+### LOCAL SOURCES ###
+
+155,009,340
+
+### 10 ANOTHER DISTRICT ###
+
+### FLOW-THROUGH RECEIPTS/REVENUES FROM ONE DISTRICT TO ###
+
+### STATE SOURCES ###
+
+-
+
+8,577,430
+
+### FEDERAL SOURCES ###
+
+5,607,785 Total Receipts/Revenues -
+
+169,194,555
+
+### DISBURSEMENTS/EXPENDITURES ###
+
+### FUNCT # ###
+
+### INSTRUCTION ###
+
+97,916,552
+
+### SUPPORT SERVICES ###
+
+58,722,312
+
+### COMMUNITY SERVICES ###
+
+### 887,365 ###
+
+### PAYMENTS TO OTHER DISTRICTS & GOVT. UNITS ###
+
+1,892,765
+
+### DEBT SERVICES ###
+
+D
+
+### PROVISION FOR CONTINGENCIES ###
+
+-
+
+D
+
+Total Disbursements/Expenditures 159,418,994 Excess of Receipts/Revenue Over/(Under) Disbursements/Expenditures 9,775,561
+
+### OTHER SOURCES/USES OF FUNDS ###
+
+### 24 OTHER SOURCES OF FUNDS (7000) ###
+
+### OTHER USES OF FUNDS (8000) ###
+
+### TOTAL OTHER SOURCES/USES OF FUNDS ###
+
+D
+
+O
+
+### ESTIMATED ENDING FUND BALANCE ###
+
+194,485,791 194,485,791 | 194,485,791 194,485,791 S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 27]
+Deficit Reduction Plan-Background/Assumptions (School Districts Only)
+
+### FISCAL YEAR 2025-2026 ###
+
+through Fiscal Year 2028-2029
+
+### PAGE 28 ###
+
+### MAINE TOWNSHIP HSD 207 ###
+
+Please complete the following schedule and include a brief description to identify any areas of the budget that will be impacted from one year to the next. If the deficit reduction plan relies upon new local revenues, identify contingencies for further budget reductions which will be enacted in the event those new revenues are not available.
+
+### 1. BACKGROUND AND NARRATIVE OF BUDGET REDUCTIONS: ###
+
+### 2. ASSUMPTIONS USED IN THE DEFICIT REDUCTION PLAN: ###
+
+- EBF and Estimated New Tier Funding:
+
+- Equal Assessed Valuation and Tax Rates:
+
+- Employee Salaries and Benefits:
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-398/12/2025
+
+[PAGE 28]
+
+### PAGE 29 ###
+
+Deficit Reduction Plan-Background/Assumptions (School Districts Only) Fiscal Year 2025-2026 through Fiscal Year 2028-2029
+
+- Short- and Long-Term Borrowing:
+
+- Educational Impact:
+
+- Other Assumptions:
+
+- Has the district considered shared services or outsourcing (Ex: Transportation, Insurance)? If yes, please explain:
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-398/12/2025
+
+[PAGE 29]
+EBF Spending Plan 30-34 Evidence-Based Funding: Fiscal Year 2026 Spending Plan Maine Township HSD 207 Part 1: Achieving Student Growth and Making Progress Toward State Education Goals The questions below allow you to indicate the strategic priorities and strategies that will drive your efforts to achieve student growth and make progress toward state education goals. These may involve Investing in any combination of an Organizational Unit's core resources. time, money, people, and programs.
+
+Collaboration Opportunity - Organizational Units may find that Part i is most easily and effectively completed if led by program leaders in consultation with finance leaders.
+
+What are the Organizational Unit's strategic goals for student success for the 2025-26 school year? What measures will be used to evaluate progress? (No more than 2000 characters, including spaces. ) Our goals are focused on our mission statement: "To provide an equitable and inclusive education where each and every student Is challenged, supported, and successful.
+
+Areas of specific support will be greater inclusion of students with special needs and implementing an evidenced-based EL program.
+
+Measurements of success will be standardized test scores, the number of students exiting both programs, achievement gap analysis, and inclusion gap analysis.
+
+### TOP STRATEGY 1 ###
+
+### TOP STRATEGY 2 ###
+
+Top Strategy ?
+
+Select the top three strategies that the Organizational Unit will employ to achieve student growth and make progress toward state education goals. (Select three different responses from the dropdown list.] 2)
+
+Focus Increased time and attention on special student
+
+### GROUPS ###
+
+Increase number and/or quality of professional development opportunities Increase the number of high-quality educators dedicated to special student groups If "Other" was selected In question 2, please describe. (No more than 1000 characters, including spaces. ) Part II: Planned Use of Evidence-Based Funding The questions below provide an opportunity to document the stakeholders with whom you consulted and the data you analyzed as you determined your strategic allocations of FY 2026 EBF dollars. Key statistics related to EBF distributions are provided for your reference Form 50-36/50-39 is typically released before current-year appropriations are known Therefore, the figures provided are for the prior fiscal year Collaboration Opportunity - Organizational Units may find that questions in this section are most easily and effectively completed if led by finance leaders in consultation with program leaders.
+
+Final Resources / Adequacy Target = Percent of Adequacy Evidence Based Funding Ontamratioogs test Results
+
+### FY 20751 ###
+
+Base Funding Minimum *
+
+### TIER FUNDING = ###
+
+Gross State Contribution Adequacy Target
+
+### $102,695.991 ###
+
+Percent of Adequacy Gross State Contribudon
+
+### $5,640,084 ###
+
+FY 2025 Tier Funding
+
+### $6.530 ###
+
+Within FY 2025 Gross State Contribution, Resources Attributable to Specifi Populations Average Student Enrollment
+
+### 6,154 49 ###
+
+[Final Resources
+
+### 5121.622,477 ###
+
+fler Auslenment FY25 Base Funding Minimum
+
+### $5.613.553 ###
+
+Low-Income Students
+
+### $1,310.221 ###
+
+English Learners (Els)
+
+### $94,625 ###
+
+Special Education
+
+### 51,865,515 ###
+
+FY 2020 Tier Funding *Note: Tier Funding allocations are published annually at https://www.lsbe.net/Pages/ebfdistribution.aspx Amounts are available In early August. Districts must use actual funding amounts if they are available before submitting the budget to ISBE.
+
+Founding Type ISplect) FY 2026 Tler Funding Allocation": Enter the dollar amount of Tier Funding [n.g., NEW MONEY only) allocated to the Organizational Unit for FY 2026. Select whether the amount Is estimated or actual funding.
+
+### $7,240 ###
+
+### ESTIMATED ###
+
+Select the top three sources af data used to inform the Organizational Unit's planned allocation of EBF dollars. [Select three different responses.} 2)
+
+### DATA SOURCE 1 ###
+
+State Performance Plan Indicators for Special
+
+### EDUCATION ###
+
+### DATA SOURCE 2 ###
+
+Equity Journey Continuum Data
+
+### DATA SOURCE 3 ###
+
+Student growth and achievement data, disaggregated by student groups S:\ADMINCENTER\Restricted\FINANCE\Budgels\Budgel 2025-26\Final Budget\FY26-S050-36-JA50-39
+
+8/12/2025
+
+[PAGE 30]
+EBF Spending Plan 30-34 Indicate with which groups the Organizational Unit engaged to inform its intended allocation of EBF dollars.
+
+[Select any that apply; otherwise leave blank.) Bilingual Program Director(s)
+
+### YES ###
+
+[Principals
+
+### YES ###
+
+Bilingual Parent Advisory
+
+### COMMITTEE ###
+
+### YES ###
+
+Special Ed. Program Director(s]
+
+### YES ###
+
+School Improvement
+
+### TEAMS ###
+
+Other Parent Group(s)
+
+### YES ###
+
+Other Program Leaders Teacher or Support Staff
+
+### UNIONS ###
+
+### YES ###
+
+Community Focus Group(s) School Board Members
+
+### YES ###
+
+Other School Staff
+
+### OTHER ###
+
+[Optional] Provide a brief description of the Organizational Unit's process for consulting with internal and external stakeholders in determining the allocation of EBF dollars. (No more than 1000 characters, including
+
+### SPACES. ) ###
+
+Prionty Irweitrficht 2 Priority Invettenem Given the data analyzed, the stakeholders consulted, and the priorities identifled in Part I, indicate the top three priority Investments the Organizational Unit will make with its FY 2026 Base Funding Minimum (e.g., Jexcluding Tier Funding). Choose "Other" If Investments do not match the provided list. (Select three different responses. "Other" may be selected more than once If needed.) EL Core Teacher Core Teachers Professional Development If "Other" was selected in question 4, please describe. (No more than 1000 characters, Including spaces. ) Cost Factor Table The table below presents the regionally adjusted amount embedded in the Organizational Unit's FY 2025 Adequacy Target for each of the 34 cost factors in the Evidence-Based Funding model (Column F]. Column G Is required for all Organizational Units that receive at least $5,000 in Tier Funding, while column His optional Organizational Units may choose to provide additional narrative context in Columns I-M to elaborate on the figures included In the table. ISBE has produced guidance for populating the cost factor table. The guidance includes a definition for each cost factor, along with suggestions for using Employee Information System position codes and common expenditure accounts to support a determination of expenditures This guidance is available at https://www.isbe.net/ebfspendingplan.
+
+5) | Column G: If the Organizational Unit will receive at least $5,000 in FY 2026 Tier Funding (as entered In Q2.1/cell G31), column G Is required Please indicate the Organizational Unit's planned expenditures In FY 2026 from Tler Funds only. Organizational Units are not
+
+expected to place a value in each cell. Rather, the table allows for the communication of priority investments with new state resources for the current fiscal year. During years in which there is no new Tier Funding, column G will not be required. During years in which Tier Funding is available, the amount of new Tier Funding entered in Q2.1/cell G31 above must equal the sum in cell 690 below If some or all Tier Funding is invested outside of the cost factors, enter a dollar amount in cell G89 and provide additional context in the space for a narrative beginning in row 93 Column H: Optionally, Organizational Units may populate column H with total planned expenditures in FY 2026 for each cost factor from all revenue sources (e.g., not just from EBF). By comparing the figures in column F to the figures entered in column H, the Organizational Unit may engage local stakeholders In productive dialogue about resource allocation decisions.
+
+Cost Factors Amount In FY 2025 Adjusted Adequacy Target Budgeted FY 2026 Investments with New Tier
+
+### FUNDING ###
+
+### [REQUIRED] ###
+
+Budgeted FY 2026 Expenditures [All Resources)
+
+### [OPTIONAL] ###
+
+Optional District Narratives Core Investments Core Teachers $23 116,944
+
+### $7,240 ###
+
+Enter optional context for care investment decisions.
+
+Specialist Teachers
+
+### $7,704,877 ###
+
+Instructional Facilitator
+
+### $2,674,594 ###
+
+Core Intervention Teacher
+
+### $890,952 ###
+
+Substitute Teachers
+
+### $806,317 ###
+
+Guidance Counselor
+
+### $2,293,763 ###
+
+### NURSE ###
+
+### $538,597 ###
+
+Supervisory Aide
+
+### $1,009 144 ###
+
+### LIBRARIAN ###
+
+### $891,364 ###
+
+Librarian Aide
+
+### $672 653 ###
+
+### PRINCIPAL ###
+
+### $1,314,036 ###
+
+Assistant Principal
+
+### $1 144 497 ###
+
+School Site Staff
+
+### $1,210 914 ###
+
+### SUBTOTAL ###
+
+$44,268,654
+
+### $7,240 ###
+
+S:\ADMINCENTER\Rastricled\FINANCE\Budgets\Budgel 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 31]
+EBF Spending Plan 30-34 Per Student Investments Additional Investments
+
+### GIFTED ###
+
+### $553,904 ###
+
+Professional Development
+
+### $769,311 ###
+
+Instructional Materials
+
+### $2,000,209 ###
+
+Assessments
+
+### $209,253 ###
+
+Computer & Tech Equipment
+
+### $1,757,107 ###
+
+Student Activities
+
+### $5,699,058 ###
+
+Maintenance & Operations
+
+### $9,237 889 ###
+
+Central Office
+
+### $6,154 ###
+
+Employee Benefits $18,053,467
+
+### SUBTOTAL" ###
+
+$44,843,664 Low-Income Intervention Teacher
+
+### $1,260,200 ###
+
+Low-Income Pupil Support Staff
+
+### $1,260,200 ###
+
+Low-Income Extended Day Teacher
+
+### $1,312,808 ###
+
+Low-Income Summer School Teacher
+
+### $1,312,808 ###
+
+EL Intervention Teacher
+
+### $559,557 ###
+
+EL Pupil Support Staff
+
+### $559,557 ###
+
+EL Extended Day Teacher
+
+### $582,673 ###
+
+EL Summer School Teacher
+
+### $582,673 ###
+
+EL Core Teacher
+
+### $699,048 ###
+
+Sp Ed Teacher
+
+### $3,478,502 ###
+
+Sp Ed Instructional Assistant
+
+### $1,431,233 ###
+
+Sp Ed Psychologist
+
+### $544,412 ###
+
+### SUBTOTAL ###
+
+$13,583,673 Other Investments
+
+### TOTAL ** ###
+
+$102,695,991
+
+### $7,240 ###
+
+*The subtotal for Per Student Investments Is a calculated figure that adjusts salary portions of Central Office and Maintenance & Operations to account for regional salary differences. As a result, the sum of each Individual cost factor will not equal the subtotal Enter optionol context for per student investment decisions.
+
+Enter optional context for additional investment decisions.
+
+Tier Funding Check (Cell G90) Complete, 090-G31 ** The total is the Final Adequacy Target (adjusted for Regionalization Factor) calculated in the Full FY 2025 EBF Calculation file. Due to differences in rounding, this figure may vary slightly from the sum of the subtotals in this table, If some or all Tier Funding was invested outside of the cost factors, please describe. [No more than 1000 characters, including spaces. ) Part II: Support for Special Student Groups EBF statute sets aside specific allocations to be spent for special education, English learners, and low-income students Per statue these designated funds must be spent on programs and services benefiting these specific student groups Funds for English learners and low- income students must be spent in addition to, and not in lieu of, funding that supports general programs of instruction for all students. Funds attributable to special education must be used for the provision of special education facilities and services as outlined in ILCS 14- 1.08 Current-year EBF amounts attributable to each of the special student groups must be reported in Question 1 below [cells G100-G102). If the Organizational Unit received at least $5,000 for any of the student groups, a response to Questions 2 through 4 below is required. For amounts less than $5,000, a response is optional for those questions All other EBF funds may be spent in any manner deemed appropriate by the school district.
+
+Collaboration Opportunity - Organizational Units may find that questions In this section ore most easily and effectively completed through collaboration between program leaders affiliated with each student group ond finance leaders.
+
+*Note: Allocations for each of the three student groups are published annually at isbe.net/ebfdist under "Reports." Amounts are typically available by September 1. Districts must use actual funding amounts if they are available before submitting the budget to ISBE.
+
+FY 2026 Student Population Allocations": Enter the dollar amount of resources attributable to Specific Populations within the FY26 Gross State Contribution. Enter "0" If no funds are allocated for a student group. Select whether amounts are estimated or actual.
+
+Entar Amounts Select Trov Low-Income Students
+
+### $1,310,842 ###
+
+### ACTUAL ###
+
+English Learners
+
+### $94,941 ###
+
+### ACTUAL ###
+
+Special Education
+
+### $1,866,013 ###
+
+### ACTUAL ###
+
+S:ADMINCENTER\RestricledVFINANCE\Budgets\Budget 2025-26\Final Budgel\FY28-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 32]
+EBF Spending Plan 3D-34 Organizational Unit investment of EBF dollars for low-income students: Select the investments that apply.
+
+[Optionally, dollar amounts for each Investment may be entered.) Response Roqufred Low-Income Intervention
+
+### TEACHER ###
+
+### $1,300,000 ###
+
+Low-Income Pupil Support
+
+### STAFF ###
+
+[Optional - Enter $] Additional context for the Organizational Unit's planned use of dollars attributable lo low-income students in FY None
+
+2020. (Required if "Other Investments" selected above. No more than 500 characters, Including spaces. )
+
+Organizational Unit investment of EBF dollars for English learners: Select the Investments that apply.
+
+(Optionally, dollar amounts for each investment may be entered.) Response Required English Learner Intervention
+
+### TEACHER ###
+
+(Optional - Enter $] English Learner Pupil Support Staff [Optional - Enter $] Additional context for the Organizational Unit's planned use of dollars attributable to English learners in FY
+
+2026. (Required if "Other Investments" selected above. No more than 500 characters, Including spaces. )
+
+### NONE ###
+
+Organizational Units investment of EBF dollars for Special Education: Select the Investments that apply.
+
+(Optionally, dollar amounts for each investment may be entered.] Response Required Special Education Teacher
+
+### $1,865,000 ###
+
+4)
+
+Special Education Instructional Assistant [Optional - Enter $] Additional context for the Organizational Unit's planned use of dollars attributable to Special Education students In FY 2026 (Required if "Other Investments" selected above. No more than 500 characters, including
+
+### NONE ###
+
+### YES ###
+
+### YES ###
+
+Other Investments Low-Income Extended Day
+
+### TEACHER ###
+
+[Optional - Enter $] Low-income Summer School Teacher [Optional - Enter $] [Optional - Enter $) English Learner Extended
+
+### DAY TEACHER ###
+
+English Learner Core Teacher
+
+### YES ###
+
+[Optional - Enter $] English Learner Summer School Teacher
+
+### $94,000 ###
+
+Other Investments [Optional - Enter $] [Optional - Enter $] Special Education Psychologist [Optional - Enter $] Other Investments (Optional - Enter $] Plan Assurances Please complete the assurances below related to Article 14C of the Illinois School Code, which contains provisions for EL services, parent participation, and the use of EBF dollars provided for English learners It Is the Joint responsibility of home and serving entities to ensure compliance related to the use of state funding provided for English learners Organizational Units should maintain supporting documentation (e.g., sign-in sheets, meeting agendas) to affirm the veracity of the below assurances. Responses in this section are only required if an Organizational Unit receives any amount of EBF dollars attributable to English learners Collaboration Opportunity - Organizational Units may find that the plan assurances are most easily and effectively completed if led by program leaders.
+
+1). "'s hereby affirm that at least 60% of the school district's state funds attributable to English learners will be used for instructional costs of programs and services for English learners (function 1000], in accordance with Article 14C of the Illinois School Code. The remaining balance of state funds attributable to English learners will also be used to serve English learners."
+
+### REQUIRED ###
+
+### YES ###
+
+2). "My school district has at least one attendance center with 20 or more English learners (including parental refusals) who speak the same home language other than English in grades K-12. Alternatively and/or additionally, my school district has at least one attendance center with 20 or more English learners (including parent refusals) who speak the same home language other than English in pre-K."
+
+### REQUIRED ###
+
+### YES ###
+
+3], "I hereby affirm that the school district's BPAC will review this EBF Spending Plan by or before October 31, 2025."
+
+### REQUIRED ###
+
+### YES ###
+
+4|. Enter the anticipated date on which the BPAC review will take place and the name of the BPAC chair for SY 2025-26.
+
+BPAC Macting (MM/DD/YYYY)
+
+### REQUIRED ###
+
+Name of Chair Hannah Moses
+
+### 6/15/2025 ###
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-38-JA50-39
+
+8/12/2025
+
+[PAGE 33]
+EBF Spending Plan 30-34 Spending Ply Completion Tracker Use the information below to confirm completion of all required questions. Note that the "status" column adjusts to responses, so the tracker is most helpful to consult after you have completed the spending plan.
+
+### QUESTION ###
+
+### STATUS ###
+
+Acceptance Criteria
+
+### PART 1, Q1 ###
+
+### COMPLETE ###
+
+Character length of response must be >10 and <= 2000, Including spaces.
+
+### PART 1, Q2 ###
+
+### COMPLETE ###
+
+A different response must be selected in G11, 111, and L11; cells cannot be blank, Part 1, Q2 (Narrative)
+
+### COMPLETE ###
+
+Response required only if "Other" selected in G11, 111, or L11; character length of response must be >10 and <= 1000, including spaces.
+
+### PART 2, 01 ###
+
+### COMPLETE ###
+
+A numeric value must be entered in cell G31 |estimated or actual Tier Funding, or 0 If appropriations did not include Tier Fundingl. A tyne must be selected in cell H31.
+
+### PART 2, Q2 ###
+
+### COMPLETE ###
+
+A different response must be selected in G35, 135, and 135; cells cannot be blank.
+
+### PART 2, 03 ###
+
+### COMPLETE ###
+
+At least one response must be selected.
+
+### PART 2, Q4 ###
+
+### COMPLETE ###
+
+Cells G43, 143, and (43 cannot be blank. "Other" may be selected more than once, but other responses may not be repeated.
+
+Part 2, Q4 (Narrative)
+
+### COMPLETE ###
+
+Response required only if "Other" selected in G43. 143, or L43; character length of response must be >10 and <= 1000, including spaces.
+
+Part 2, Q5 (Cell G90
+
+### COMPLETE ###
+
+Cell G90 must be equal to the value in cell G31.
+
+Part 2, Q5 (Narrative)
+
+### COMPLETE ###
+
+Response required only if a value was entered In cell G89; character length of response must be >10 and <= 1000, Including spaces, Part 3, Q1 Low-Income Funds
+
+### COMPLETE ###
+
+A numeric value must be entered. A type must be selected in cell H100.
+
+Part 3, Q1 English Learner Funds
+
+### COMPLETE ###
+
+A numeric value must be entered, which may be "0" if the organizational unit received no funding for the specified student group. A type must be selected In cell H101.
+
+Part 3, Q1 Spec. Ed. Funds
+
+### COMPLETE ###
+
+A numeric value must be entered, A type must be selected in cell H102.
+
+### PART 3, 02 ###
+
+### COMPLETE ###
+
+At least one response must be selected.
+
+Part 3, Q2 [Narrative]
+
+### COMPLETE ###
+
+Response required only if "Other Investments" was selected in the previous question; character length of response must be >10 and <= 500, including spaces,
+
+### PART 3, Q3 ###
+
+### COMPLETE ###
+
+At least one response must be selected.
+
+Part 3, Q3 (Narrative)
+
+### COMPLETE ###
+
+Response required only if "Other Investments" was selected in the previous question; character length of response must be >10 and <= 500, including spaces.
+
+### PART 3, Q4 ###
+
+### COMPLETE ###
+
+At least one response must be selected.
+
+Part 3, Q4 (Narrative
+
+### COMPLETE ###
+
+Response required only if "Other Investments" was selected In the previous question; character length of response must be >10 and <= 500, including spaces.
+
+Assurances 1
+
+### COMPLETE ###
+
+Response required If the value entered in cell G101>0.
+
+Assurances 2
+
+### COMPLETE ###
+
+Response required if the value entered in cell G101>0.
+
+Assurances 3
+
+### COMPLETE ###
+
+Response required if "Yes" selected in cell E133.
+
+Assurances 4 (Meeting Date)
+
+### COMPLETE ###
+
+Response required if "Yes" selected in cell £133; enter date in MM/DD/YYYY format.
+
+Assurances 4 (Name of Chalr)
+
+### COMPLETE ###
+
+Response required if "Yes" selected in cell E133.
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budgel\FY26-SD60-36-JA50-39
+
+8/12/2025
+
+[PAGE 34]
+Page 35 ESTIMATED LIMITATION OF ADMINISTRATIVE COSTS (School Districts Only) (For Local Use Only) This is an estimated Limitation of Administrative Costs Worksheet only and will not be accepted for Official Submission of the Limitation of Administrative Costs Worksheet.
+
+The worksheet is intended for use during the budgeting process to estimate the district's percent increase of FY2026 budgeted expenditures over actual FY2025 expenditures.
+
+Budget information is copied to this page. Insert the prior year estimated actual expenditures to compute the estimated percentage increase (decrease).
+
+The official Limitation of Administrative Costs Worksheet is attached to the end of the Annual Financial Report (ISBE Form 50-35) and must be submitted in conjunction with that report.
+
+An official Limitation of Administrative Costs Worksheet can also be found on the ISBE website at:
+
+Limitation of Administrative Costs
+
+### ESTIMATED LIMITATION OF ADMINISTRATIVE COSTS WORKSHEET ###
+
+(Section 17-1.5 of the School Code) School District Name:
+
+Maine Township HSD 207 RCDT Number:
+
+Estimated Actual Expenditures, Fiscal Year 2025 Budgeted Expenditures, Fiscal Year 2026
+
+### (10) ###
+
+### (20) ###
+
+### (80) ###
+
+### (10) ###
+
+### (20) ###
+
+### (80) ###
+
+Description Funct. No.
+
+Educational
+
+### FUND ###
+
+Operations & Maintenance
+
+### FUND ###
+
+Tort Fund
+
+### TOTAL ###
+
+Educational
+
+### FUND ###
+
+Operations & Maintenance
+
+### FUND ###
+
+Tort Fund
+
+### TOTAL ###
+
+### 1. EXECUTIVE ADMINISTRATION SERVICES ###
+
+1,688,508 1,688,508 1,595,558 1,595,558
+
+### 2. SPECIAL AREA ADMINISTRATION SERVICES ###
+
+1,185,742 1,185,742 905,612 905,612 3.
+
+Other Support Services - School Administration 3,655,928 3,655,928 3,793,037 3,793,037 4.
+
+Direction of Business Support Services 439,112 439,112 468,917 468,917 5.
+
+Internal Services 461,705 461,705 463,185 463,185
+
+### 6. DIRECTION OF CENTRAL SUPPORT SERVICES ###
+
+7. Deduct - Early Retirement or other pension obligations required by
+
+state law and included above.
+
+D
+
+### 8. TOTALS ###
+
+7,430,995 7,430,995 7,226,309 7,226,309
+
+### 9. ESTIMATED PERCENT INCREASE (DECREASE) FOR FY2026 ###
+
+(Budgeted) over (Actual) FY 2025
+
+### -3% ###
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39 8/12/2025
+
+[PAGE 35]
+
+### PAGE 36 ###
+
+REPORTING OF PUBLIC VENDOR CONTRACTS OF $1,000 OR MORE (School Districts Only) In accordance with the School Code, Section 10-20.21, all school districts are required to file a report listing 'vendor contracts' as an attachment to their budget. In this context, the term "vendor contracts" refers to "all contracts and agreements that pertain to goods and services that were intended to generate additional revenue and other remunerations for the school district in excess of $1,000, Including without limitation vending machine contracts, sports and other attire, class rings, and photographic services. The report is to list information regarding such contracts for the fiscal year immediately preceding the fiscal year of the budget. All such contracts executed on or after July 1, 2007 must be approved by the school board.
+
+See: School Code, Section 10-20.21 - Contracts
+
+### NAME OF VENDOR ###
+
+Product or Service Provided
+
+### NET REVENUE ###
+
+### NON-MONETARY ###
+
+### REMUNERATION ###
+
+### PURPOSE OF PROCEEDS ###
+
+Distribution Method and Recipient of Non- Monetary Remunerations Distributed -
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 36]
+
+### PAGE 37 ###
+
+### REFERENCE DESCRIPTION ###
+
+1 Each fund balance should correspond to the fund balance reflected on the books as of June 30th - Balance Sheet Accounts #720 and #730 (audit figures, if available).
+
+2 Accounting and Financial Reporting for Certain Grants and Other Financial Assistance. The "On-Behalf" Payments should only be reflected on this page (Budget Summary, Lines 10 and 20).
+
+3 Requires the secretary of the school board to notify the county clerk (within 30 days of the transfer approval) to abate an equal amount of taxes to be next extended. See Sec. 10-22.14 & 17-2.11.
+
+3a Requires notification to the county clerk to abate an equal amount from taxes next extended. See section 10-22.14
+
+### 4 PRINCIPAL ON BONDS SOLD: ###
+
+(1) Funding Bonds are to be entered in the fund or funds in which the liability occurs.
+
+(2) Refunding Bonds can be entered in the Debt Services Fund only.
+
+(3) Building Bonds can be entered in the Capital Projects Fund only.
+
+(4) Fire Prevention and Safety Bonds can be entered in the Fire Prevention & Safety Fund only.
+
+The proceeds from the sale of school sites, buildings, or other real estate shall be used first to pay the principal and interest on any outstanding bonds on the property being sold, and after all such bonds have been retired, the remaining proceeds from the sale next shall be used by the school board to meet any urgent district needs as determined under Sections 2-3.12 and 17-2.11 of the School Code. Once these issues have been addressed, any remaining proceeds may be used for any other authorized purpose and for deposit into any district fund.
+
+6 The School Code, Section 10-22.44 prohibits the transfer of interest earned on the investment of "any funds for purposes of Illinois Municipal Retirement under the Pension Code." This prohibition does not include funds for Social Security and Medicare-only purposes. For additional requirements on interest earnings, see 23 Illinois Administrative Code, Part 100, Section 100,50.
+
+7 Cash plus investments must be greater than or equal to zero.
+
+For cash basis budgets, this total will equal the Budget Summary - Total Direct Receipts/Revenues (Line 9) plus Total Other Sources of Funds (Line 46).
+
+9 For cash basis budgets, this total will equal the Budget Summary - Total Direct Disbursements/Expenditures (Line 19) plus Total Other Uses of Funds (Line 79).
+
+Working Cash Fund loans may be made to any district fund for which taxes are levied (Section 20-5 of the School Code).
+
+Include revenue accounts 1110 through 1115, 1117,1118 & 1120.
+
+The School Code Section 17-2.2c. Tax for leasing educational facilities or computer technology or both, and for temporary relocation expense purposes.
+
+Corporate personal property replacement tax revenue must be first applied to the Municipal Retirement/Social Security Fund to replace tax revenue lost due to the abolition of the corporate personal property tax (30 ILCS 115/12). This provision does not apply to taxes levied for Medicare-Only purposes.
+
+Only tuition payments made to private facilities. See Functions 4200 or 4400 for estimated public facility disbursements/expenditures.
+
+15 Payment towards the retirement of lease/purchase agreements or bonded/other indebtedness (principal only) otherwise reported within the fund - e.g .:
+
+### ALTERNATE REVENUE BONDS. (DESCRIBE & ITEMIZE) ###
+
+16 Only abolishment of Working Cash Fund must transfer its funds directly to the Educational Fund upon adoption of a resolution and at the close of the current school Year (see 105 ILCS 5/20-8 for further explanation) Only abatement of working cash fund can transfer its funds to any fund in most need of money
+
+### (SEE 105 ILCS 5/20-10 FOR FURTHER EXPLANATION) ###
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-398/12/2025
+
+[PAGE 37]
+
+### PAGE 38 ###
+
+### CHECK FOR ERRORS ###
+
+This worksheet checks various cells to assure that selected items are in balance.
+
+Please fix errors below before submitting to ISBE.
+
+### BUDGET ITEM REFERENCES ###
+
+### --- ###
+
+### MESSAGE ###
+
+### 1. DEFICIT REDUCTION PLAN (DEFREDUCTPLAN 23-27 TAB) ###
+
+Is Deficit Reduction Plan Required? (Joint Agreements do not complete Deficit Reduction Plan.) Deficit Reduction Plan is not required If required, is Deficit Reduction Plan completed? (DefReductPlan 23-27 tab) -
+
+### 2. COVER PAGE (COVER TAB) ###
+
+District Name must be selected from drop-down. (Cell H13) OK
+
+Accounting Basis must be selected on Cover sheet.
+
+OK
+
+Dates (Day, Month, Year) must be input on Cover sheet.
+
+OK
+
+Board Names must be typed on Cover sheet.
+
+### ERROR - TYPE BOARD NAMES ###
+
+3. Budget Summary: Other Sources (BudgetSum 2-4 tab - Acct 7000) must equal Other Uses (BudgetSum 2-4 tab - Acct 8000).
+
+Estimated Beginning Fund Balance July, 1 2025 for all Funds (Cells C3 - K3) (Line must have a number or zero. Do not leave blank.} OK
+
+Estimated Activity Fund Beginning Fund Balance July, 1 2025 (Cell C83) (Cell must have a number or zero. Do not leave blank.) OK
+
+Transfer Among Funds (Funds 10, 20, 40 - Acct 7130 - Cells C29, D29, F29), must equal (Funds 10, 20 & 40 - Acct 8130 - Cells
+
+### C52, D52, F52). ###
+
+OK
+
+Transfer of Interest (Funds 10 thru 90 - Acct 7140 - Cells C30:K30), must equal (Funds 10 thru 60, & 80 - Acct 8140 - Cells
+
+### C53:H53, J53). ###
+
+OK
+
+Transfer to Debt Service to Pay Principal on GASB 87 Leases (Fund 30 - Acct 7400 - Cell E39} must equal (Funds 10, 20 & 60 - Acct 8400 Cells C57:H60).
+
+OK
+
+Transfer to Debt Service to Pay Interest on GASB 87 Leases (Fund 30 - Acct 7500 - Cell E40) must equal (Funds 10, 20 & 60 - Acct 8500 - Cells C61:H64).
+
+OK
+
+Transfer to Debt Service Fund to Pay Principal on Revenue Bonds (Fund 30 - Acct 7600 - Cell E41) must equal (Funds 10 & 20 - Acct 8600 - Cells C65:D68).
+
+OK
+
+Transfer to Debt Service to Pay Interest on Revenue Bonds (Fund 30 - Acct 7700 - Cell E42) must equal (Funds 10 & 20 - Acct 8700 - Cells C69:D72).
+
+OK
+
+Transfer to Capital Projects Fund (Fund 60 - Acct 7800 - Cell H43) must equal (Fund 10 & 20, Acct 8800 - Cells C73:D76).
+
+OK
+
+4. Summary of Cash Transactions: Beginning Cash Balance on Hand July 1, 2024 (CashSum 5 tab, All Funds) cannot be negative.
+
+Educational (Fund 10 - Cell C3) OK
+
+Operations & Maintenance (Fund 20 - Cell D3) OK
+
+Debt Service (Fund 30 - Cell E3) OK
+
+Transportation (Fund 40 - Cell F3) OK
+
+Municipal Retirement/Social Security (Fund 50 - Cell G3) OK
+
+Capital Projects (Fund 60 - Cell H3) OK
+
+Working Cash (Fund 70 - Cell 13) OK
+
+### TORT (FUND 80 - CELL 13) ###
+
+OK
+
+Fire Prevention & Safety (Fund 90 - Cell K3) OK
+
+### ACTIVITY FUNDS (CELL C23) ###
+
+OK
+
+5. Summary of Cash Transactions: Ending Cash Balance on Hand June 30, 2024 (CashSum 5 tab - All Funds) cannot be negative.
+
+Educational (Fund 10 - Cell C21) OK
+
+Operations & Maintenance (Fund 20 - Cell D21) OK
+
+Debt Service (Fund 30 - Cell E21) OK
+
+Transportation (Fund 40 - Cell F21) OK
+
+Municipal Retirement/Social Security (Fund 50 - Cell G21) OK
+
+Capital Projects (Fund 60 - Cell H21) OK
+
+Working Cash (Fund 70 - Cell 121) OK
+
+### TORT (FUND 80 - CELL J21) ###
+
+OK
+
+Fire Prevention & Safety (Fund 90 - Cell K21) OK
+
+6. Summary of Cash Transactions: Other Receipts (CashSum 5 tab) must equal Other Disbursements (CashSum 5 tab).
+
+Interfund Loans Payable (Funds 10:60, 80, 90 - Acct 411 - Cells C6:H6, J6:K6) must equal Interfund Loans Receivable {Funds 10:20, 40, 70 - Acct 141 - Cells C15:D15, F15, 115).
+
+OK
+
+Interfund Loans Receivable (Funds 10, 20, 40, 70 - Acct 141 - Cells C7:D7, F7, 17) must equal Interfund Loans Payable (Funds 10:60, 80, 90 - Acct 411 - Cells C16:H16, J16, K16).
+
+OK
+
+### 7. ESTIMATED REVENUE (ESTREV 6-11 TAB) ###
+
+Amounts must be input for revenue.
+
+OK
+
+### 8. ESTIMATED EXPENDITURES (ESTEXP 12-20 TAB) ###
+
+Amounts must be input for expenditures.
+
+OK
+
+9. Itemization Notes: Revenues/Expenditures reported that require note on Itemize 21 tab.
+
+Include brief note(s) describing revenue source.
+
+OK
+
+Include brief note(s) describing expenditure use.
+
+OK
+
+### 10. EBF SPENDING PLAN ###
+
+All required questions have been answered.
+
+OK
+
+### END OF BALANCING ###
+
+S:\ADMINCENTER\Restricted\FINANCE\Budgets\Budget 2025-26\Final Budget\FY26-SD50-36-JA50-39
+
+8/12/2025
+
+[PAGE 38]
+

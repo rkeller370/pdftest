@@ -1,0 +1,284 @@
+# MANIFEST
+SOURCE: NSERVE Annual Financial Report-June 30, 2025
+METHOD: azure-fallback
+STAMP: 2026-01-26T14:13:02.234Z
+
+==================================================
+
+[PAGE 1]
+
+### ASA 2023 ###
+
+### ILLINOIS STATE BOARD OF EDUCATION ###
+
+School Business Services 217-785-8779
+
+### ANNUAL STATEMENT OF AFFAIRS ###
+
+### FISCAL YEAR ENDING ###
+
+### JUNE 30, ###
+
+### SCHOOL DISTRICT/JOINT AGREEMENT NAME: ###
+
+North Suburban Ed Reg for Voc ( NSERV)
+
+### RCDT NUMBER: ###
+
+05-016-2070-46
+
+### ADDRESS: ###
+
+2601 Dempster St., Park Ridge, IL 60068
+
+### COUNTY: ###
+
+### COOK ###
+
+### NAME OF NEWSPAPER WHERE PUBLISHED: ###
+
+Journal & Topics Newspaper
+
+### DISTRICT TYPE ###
+
+Elementary High School
+
+### UNIT ###
+
+x
+
+Joint Agreement
+
+### ASSURANCE ###
+
+The Annual Statement of Affairs has been posted on the district's website and published in accordance with Section 10-17 of the School Code no later than December 1. (Put "X" in blue box if yes.) X
+
+### YES ###
+
+### SIZE OF DISTRICT IN SQUARE MILES ###
+
+Not Applicable
+
+### NUMBER OF ATTENDANCE CENTERS ###
+
+Not Applicable
+
+### NUMBER OF CERTIFICATED EMPLOYEES ###
+
+### FULL-TIME ###
+
+### PART-TIME ###
+
+### NUMBER OF NON-CERTIFICATED EMPLOYEES ###
+
+### FULL-TIME ###
+
+### PART-TIME ###
+
+### TAX RATE BY FUND (IN %) ###
+
+### EDUCATIONAL ###
+
+Not Applicable
+
+### OPERATIONS & MAINTENANCE ###
+
+Not Applicable
+
+### BOND & INTEREST ###
+
+Not Applicable
+
+### TRANSPORTATION ###
+
+Not Applicable
+
+### MUNICIPAL RETIREMENT ###
+
+Not Applicable
+
+### SOCIAL SECURITY ###
+
+Not Applicable
+
+### WORKING CASH ###
+
+Not Applicable
+
+### FIRE PREVENTION & SAFETY ###
+
+Not Applicable
+
+### TORT IMMUNITY ###
+
+Not Applicable
+
+### CAPITAL PROJECTS ###
+
+Not Applicable
+
+### SPECIAL EDUCATION ###
+
+Not Applicable
+
+### LEASING ###
+
+Not Applicable
+
+### OTHER ###
+
+Not Applicable
+
+### OTHER ###
+
+Not Applicable The ASA must be posted on the school district's website and published in a newspaper of general circulation no later than December 1, 2025. Refer to Section 10-17 and Section 10-20.44 of the School Code.
+
+Annual Statement of Affairs Instructions Form 50-37
+
+### 08/25 ###
+
+Data previously included in the Annual Statement of Affairs can be found at:
+
+Payments to certified personnel Posted on district website per 105 ILCS 5/10-20.47 Student Counts Included in district's report card Illinois Report Card Financial Data Included in district's Annual Financial Report posted on ISBE's Cerberus Server How to access Cerberus Server
+
+[PAGE 2]
+
+### ASA 2023 ###
+
+Salary Range: Less Than $39.999 Salary Range: $40,000 - $54,999 Salary Range: $55,000 - $74,999 Salary Range: $75,000 and Over Matthews, Julie Elizabeth
+
+[PAGE 3]
+
+### ASA 2023 ###
+
+### PAYMENTS TO PERSON, FIRM, OR CORPORATION OVER $2,500 EXCLUDING WAGES AND SALARIES ###
+
+This listing must include expenditures from any revolving fund maintained by the school district.
+
+Person, Firm, or Corporation Aggregate Amount
+
+### KASTORY, AMY ###
+
+### 2,789.85 ###
+
+### WR TYPE /DATA DIRECT ###
+
+### 2,799.00 ###
+
+### THE CINCINNATI INSURANCE CO. ###
+
+### 4,713.00 ###
+
+### OAKTON COMMUNITY COLLEGE ###
+
+### 7,221.09 ###
+
+### ECCEZION, LTD ###
+
+12,100.00
+
+### ALLIANCE LEARNING DESIGN LLC ###
+
+12,750.00
+
+### PROJECT LEAD THE WAY, INC ###
+
+14,250.00
+
+### KAISER, MATTHEW ###
+
+17,944.80
+
+### JP MORGAN CHASE BANK ###
+
+44,487.88
+
+### NEW TRIER TOWNSHIP HIGH SCHOOL 203 ###
+
+206,105.00
+
+### EVANSTON TOWNSHIP HS #202 ###
+
+285,234.50
+
+### NILES TOWNSHIP HS DIST #219 ###
+
+319,396.00
+
+### GLENBROOK HIGH SCHOOL DISTRICT 225 ###
+
+434,720.69
+
+### MAINE TOWNSHIP DISTRICT 207 ###
+
+524,808.08 Person, Firm, or Corporation Aggregate Amount
+
+[PAGE 4]
+
+### ASA 2023 ###
+
+### PAYMENTS TO PERSON, FIRM, OR CORPORATION OF $1,000 TO $2,500 EXCLUDING WAGES AND SALARIES ###
+
+This listing must include expenditures from any revolving fund maintained by the school district.
+
+Person, Firm, or Corporation Aggregate Amount
+
+### DES PLAINES VALLEY REGION ###
+
+### 1,015.00 ###
+
+### WAGNER, ERICA ###
+
+### 2,191.46 ###
+
+Person, Firm, or Corporation Aggregate Amount
+
+[PAGE 5]
+
+### ASA 2023 ###
+
+### REPORT ON CONTRACTS EXCEEDING $25,000 AWARDED DURING FY2025 ###
+
+In conformity with sub-section (c) of Section 10-20.44 of the School Code [105 ILCS 5/10-20.44], the following information is required to be submitted in conjunction with publication of the Annual Statement of Affairs [105 ILCS 5/10-17].
+
+INSTRUCTIONS: Double click attached document "Contracts Exceeding $25,000 Guidance" (pdf) below for additional guidance and definitions.
+
+.
+
+### CONTRACT GUIDANCE ###
+
+The schedule below (Items 1-4) must be completed for contracts exceeding $25,000.
+
+If school district/joint agreement does not have any contracts exceeding $25,000, please add zeros (0) to cells "D24"-"D29".
+
+ITEM 1. - Count only contracts where the consideration exceeds $25,000 over the life of the contract and that were awarded during FY2025 and record the number below in the space provided. Do not include: (1) multi-year contracts awarded prior to FY2025
+
+### ; (2) COLLECTIVE ###
+
+bargaining agreements with district employee groups; and (3) personal services contracts with individual district employees.
+
+ITEM 2. - Aggregate the value of consideration of all contracts included in Item 1 and record the dollar amount below in the space provided.
+
+ITEM 3. - Count only contracts where the consideration exceeds $25,000 over the life of the contract that were awarded during FY2025 to minority, female, disabled or local contractors and record the number below in the space provided. Do not include: (1) multi-year contracts awarded prior to FY2025 ; (2) collective bargaining agreements with district employee groups; and (3) personal services contracts with individual district employees.
+
+ITEM 4. - Aggregate the value of consideration of all contracts included in item 3 and record the dollar amount below in the space provided.
+
+1. Total number of all contracts awarded by the school district:
+
+### 2. TOTAL VALUE OF ALL CONTRACTS AWARDED: ###
+
+### $0.00 ###
+
+3. Total number of contracts awarded to minority owned businesses, female owned businesses, businesses owned by
+
+### PERSONS WITH DISABILITIES, AND LOCALLY OWNED BUSINESSES: ###
+
+*If there are no contracts of this nature, please enter "0" in box to the right.
+
+4. Total value of contracts awarded to minority owned businesses, female owned businesses, businesses owned by
+
+### PERSON WITH DISABILITIES, AND LOCALLY OWNED BUSINESSES: ###
+
+*If there are no contracts of this nature, please enter "0" in box to the right.
+
+$0.00

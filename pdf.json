@@ -188,6 +188,41 @@
       "main_tab": "Human Resources",
       "subtab": "Join Our Team",
       "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/09/Legal-Budget-2025-2026.pdf",
+      "file_name": "Legal Budget 2025-2026",
+      "main_tab": "Budgets/Financial Reports/Contracts",
+      "subtab": "Business Office",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2021/11/Annual-Statement-of-Affairs-2020.pdf",
+      "file_name": "Annual Statement of Affairs 2020",
+      "main_tab": "Budgets/Financial Reports/Contracts",
+      "subtab": "Business Office",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/11/Annual-Financial-Report-June-30-2025.pdf",
+      "file_name": "Annual Financial Report-June 30, 2025",
+      "main_tab": "Budgets/Financial Reports/Contracts",
+      "subtab": "Business Office",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/12/Contracts-Over-25000-2025-2026.pdf",
+      "file_name": "Contracts Over $25,000 2025-2026",
+      "main_tab": "Budgets/Financial Reports/Contracts",
+      "subtab": "Business Office",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/11/NSERVE-Annual-Financial-Report-June-30-2025.pdf",
+      "file_name": "NSERVE Annual Financial Report-June 30, 2025",
+      "main_tab": "Budgets/Financial Reports/Contracts",
+      "subtab": "Business Office",
+      "manual_ocr": false
     }
   ]
 }
