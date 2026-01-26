@@ -1,14 +1,13 @@
 # MANIFEST
-SOURCE_NAME: Free and Reduced Lunch Application in English
-SOURCE_URL: https://maine207.org/wp-content/uploads/2025/06/final2526English.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:57.684Z
-PAGES_EXTRACTED: 5
+SOURCE: Free and Reduced Lunch Application in English
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:23.332Z
 
-########################################
+==================================================
 
 [PAGE 1]
-Maine Township High School District 207
+
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
 ### 2025-26 FREE/REDUCED PRICE MEALS & FEE WAIVER ###
 
@@ -98,13 +97,24 @@ to be a U.S. citizens to qualify for free or reduced priced meals and a fee waiv
 to apply for SNAP, TANF or other assistance benefits, contact your local Department of Human Services office or call (800) 843-6154 (voice) or (800) 447-6404 (TTY).
 
 [PAGE 3]
-6. I AM A SNAP RECIPIENT, BUT CANNOT LOCATE MY SNAP NOTICE OF DECISION LETTER. HOW CAN I GET
 
-A COPY OF THIS LETTER? You can email, call, or go in person to an Illinois Department of Human Services (IDHS) Office and request a copy of your letter. Contact information and addresses for several locations can be found below. When contacting IDHS, you should request a “Proof of Receipt of Program Benefits.” IL Department of Human Services West Suburban Office (229) Melrose Park, IL 60160 (708)338-7600
+### 6. I AM A SNAP RECIPIENT, BUT CANNOT LOCATE MY SNAP NOTICE OF DECISION LETTER. HOW CAN I GET ###
 
-DHS Family Community Resource Center in Cook County - N. Suburban 3501 W. Algonquin Rd., 4th Floor Rolling Meadows, IL 60008 (847) 483-7171 State of Illinois Northern FCRC 8001 Lincoln Ave., 6th Floor Skokie, IL 60077 (847) 745-3200
+A COPY OF THIS LETTER? You can email, call, or go in person to an Illinois Department of Human Services (IDHS) Office and request a copy of your letter. Contact information and addresses for several locations can be found below. When contacting IDHS, you should request a “Proof of Receipt of Program Benefits.” IL Department of Human Services West Suburban Office (229) Melrose Park, IL 60160
 
-### APPLICATION BELOW ###
+### (708)338-7600 ###
+
+DHS Family Community Resource Center in Cook County - N. Suburban 3501 W. Algonquin Rd., 4th Floor Rolling Meadows, IL 60008
+
+### (847) 483-7171 ###
+
+State of Illinois Northern FCRC 8001 Lincoln Ave., 6th Floor
+
+### SKOKIE, IL 60077 ###
+
+### (847) 745-3200 ###
+
+APPLICATION BELOW
 
 [PAGE 4]
 Maine Township High School District 207
@@ -113,15 +123,19 @@ Maine Township High School District 207
 
 ### (1) APPLICANT INFORMATION ###
 
-Names of All
+### NAMES OF ALL ###
 
-Children in School
+### CHILDREN IN SCHOOL ###
 
-First - Middle - Last Student ID# Food Stamp or TANF Case Number (if any, per child). If you list a SNAP or TANF Case Number, you must attach a current copy of IDHS Benefits Eligibility Letter with Case Number included, then Skip to (6) Check if
+### FIRST - MIDDLE - LAST ###
 
-Foster
+Student ID# Food Stamp or TANF Case Number (if any, per child). If you list a SNAP or TANF Case Number, you must attach a current copy of IDHS Benefits Eligibility Letter with Case Number included, then Skip to (6)
 
-Child*
+### CHECK IF ###
+
+### FOSTER ###
+
+### CHILD* ###
 
 * You must attach a copy of the front & back of the foster child’s medical card.
 
@@ -133,15 +147,29 @@ Child*
 
 ### MEMBERS WITH INCOME) ###
 
-GROSS INSOME AND HOW OFTEN IT WAS RECEIVED (Examples $100/month, $100/twice a month, $100/every other week, $100/week Earnings From Work
+GROSS INSOME AND HOW OFTEN IT WAS RECEIVED (Examples $100/month, $100/twice a month, $100/every
 
-(Before Deductions) Welfare, Child Support Alimony
+### OTHER WEEK, $100/WEEK ###
 
-Pensions, Retirement, Social Security
+### EARNINGS FROM WORK ###
+
+### (BEFORE DEDUCTIONS) ###
+
+### WELFARE, CHILD SUPPORT ###
+
+### ALIMONY ###
+
+### PENSIONS, RETIREMENT, ###
+
+### SOCIAL SECURITY ###
 
 Worker’s Comp.
 
-Unemployment, SST, etc. (All other income Amount How Often Amount How Often Amount How Often Amount How Often 1.
+### UNEMPLOYMENT, SST, ###
+
+### ETC. (ALL OTHER INCOME ###
+
+Amount How Often Amount How Often Amount How Often Amount How Often 1.
 
 2.
 
@@ -161,52 +189,83 @@ Social Security Number: X X X - X X- I do not have a social security number.
 
 I certify (promise) that all the information on this application is true and that all household income is reported. I understand that the school officials may verify (check) the information. I understand that if I purposely give false information, my children may lose benefits, and I may be prosecuted.
 
-/ /
+### / / ###
 
 Date Printed Name of Adult Household Member Signature of Adult Household Member Address of Adult Household Member City Zip Code
 
 [PAGE 5]
-2 Mai
+
+### 2 MAI ###
 
 Maine Township High School District 207
 
 ### FREE/REDUCED PRICE MEALS AND FEE WAIVER ###
 
-2025-26 Income Eligibility Guidelines Income Eligibility Guidelines Effective from July 1, 2025 to June 30, 2026 Free Meals
+2025-26 Income Eligibility Guidelines Income Eligibility Guidelines Effective from July 1, 2025 to June 30, 2026
 
-130% Federal Poverty Guidelines
+### FREE MEALS ###
 
-Reduced Meals 185% Federal Poverty Guidelines
+### 130% FEDERAL POVERTY ###
 
-Household
+### GUIDELINES ###
 
-Size Annual Monthly Twice
+### REDUCED MEALS ###
 
-Per
+### 185% FEDERAL POVERTY ###
 
-Month
+### GUIDELINES ###
 
-Every
+### HOUSEHOLD ###
 
-Two
+### SIZE ANNUAL MONTHLY ###
 
-Weeks
+### TWICE ###
 
-Weekly Household Size Annual Monthly Twice
+### PER ###
 
-Per
+### MONTH ###
 
-Month
+### EVERY ###
 
-Every
+### TWO ###
 
-Two
+### WEEKS ###
 
-Weeks
+### WEEKLY HOUSEHOLD ###
 
-Weekly
+### SIZE ANNUAL MONTHLY ###
 
-1 20,345 1,696 848 783 392 1 28,953 2,413 1,207 1,114 557 2 27,495 2,292 1,146 1,058 529 2 39,128 3,261 1,631 1,505 753 3 34,645 2,888 1,444 1,333 667 3 49,303 4,109 2,055 1,897 949 4 41,795 3,483 1,742 1,608 804 4 59,478 4,957 2,479 2,288 1,144 5 48,945 4,079 2,040 1,883 942 5 69,653 5,805 2,903 2,679 1,340 6 56,095 4,675 2,338 2,158 1,079 6 79,828 6,653 3,327 3,071 1,536 7 63,245 5,271 2,636 2,433 1,217 7 90,003 7,501 3,751 3,462 1,731 8 70,395 5,867 2,934 2,708 1,354 8 100,178 8,349 4,175 3,853 1,927 For each additional family member, add 7,150 596 298 275 138 For each additional family member, add 10,175 848 424 392 196 The following is the definition of income: Income is defined as any monies earned before any deductions such as income taxes, social security taxes, insurance premiums, charitable contributions and bonds. It includes the following:
+### TWICE ###
+
+### PER ###
+
+### MONTH ###
+
+### EVERY ###
+
+### TWO ###
+
+### WEEKS ###
+
+### WEEKLY ###
+
+1 20,345 1,696 848 783 392 1 28,953 2,413 1,207 1,114 557 2 27,495 2,292 1,146 1,058 529 2 39,128 3,261 1,631 1,505 753 3 34,645 2,888 1,444 1,333 667 3 49,303 4,109 2,055 1,897 949 4 41,795 3,483 1,742 1,608 804 4 59,478 4,957 2,479 2,288 1,144 5 48,945 4,079 2,040 1,883 942 5 69,653 5,805 2,903 2,679 1,340 6 56,095 4,675 2,338 2,158 1,079 6 79,828 6,653 3,327 3,071 1,536 7 63,245 5,271 2,636 2,433 1,217 7 90,003 7,501 3,751 3,462 1,731 8 70,395 5,867 2,934 2,708 1,354 8 100,178 8,349 4,175 3,853 1,927
+
+### FOR EACH ###
+
+### ADDITIONAL FAMILY ###
+
+### MEMBER, ADD ###
+
+7,150 596 298 275 138
+
+### FOR EACH ###
+
+### ADDITIONAL FAMILY ###
+
+### MEMBER, ADD ###
+
+10,175 848 424 392 196 The following is the definition of income: Income is defined as any monies earned before any deductions such as income taxes, social security taxes, insurance premiums, charitable contributions and bonds. It includes the following:
 
 • Monetary compensation for services includes wages, salary commissions, or fees:
 
@@ -214,11 +273,11 @@ Weekly
 
 • Net income from farm self-employment;
 
-• Social security;
+### • SOCIAL SECURITY; ###
 
 • Dividends or interest on savings or bonds or income from estates or trusts;
 
-• Net rental income;
+### • NET RENTAL INCOME; ###
 
 • Public assistance or welfare payments;
 
@@ -232,7 +291,7 @@ Weekly
 
 • Regular contributions from persons not living in the household;
 
-• Net royalties;
+### • NET ROYALTIES; ###
 
 • Other cash income – Other cash income would include cash amounts received or withdrawn from
 

@@ -1,48 +1,49 @@
 # MANIFEST
-SOURCE_NAME: Responding to Acts of Hate, Racism, and Discrimination
-SOURCE_URL: https://maine207.org/wp-content/uploads/2021/10/Maine-D207-Responding-to-Acts-of-Hate-Racism-and-Discrimination.docx.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:57.186Z
-PAGES_EXTRACTED: 5
+SOURCE: Responding to Acts of Hate, Racism, and Discrimination
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:22.213Z
 
-########################################
+==================================================
 
 [PAGE 1]
-Maine Township High School District 207
 
-Responding to Acts of Hate, Racism, and Discrimination Introduction
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
+
+Responding to Acts of Hate, Racism, and Discrimination
+
+### INTRODUCTION ###
 
 When a member of our school community experiences acts of hate, racism, and discrimination having a thoughtful, meaningful, and timely response is our collective responsibility. While the work of changing hearts and mindsets requires daily and adaptive efforts, it is our obligation to be decisive in both our prevention of and response to any incident regarding hate, racism, and discrimination. To support all schools in this effort, we will utilize our building and district equity teams, to employ this protocol to respond to acts of hate, racism, and discrimination.
 
-Foundational Beliefs: Why a Protocol is Needed District 207 recognizes, embraces, and defends the identities, abilities, and voices of our diverse school community. We value these multiple and unique identities, abilities, and voices as assets and commit to an equitable and inclusive learning environment. District 207 is committed to the practice of identifying, challenging, and changing the values, structures, and behaviors that perpetuate systemic racism and discrimination and prevent our students from accessing learning. Naming, disrupting, and reforming the behaviors that perpetuate hate, racism and discrimination is an essential part of helping our students and community to reach their full potential as human beings.
+### FOUNDATIONAL BELIEFS: WHY A PROTOCOL IS NEEDED ###
+
+District 207 recognizes, embraces, and defends the identities, abilities, and voices of our diverse school community. We value these multiple and unique identities, abilities, and voices as assets and commit to an equitable and inclusive learning environment. District 207 is committed to the practice of identifying, challenging, and changing the values, structures, and behaviors that perpetuate systemic racism and discrimination and prevent our students from accessing learning. Naming, disrupting, and reforming the behaviors that perpetuate hate, racism and discrimination is an essential part of helping our students and community to reach their full potential as human beings.
 
 The District values freedom of thought and expression, respect for multiple points of view, and the civil and open expression of these views. Thus, it is important to note that bias acts or hate crimes do not include speech or behavior that an individual or the institution merely disagrees with or finds offensive. Acts of hate, racism, and discrimination makes civil engagement impossible and has no place in our community.
 
 ### DISTRICT 207 IS COMMITTED TO: ###
 
-● Protecting the rights of all individuals
+### ● PROTECTING THE RIGHTS OF ALL INDIVIDUALS ###
 
 ● Creating a safe environment in which all members of our school community can learn
 
 ● Ensuring a person’s race and/or identity is never used as a put-down, insult, or as a way
 
-to hurt or exclude someone
+### TO HURT OR EXCLUDE SOMEONE ###
 
 ● Helping all members of our community understand that discriminatory and hateful acts,
 
-including slurs, are never acceptable
+### INCLUDING SLURS, ARE NEVER ACCEPTABLE ###
 
 ● Supporting students and staff as they develop their own identity; respecting that
 
-identity is something that is self-determined
+### IDENTITY IS SOMETHING THAT IS SELF-DETERMINED ###
 
 ● Applying an equitable lens across all policies and practices
 
 ● Being proactive in ways that focus on student relationships, caring for one another, and
 
 ways to learn about others in authentic, thoughtful ways.
-
-
 
 [PAGE 2]
 Maine Township High School District 207 Responding to Acts of Hate, Racism, and Discrimination These efforts are best supported through the use of a common language that facilitates understanding for all stakeholders involved. The District 207 Equity webpage GLOSSARY is a good source of updated terminology for gender, diversity, equity and inclusion that can assist in this work.
@@ -51,23 +52,23 @@ This guide is specific to addressing acts of hate, racism, and discrimination th
 
 Protocol Summary (Link to Infographic) All staff will intervene whenever situations have the potential to cause physical or emotional harm. This process must not mitigate the impact of the action on any targeted individual; in responding, educators must not overly focus on the offender’s intentions at the expense of the impact on the targeted individual(s).
 
-Protocol Outline
+### PROTOCOL OUTLINE ###
 
-● Put safety first
+### ● PUT SAFETY FIRST ###
 
-● Be composed
+### ● BE COMPOSED ###
 
-● Denounce the act
+### ● DENOUNCE THE ACT ###
 
-● Report
+### ● REPORT ###
 
-● Investigate
+### ● INVESTIGATE ###
 
 ● Create an action plan that supports all affected individuals
 
 ● Provide clear and timely communication
 
-Response and Plan of Action
+### RESPONSE AND PLAN OF ACTION ###
 
 When acts of hate, racism, and discrimination occur here are the steps we take:
 
@@ -87,10 +88,9 @@ family service offices, affinity spaces, etc.). Maintain privacy and confidentia
 
 plan (BIP), Section 504 plan, EL plan, etc).
 
-
-
 [PAGE 3]
-Maine Township High School District 207
+
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
 Responding to Acts of Hate, Racism, and Discrimination
 
@@ -110,7 +110,9 @@ soon as possible. This will include the following language and main points:
 
 ○ Explain why the behavior is unacceptable by discussing why acts of hate, racism,
 
-and discrimination are wrong. Emphasize: “Our school stands for the safety and inclusion of all students.”
+and discrimination are wrong. Emphasize: “Our school stands for the safety and
+
+### INCLUSION OF ALL STUDENTS.” ###
 
 ○ Explain there will be follow up and an investigation of what happened.
 
@@ -154,10 +156,13 @@ investigation, whether or not they are confirmed or unfounded.
 
 6. Create an action plan that supports all affected individuals. Plans will be implemented
 
-for individual and group support for a restorative intervention as needed. Document all contacts; be mindful of being factual, concise, and objective. The goal of this plan is to teach and build empathy to prevent future incidents as well ensure the safety of the targeted individual. When willing, the targeted individual and family will give input 3
+for individual and group support for a restorative intervention as needed. Document all contacts; be mindful of being factual, concise, and objective. The goal of this plan is to teach and build empathy to prevent future incidents as well ensure the safety of the targeted individual. When willing, the targeted individual and family will give input
 
 [PAGE 4]
-Maine Township High School District 207 Responding to Acts of Hate, Racism, and Discrimination about what they need to feel safe. The action plan will be communicated with staff members involved.
+
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
+
+Responding to Acts of Hate, Racism, and Discrimination about what they need to feel safe. The action plan will be communicated with staff members involved.
 
 ○ Seek to repair harm and promote healing. Staff and administrators will develop a
 
@@ -167,9 +172,9 @@ plan for the offending individual to address and begin to repair any harm done; 
 
 ■ Restorative practices guidelines and protocols (most importantly, with the
 
-students involved in the incident.)
+### STUDENTS INVOLVED IN THE INCIDENT.) ###
 
-■ Individual contracts for behavior
+### ■ INDIVIDUAL CONTRACTS FOR BEHAVIOR ###
 
 ○ Consider having a space for affinity groups/allyship. Affinity groups must be
 
@@ -197,20 +202,21 @@ correspondence to ensure clarity of message; prepare for this collaboration in a
 
 by any members of the school community: school board members, families, and staff. Any information that would compromise student confidentiality CANNOT BE RELEASED TO THE PUBLIC.
 
-
-
 [PAGE 5]
-Maine Township High School District 207 Responding to Acts of Hate, Racism, and Discrimination
+
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
+
+Responding to Acts of Hate, Racism, and Discrimination
 
 ○ Communicate with stakeholders. In communicating with stakeholders, focus on
 
 communicating the District’s commitment to equity, affirming student identity, safety, repairing harm, and community.
 
-Shared Language and Terminology
+### SHARED LANGUAGE AND TERMINOLOGY ###
 
 As school climate and leadership teams work to promote an anti-racist culture that actively addresses issues of hate, racism, and discrimination. An important element to achieving a community that reflects these values is to have clear, agreed upon definitions for critical concepts and terms. As in many fields that address the changing social dynamics of our country, the concepts and terms in this field of study are ever evolving and ever changing. Our District 207 Equity Webpage will serve as a source to develop and maintain shared common language and understanding.
 
-References and Resources
+### REFERENCES AND RESOURCES ###
 
 These protocols and materials were adapted from:
 
@@ -220,9 +226,9 @@ Olsen Edwards (2010), the National Association for the Education of Young Childr
 
 ● Maine Training 2020-2021 Lurie’s Children's Hospital Resources
 
-○ Slides Pt. 1
+### ○ SLIDES PT. 1 ###
 
-○ Slides Pt. 2
+### ○ SLIDES PT. 2 ###
 
 ● August 2020 Institute Day Presentation - Equity Guidance to Support Learning - Includes
 
@@ -235,5 +241,3 @@ responding to hateful, racist, and/or discriminatory remarks made in a classroom
 ● Courageous Conversations About Race: A Field Guide for Achieving Equity in Schools,
 
 Glenn E. Singleton (2015)
-
-

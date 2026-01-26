@@ -1,13 +1,12 @@
 # MANIFEST
-SOURCE_NAME: Teen Dating Violence Prohibited
-SOURCE_URL: https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Teen-Dating-Violence-Prohibited-Policy.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.460Z
-PAGES_EXTRACTED: 3
+SOURCE: Teen Dating Violence Prohibited
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:23.107Z
 
-########################################
+==================================================
 
 [PAGE 1]
+
 ### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
 ### TEEN DATING VIOLENCE PROHIBITED 6446 ###
@@ -53,13 +52,16 @@ Assistant Building Principal, Dean of Students, or a Complaint Manager.
 Adopted: 2/3/14
 
 [PAGE 2]
+
 ### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
-TEEN DATING VIOLENCE PROHIBITED (Procedures) 6446 6446 Procedure for Reporting and Investigation of Dating Violence The school district will act to investigate all complaints of teen dating violence in settings covered by this policy and will take appropriate action against any student who is found to have violated this policy. It is the responsibility of all students, school staff members, and concerned individuals who observe or become aware of acts of dating violence to respond quickly and effectively when they suspect or become aware of an incident of teen dating violence.
+### TEEN DATING VIOLENCE PROHIBITED (PROCEDURES) 6446 ###
+
+6446 Procedure for Reporting and Investigation of Dating Violence The school district will act to investigate all complaints of teen dating violence in settings covered by this policy and will take appropriate action against any student who is found to have violated this policy. It is the responsibility of all students, school staff members, and concerned individuals who observe or become aware of acts of dating violence to respond quickly and effectively when they suspect or become aware of an incident of teen dating violence.
 
 Incidents are to be reported immediately and confidentially to any school staff member, a Complaint Manager as identified in policy #3005, or any member of the Dating Violence Response Team (DVRT). Individuals making such reports will be supported and protected against potential retaliation for making the report. The school district will also take appropriate action against any student or employee of the school district who retaliates against any person who makes a report in good faith of alleged dating violence or against any person who testifies, assists, or participates in an investigation or hearing related to such dating violence.
 
-Sanctions and Supports
+### SANCTIONS AND SUPPORTS ###
 
 Where it is determined that a student has participated in dating violence behavior in violation of this policy, the school district may take disciplinary action against the perpetrator including suspension, expulsion, and/or referral to law enforcement officials for possible legal action, as appropriate.
 
@@ -70,17 +72,18 @@ When appropriate, attempts will be made to use disciplinary alternatives for stu
 Employees found to have participated in dating violence behavior or to have been aware that dating violence was occurring and failed to report the behavior are considered to be in violation of this policy and may be subject to disciplinary action. The school district will cooperate with all judicial orders, including any temporary restraining orders or injunctions.
 
 [PAGE 3]
+
 ### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
 ### TEEN DATING VIOLENCE PROHIBITED 6446 ###
 
 Student Personnel Services staff will provide ongoing support for the identified victim(s) by offering help in creating an individualized safety plan that addresses on and off campus safety, assisting with the enforcement of protection orders, providing a list of local resources, making appropriate referrals to community-based organizations with expertise in teen dating and sexual violence, and making accommodations to protect the victim(s).
 
-Confidentiality
+### CONFIDENTIALITY ###
 
 All information concerning a student’s status as a victim or perpetrator of dating violence, or as the petitioner or respondent of a protection order provided to the school district or its employees, shall be regarded with the utmost of sensitivity and confidence, except to the extent that a disclosure is allowed or required by applicable state or federal law.
 
-Disclosure and Public Reporting
+### DISCLOSURE AND PUBLIC REPORTING ###
 
 This policy shall be distributed annually to all students and their parents/guardians via the Student Handbook and Discipline Procedures and shall be prominently posted on each school website.
 

@@ -1,11 +1,9 @@
 # MANIFEST
-SOURCE_NAME: Procedimiento de quejas de los agentes de recursos escolares (español)
-SOURCE_URL: https://maine207.org/wp-content/uploads/2021/08/SRO_Uniform_G_spanish.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.169Z
-PAGES_EXTRACTED: 3
+SOURCE: Procedimiento de quejas de los agentes de recursos escolares (español)
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:22.821Z
 
-########################################
+==================================================
 
 [PAGE 1]
 Distrito Escolar 207 de Enseñanza Secundaria de Maine Township Encargado de Recursos Escolares - Procedimiento de Queja Uniforme
@@ -32,11 +30,13 @@ quejas contra el SRO.
 
 ● El MTHS D207 mantiene la integridad a través de un sistema de disciplina interna,
 
-donde se garantizan la objetividad y la justicia mediante investigaciones y revisión imparciales
+donde se garantizan la objetividad y la justicia mediante investigaciones y revisión
+
+### IMPARCIALES ###
 
 ### II. PROCEDIMIENTOS Y PROCESOS ###
 
-a. Presentar una queja
+### A. PRESENTAR UNA QUEJA ###
 
 El Distrito pondrá a disposición información sobre el procedimiento de queja uniforme en cada escuela del Distrito en una ubicación de fácil acceso para estudiantes, padres/madres/tutores y personal. El formulario de quejas y el proceso estará disponible en el sitio web maine207.org y también en el manual del estudiante.
 
@@ -59,15 +59,15 @@ Ningún encargado involucrado en el incidente pertinente a la queja o que de otr
 
 Cuando la investigación haya concluido, se presentará un informe escrito al Superintendente y/o designado que incluya qué acciones, si las hay, tomará el Distrito en respuesta a la queja.
 
-e. Apelación de la queja e informe
+### E. APELACIÓN DE LA QUEJA E INFORME ###
 
-Política de la junta 2:260
+### POLÍTICA DE LA JUNTA 2:260 ###
 
 f. Prohibición contra represalias, intimidación, acoso o amenazas
 
-Política de la junta 7:20
+### POLÍTICA DE LA JUNTA 7:20 ###
 
-Política de la junta 5:20
+### POLÍTICA DE LA JUNTA 5:20 ###
 
 ### III. QUEJA ANÓNIMA ###
 
@@ -76,7 +76,7 @@ Los estudiantes, padres/madres/tutores y personal tendrán derecho a hacer una q
 [PAGE 3]
 permanecer anónimo y no proporciona un medio de contacto, el Distrito no comunicará de forma directa los resultados de la queja al denunciante.
 
-V. Informe anual de datos y tendencias
+### V. INFORME ANUAL DE DATOS Y TENDENCIAS ###
 
 El Superintendente Adjunto de Recursos Humanos será responsable de la preparación del informe anual de datos y tendencias al Superintendente y/o designado. Este resumen incluirá lo
 
@@ -86,16 +86,16 @@ El Superintendente Adjunto de Recursos Humanos será responsable de la preparaci
 
 2. Número de quejas fundamentadas y alegaciones contra el encargado de recursos escolares
 
-3. Quejas fundamentadas por escuela
+### 3. QUEJAS FUNDAMENTADAS POR ESCUELA ###
 
-4. Tendencias de las quejas, si corresponde
+### 4. TENDENCIAS DE LAS QUEJAS, SI CORRESPONDE ###
 
 5. Tiempo para investigar y resolver/proporcionar resultados sobre la investigación de la
 
-queja
+### QUEJA ###
 
 ### 6. NÚMERO DE APELACIONES ###
 
-7. Resultados de las apelaciones presentadas
+### 7. RESULTADOS DE LAS APELACIONES PRESENTADAS ###
 
 8. Pasos tomados por el Distrito para resolver preocupaciones sistemáticas

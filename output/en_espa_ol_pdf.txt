@@ -1,16 +1,21 @@
 # MANIFEST
-SOURCE_NAME: En español PDF
-SOURCE_URL: https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Spanish.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.024Z
-PAGES_EXTRACTED: 3
+SOURCE: En español PDF
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:22.626Z
 
-########################################
+==================================================
 
 [PAGE 1]
-Maine Township High School District 207 1177 South Dee Road . Park Ridge, Illinois 60068-4398 . (847) 696-3600 . FAX (847) 692-8007 Dr. Tatiana Bonuma District 207 Administration Center Superintendent
 
-Nuestra misión es mejorar el aprendizaje Procedimiento uniforme de quejas
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
+
+1177 South Dee Road . Park Ridge, Illinois 60068-4398 . (847) 696-3600 . FAX (847) 692-8007 Dr. Tatiana Bonuma District 207 Administration Center
+
+### SUPERINTENDENT ###
+
+### NUESTRA MISIÓN ES MEJORAR EL APRENDIZAJE ###
+
+### PROCEDIMIENTO UNIFORME DE QUEJAS ###
 
 Un estudiante, padre/madre/tutor, empleado o miembro de la comunidad debe notificar a cualquier Gerente de Quejas del Distrito si cree que la Junta de Educación, sus empleados o funcionarios han infringido sus derechos garantizados por la Constitución Estatal o Federal, los estatutos Estatales o Federales, o las políticas de la Junta,
 
@@ -38,7 +43,7 @@ Título IX de las Enmiendas Educativas de 1972)
 
 niños con desventajas o privaciones educativas
 
-9. Planes de estudios, materiales didácticos y/o programas
+### 9. PLANES DE ESTUDIOS, MATERIALES DIDÁCTICOS Y/O PROGRAMAS ###
 
 10. Ley de Protección y Seguridad Económica de las Víctimas, 820 ILCS 180
 
@@ -50,24 +55,27 @@ niños con desventajas o privaciones educativas
 
 14. Uso indebido de información genética (Ley de Privacidad de la Información Genética de Illinois (GIPA),
 
-410 ILCS 513/ y Títulos I y II de la Ley de No Discriminación de la Información Genética (GINA), 42 U.S.C. §2000ff y siguientes.)
+410 ILCS 513/ y Títulos I y II de la Ley de No Discriminación de la Información Genética (GINA), 42
+
+### U.S.C. §2000FF Y SIGUIENTES.) ###
 
 15. Ley de Privacidad del Crédito de los Empleados, 820 ILCS 70/.
 
 El Gerente de Quejas se esforzará por responder y resolver las quejas sin recurrir a este procedimiento de quejas y, si se presenta una queja, la abordará de manera rápida y equitativa. El derecho de una persona a recibir una resolución rápida y equitativa de la queja presentada en virtud del presente no se verá afectado por la búsqueda de otros remedios por parte de la persona y el uso de este procedimiento de quejas no extiende ningún plazo de presentación relacionado con la búsqueda de otros remedios. Todos los plazos bajo este procedimiento pueden ser prorrogados por el Gerente de Quejas según lo considere apropiado. Tal como se usa en esta política, "días hábiles escolares" significa los días en que la oficina principal del Distrito está abierta.
 
-Presentar una queja
+### PRESENTAR UNA QUEJA ###
 
 Una persona (en lo adelante, el Demandante) que desee acogerse a este procedimiento de quejas puede hacerlo presentando una queja ante un Gerente de Quejas designado. El Demandante no estará obligado a presentar una denuncia ante un Gerente de Quejas en particular y podrá solicitar un Gerente de Quejas del mismo sexo. El Gerente de Quejas puede solicitar al Demandante que complete un Formulario de Queja sobre la naturaleza de la queja o requerir una reunión con los padres/tutores de un estudiante. El Gerente de Quejas le prestará asistencia al Demandante según sea necesario.
 
 [PAGE 2]
-Investigación
+
+### INVESTIGACIÓN ###
 
 El Gerente de Quejas investigará la queja o designará a una persona calificada para que lleve a cabo la investigación en su nombre. Si el Demandante es un estudiante menor de 18 años, el Gerente de Quejas notificará a sus padres/tutores que pueden asistir a cualquier reunión de investigación en la que esté involucrado su hijo/a. La queja como tal y la identidad del Demandante no se divulgarán excepto (1) según lo exija la ley o esta política, o (2) según sea necesario para investigar completamente la queja, o (3) según lo autorice el Demandante. La identidad de los estudiantes testigos no será revelada excepto: (1) según lo requiera la ley o cualquier acuerdo de negociación colectiva, o (2) según sea necesario para investigar completamente la queja, o (3) según lo autorice el padre/tutor del estudiante testigo, o por el mismo estudiante si el estudiante tiene 18 años de edad o más. En el transcurso de 30 días hábiles escolares a partir de la fecha en que se presentó la queja, el Gerente de Quejas deberá presentar un informe escrito de sus hallazgos al Superintendente. El Gerente de Quejas puede solicitar una extensión del tiempo.
 
 Si una queja de acoso sexual contiene acusaciones que involucran al Superintendente, el informe escrito se presentará ante la Junta de Educación, que tomará una decisión con respecto a la resolución de la queja. El Superintendente mantendrá informada a la Junta de todas las quejas.
 
-Decisión y Apelación
+### DECISIÓN Y APELACIÓN ###
 
 En el transcurso de 5 días hábiles escolares posteriores a la recepción del informe del Gerente de Quejas, el Superintendente enviará su decisión por escrito al Demandante por correo postal de los EE. UU. de primera clase, así como al Gerente de Quejas.
 
@@ -77,30 +85,35 @@ No cumplir estrictamente los plazos en este procedimiento de quejas no deberá c
 
 El Superintendente ha designado a dos Gerentes de Quejas del Distrito para implementar los procedimientos uniformes de quejas del distrito. Todos los padres, estudiantes y empleados tienen derecho a iniciar una queja o queja de discriminación ilegal comunicándose con uno de los siguientes Gerentes de Quejas:
 
-Sr. George Dagres, Superintendente Asistente de Recursos Humanos Gerente de Quejas del Distrito Escolar 207 de Enseñanza Secundaria de Maine Township 1177 S. Dee Road
+### SR. GEORGE DAGRES, SUPERINTENDENTE ASISTENTE DE RECURSOS HUMANOS ###
 
-Park Ridge, IL 60068
+Gerente de Quejas del Distrito Escolar 207 de Enseñanza Secundaria de Maine Township
+
+### 1177 S. DEE ROAD ###
+
+### PARK RIDGE, IL 60068 ###
 
 ### 1-847-692-8056 ###
 
-Sra. Mary Kalou, Superintendente Asistente de Negocios
+### SRA. MARY KALOU, SUPERINTENDENTE ASISTENTE DE NEGOCIOS ###
 
-Gerente de Quejas del Distrito Escolar 207 de Enseñanza Secundaria de Maine Township 1177 S. Dee Road
+Gerente de Quejas del Distrito Escolar 207 de Enseñanza Secundaria de Maine Township
 
-Park Ridge, IL 60068
+### 1177 S. DEE ROAD ###
+
+### PARK RIDGE, IL 60068 ###
 
 ### 1-847-692-8025 ###
 
 Los empleados no discriminarán ni tomarán represalias contra ninguna persona porque esa persona se haya opuesto a cualquier acto o práctica que considere discriminatorio por motivos de raza, color, religión, nacionalidad de origen, ascendencia, edad, sexo, orientación sexual, estado civil, discapacidad, o minusvalía, o porque esa persona hizo una acusación, testificó, ayudó o participó de cualquier manera en una investigación de la Oficina de Derechos Civiles o en otra investigación relacionada con la discriminación. Los empleados no coaccionarán, intimidarán, amenazarán ni interferirán con ninguna persona en el ejercicio o disfrute de las protecciones o derechos otorgados por la Sección 504, Título II, Título IV o la Ley de Edad y la política de la Junta de Educación.
 
 [PAGE 3]
+
 ### FORMULARIO UNIFORME DE QUEJAS ###
 
 Los estudiantes, padres/tutores, empleados o miembros de la comunidad deben completar este formulario para presentar una queja si creen que la Junta de Educación, sus empleados o agentes han infringido sus derechos garantizados por la constitución federal o estatal, los estatutos federales o estatales o las políticas de la junta.
 
-Información de contacto del demandante
-
-### NOMBRE DEL DEMANDANTE: ###
+Información de contacto del demandante Nombre del demandante:
 
 Número de teléfono (día) Número de teléfono (tarde)
 

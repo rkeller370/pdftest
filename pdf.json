@@ -1,172 +1,193 @@
 {
-    "pdf_links": [
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/08/English-PS-Flyer.pdf",
-        "file_name": "Instruction PDF English",
-        "main_tab": "Communications",
-        "subtab": "ParentSquare"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/08/Spanish-PS-Flyer.pdf",
-        "file_name": "Instruction PDF Spanish",
-        "main_tab": "Communications",
-        "subtab": "ParentSquare"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/08/Arabic-PS-Flyer.pdf",
-        "file_name": "Instruction PDF Arabic",
-        "main_tab": "Communications",
-        "subtab": "ParentSquare"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/08/Polish-PS-Flyer.pdf",
-        "file_name": "Instruction PDF Polish",
-        "main_tab": "Communications",
-        "subtab": "ParentSquare"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2021/10/Maine-D207-Responding-to-Acts-of-Hate-Racism-and-Discrimination.docx.pdf",
-        "file_name": "Responding to Acts of Hate, Racism, and Discrimination",
-        "main_tab": "Equity",
-        "subtab": "Equity Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2021/10/Maine-D207-Responding-to-Acts-of-Hate-Racism-and-Discrimination.docx.pdf",
-        "file_name": "Responding to Acts of Hate, Racism, and Discrimination",
-        "main_tab": "Equity",
-        "subtab": "Policy and Practices"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2022/07/MyMealtime_Parent_Flyer.pdf",
-        "file_name": "Learn more about MyMealtime in English.",
-        "main_tab": "Food Service",
-        "subtab": "N/A"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2022/07/MyMealtime_Parent_Flyer_ESP.pdf",
-        "file_name": "Más información sobre MyMealtime en inglés.",
-        "main_tab": "Food Service",
-        "subtab": "N/A"
-      },
-      {
-        "pdf_link": "https://www2.illinois.gov/idol/Laws-Rules/CONMED/Pages/2018-Rates.aspx",
-        "file_name": "Current Prevailing Wage Rates",
-        "main_tab": "Public Reporting",
-        "subtab": "N/A"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/06/final2526English.pdf",
-        "file_name": "Free and Reduced Lunch Application in English",
-        "main_tab": "Registration, Enrollment, Residency and Fees",
-        "subtab": "Fees"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/06/final2526spanish.pdf",
-        "file_name": "En Espanol",
-        "main_tab": "Registration, Enrollment, Residency and Fees",
-        "subtab": "Fees"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/06/final2526polish.pdf",
-        "file_name": "W języku polskim",
-        "main_tab": "Registration, Enrollment, Residency and Fees",
-        "subtab": "Fees"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/06/final2526arabic.pdf",
-        "file_name": "باللغة العربية",
-        "main_tab": "Registration, Enrollment, Residency and Fees",
-        "subtab": "Fees"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Spanish.pdf",
-        "file_name": "En español PDF",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Uniform Grievance Procedure Letter and Form"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Polish.pdf",
-        "file_name": "W języku polskim PDF",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Uniform Grievance Procedure Letter and Form"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Arabic.pdf",
-        "file_name": "باللغة العربية PDF",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Uniform Grievance Procedure Letter and Form"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2018/06/School-Resource-Officer-_-Uniform-Grievance-Procedure.pdf",
-        "file_name": "School Resource Officer Grievance Procedure (English)",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Additional Student Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2021/08/SRO_Uniform_G_spanish.pdf",
-        "file_name": "Procedimiento de quejas de los agentes de recursos escolares (español)",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Additional Student Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Student-and-Family-Privacy-Rights.pdf",
-        "file_name": "Student and Family Privacy Rights",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Additional Student Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Parent-Right-to-Know-Educator-Qualifications.pdf",
-        "file_name": "Parents' Right to Know",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Additional Student Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2018/06/Maine-207-Temporary-Living-Situations.pdf",
-        "file_name": "Temporary Living Situations/Homeless Resources",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Additional Student Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Sexual-Harassment-Policy.pdf",
-        "file_name": "Sexual Harassment Policy",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Additional Student Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Teen-Dating-Violence-Prohibited-Policy.pdf",
-        "file_name": "Teen Dating Violence Prohibited",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Additional Student Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2019/07/Pass-Fail-FormProcedures.pdf",
-        "file_name": "Pass-Fail Form",
-        "main_tab": "Student and Parent Resources",
-        "subtab": "Additional Student Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2022/09/Panorama-Student-SEL-Survey-Updated-Fall-2022.pdf",
-        "file_name": "Panorama Student SEL Survey",
-        "main_tab": "Academics",
-        "subtab": "Student Services Resources"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/10/Panorama-Student-Climate-and-Equity-Survey.pdf",
-        "file_name": "Panorama Student Climate and Equity Survey",
-        "main_tab": "Academics",
-        "subtab": "Surveys"
-      },
-      {
-        "pdf_link": "https://maine207.org/wp-content/uploads/2025/12/District-207-Volunteer-Policy.pdf",
-        "file_name": "Volunteer Policy",
-        "main_tab": "Human Resources",
-        "subtab": "Join Our Team"
-      }
-    ],
-    "metadata": {
-      "total_keep_entries": 34,
-      "total_deleted_entries": 50,
-      "total_other_entries": 86,
-      "processing_summary": "Processed all data from the provided tabular format. Extracted only entries marked with 'Keep' status and converted their PDF links into JSON format with relevant metadata including file name, main tab, and subtab."
+  "pdf_links": [
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/08/English-PS-Flyer.pdf",
+      "file_name": "Instruction PDF English",
+      "main_tab": "Communications",
+      "subtab": "ParentSquare",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/08/Spanish-PS-Flyer.pdf",
+      "file_name": "Instruction PDF Spanish",
+      "main_tab": "Communications",
+      "subtab": "ParentSquare",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/08/Arabic-PS-Flyer.pdf",
+      "file_name": "Instruction PDF Arabic",
+      "main_tab": "Communications",
+      "subtab": "ParentSquare",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/08/Polish-PS-Flyer.pdf",
+      "file_name": "Instruction PDF Polish",
+      "main_tab": "Communications",
+      "subtab": "ParentSquare",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2021/10/Maine-D207-Responding-to-Acts-of-Hate-Racism-and-Discrimination.docx.pdf",
+      "file_name": "Responding to Acts of Hate, Racism, and Discrimination",
+      "main_tab": "Equity",
+      "subtab": "Equity Resources",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2021/10/Maine-D207-Responding-to-Acts-of-Hate-Racism-and-Discrimination.docx.pdf",
+      "file_name": "Responding to Acts of Hate, Racism, and Discrimination",
+      "main_tab": "Equity",
+      "subtab": "Policy and Practices",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2022/07/MyMealtime_Parent_Flyer.pdf",
+      "file_name": "Learn more about MyMealtime in English.",
+      "main_tab": "Food Service",
+      "subtab": "N/A",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2022/07/MyMealtime_Parent_Flyer_ESP.pdf",
+      "file_name": "Más información sobre MyMealtime en inglés.",
+      "main_tab": "Food Service",
+      "subtab": "N/A",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://www2.illinois.gov/idol/Laws-Rules/CONMED/Pages/2018-Rates.aspx",
+      "file_name": "Current Prevailing Wage Rates",
+      "main_tab": "Public Reporting",
+      "subtab": "N/A",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/06/final2526English.pdf",
+      "file_name": "Free and Reduced Lunch Application in English",
+      "main_tab": "Registration, Enrollment, Residency and Fees",
+      "subtab": "Fees",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/06/final2526spanish.pdf",
+      "file_name": "En Espanol",
+      "main_tab": "Registration, Enrollment, Residency and Fees",
+      "subtab": "Fees",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/06/final2526polish.pdf",
+      "file_name": "W języku polskim",
+      "main_tab": "Registration, Enrollment, Residency and Fees",
+      "subtab": "Fees",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/06/final2526arabic.pdf",
+      "file_name": "باللغة العربية",
+      "main_tab": "Registration, Enrollment, Residency and Fees",
+      "subtab": "Fees",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Spanish.pdf",
+      "file_name": "En español PDF",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Uniform Grievance Procedure Letter and Form",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Polish.pdf",
+      "file_name": "W języku polskim PDF",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Uniform Grievance Procedure Letter and Form",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Arabic.pdf",
+      "file_name": "باللغة العربية PDF",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Uniform Grievance Procedure Letter and Form",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2018/06/School-Resource-Officer-_-Uniform-Grievance-Procedure.pdf",
+      "file_name": "School Resource Officer Grievance Procedure (English)",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Additional Student Resources",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2021/08/SRO_Uniform_G_spanish.pdf",
+      "file_name": "Procedimiento de quejas de los agentes de recursos escolares (español)",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Additional Student Resources",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Student-and-Family-Privacy-Rights.pdf",
+      "file_name": "Student and Family Privacy Rights",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Additional Student Resources",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Parent-Right-to-Know-Educator-Qualifications.pdf",
+      "file_name": "Parents' Right to Know",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Additional Student Resources",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2018/06/Maine-207-Temporary-Living-Situations.pdf",
+      "file_name": "Temporary Living Situations/Homeless Resources",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Additional Student Resources",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Sexual-Harassment-Policy.pdf",
+      "file_name": "Sexual Harassment Policy",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Additional Student Resources",
+      "manual_ocr": true
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Teen-Dating-Violence-Prohibited-Policy.pdf",
+      "file_name": "Teen Dating Violence Prohibited",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Additional Student Resources",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2019/07/Pass-Fail-FormProcedures.pdf",
+      "file_name": "Pass-Fail Form",
+      "main_tab": "Student and Parent Resources",
+      "subtab": "Additional Student Resources",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2022/09/Panorama-Student-SEL-Survey-Updated-Fall-2022.pdf",
+      "file_name": "Panorama Student SEL Survey",
+      "main_tab": "Academics",
+      "subtab": "Student Services Resources",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/10/Panorama-Student-Climate-and-Equity-Survey.pdf",
+      "file_name": "Panorama Student Climate and Equity Survey",
+      "main_tab": "Academics",
+      "subtab": "Surveys",
+      "manual_ocr": false
+    },
+    {
+      "pdf_link": "https://maine207.org/wp-content/uploads/2025/12/District-207-Volunteer-Policy.pdf",
+      "file_name": "Volunteer Policy",
+      "main_tab": "Human Resources",
+      "subtab": "Join Our Team",
+      "manual_ocr": false
     }
-  }
+  ]
+}

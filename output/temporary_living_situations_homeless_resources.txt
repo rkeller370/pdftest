@@ -1,11 +1,9 @@
 # MANIFEST
-SOURCE_NAME: Temporary Living Situations/Homeless Resources
-SOURCE_URL: https://maine207.org/wp-content/uploads/2018/06/Maine-207-Temporary-Living-Situations.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.512Z
-PAGES_EXTRACTED: 2
+SOURCE: Temporary Living Situations/Homeless Resources
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:23.075Z
 
-########################################
+==================================================
 
 [PAGE 1]
 Who are Homeless Children and Youth?
@@ -43,6 +41,7 @@ custody of a parent or guardian. This would include runaways living in runaway s
 In determining whether or not a child or youth is homeless, consider the relative permanence of the living arrangements. Determinations of homeless- ness should be made on a case-by-case basis.
 
 [PAGE 2]
+
 ### 1-800-308-2145 ###
 
 If you need further assistance, call the National Center for Homeless Education
@@ -55,13 +54,17 @@ If your family lives in any of the following situations:
 
 • In a shelter, motel, vehicle, or campground
 
-• On the street
+### • ON THE STREET ###
 
 • In an abandoned building, trailer, or other inadequate accommodations, or
 
 • Doubled up with friends or relatives because you cannot find or afford housing
 
-Then, your preschool-aged and school-aged children have certain rights or protections under the McKinney-Vento Homeless Education Assistance Act.
+Then, your preschool-aged and school-aged children have certain rights or protections
+
+### UNDER THE MCKINNEY-VENTO HOMELESS ###
+
+Education Assistance Act.
 
 ### YOUR CHILDREN HAVE THE RIGHT TO: ###
 
@@ -83,7 +86,7 @@ provider, or a social worker for assistance with clothing and supplies, if neede
 
 ### STATE COORDINATOR: ###
 
-Information for Parents
+### INFORMATION FOR PARENTS ###
 
 • Go to school, no matter where you live or how long you
 

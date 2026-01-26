@@ -1,26 +1,27 @@
 # MANIFEST
-SOURCE_NAME: W języku polskim PDF
-SOURCE_URL: https://maine207.org/wp-content/uploads/2024/10/Uniform-Grievance-Procedure_Polish.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.154Z
-PAGES_EXTRACTED: 3
+SOURCE: W języku polskim PDF
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:22.682Z
 
-########################################
+==================================================
 
 [PAGE 1]
-Maine Township High School District 207
 
-1177 South Dee Road . Park Ridge, Illinois 60068-4398 . (847) 696-3600 . FAX (847) 692-8007 Dr. Tatiana Bonuma District 207 Administration Center Superintendent
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
-Naszą misją jest poprawa uczenia się
+1177 South Dee Road . Park Ridge, Illinois 60068-4398 . (847) 696-3600 . FAX (847) 692-8007 Dr. Tatiana Bonuma District 207 Administration Center
 
-Jednolita procedura składania skarg
+### SUPERINTENDENT ###
+
+### NASZĄ MISJĄ JEST POPRAWA UCZENIA SIĘ ###
+
+### JEDNOLITA PROCEDURA SKŁADANIA SKARG ###
 
 Uczeń, rodzic/opiekun, pracownik lub członek społeczności powinien powiadomić dowolnego Menedżer ds. skarg w Okręgu, jeśli uważa, że Rada Szkoły, jej pracownicy lub agenci naruszyli jego prawa gwarantowane przez stanową lub federalną konstytucję, stanowy lub federalny statut lub politykę Rady, w tym:
 
-1. Tytuł II Ustawy o Amerykanach z Niepełnosprawnościami
+### 1. TYTUŁ II USTAWY O AMERYKANACH Z NIEPEŁNOSPRAWNOŚCIAMI ###
 
-2. Tytuł IX Poprawek Edukacyjnych z 1972 r.
+### 2. TYTUŁ IX POPRAWEK EDUKACYJNYCH Z 1972 R. ###
 
 3. Artykuł 504 Ustawy o Rehabilitacji z 1973 r.
 
@@ -38,15 +39,17 @@ Obywatelskich z 1964 r. i Tytuł IX Poprawek Edukacyjnych z 1972 r.)
 
 8. Niewłaściwe wykorzystanie środków finansowych otrzymanych na usługi mające na celu poprawę
 
-możliwości edukacyjnych dzieci znajdujących się w niekorzystnej sytuacji edukacyjnej lub w trudnej sytuacji materialnej
+możliwości edukacyjnych dzieci znajdujących się w niekorzystnej sytuacji edukacyjnej lub w trudnej
 
-9. Program nauczania, materiały instruktażowe i/lub programy
+### SYTUACJI MATERIALNEJ ###
 
-10. Ustawa o Bezpieczeństwie Ekonomicznym Ofiar, 820 ILCS 180
+### 9. PROGRAM NAUCZANIA, MATERIAŁY INSTRUKTAŻOWE I/LUB PROGRAMY ###
+
+### 10. USTAWA O BEZPIECZEŃSTWIE EKONOMICZNYM OFIAR, 820 ILCS 180 ###
 
 11. Ustawa o Równości Wynagrodzeń stanu Illinois z 2003 r., 820 ILCS 112
 
-12. Świadczenie usług dla bezdomnych uczniów
+### 12. ŚWIADCZENIE USŁUG DLA BEZDOMNYCH UCZNIÓW ###
 
 13. Ustawa o Informowaniu o Nieprawidłowościach stanu Illinois, 740 ILCS 174/.
 
@@ -60,16 +63,17 @@ Menedżer ds. skarg dołoży wszelkich starań, aby odpowiedzieć na skargę i r
 
 Stosowane w niniejszej polityce określenie „szkolne dni robocze” oznacza dni, w których główne biuro Okręgu jest otwarte.
 
-Składanie reklamacji
+### SKŁADANIE REKLAMACJI ###
 
 Osoba (zwana dalej Skarżącym), która chce skorzystać z tej procedury składania skarg, może to zrobić, składając skargę do wyznaczonego Menedżera ds. skarg. Skarżący nie jest zobowiązany do złożenia skargi do konkretnego Menedżera ds. skarg i może zwrócić się do Menedżera ds. skarg tej samej płci. Menedżer ds. skarg może zwrócić się do skarżącego o wypełnienie formularza skargi dotyczącego charakteru skargi lub zażądać spotkania z rodzicem (rodzicami) / opiekunem (opiekunami) ucznia. Menedżer ds. skarg pomaga Skarżącemu w razie potrzeby.
 
 [PAGE 2]
-Dochodzenie
+
+### DOCHODZENIE ###
 
 Menedżer ds. skarg zbada skargę lub wyznaczy wykwalifikowaną osobę do przeprowadzenia dochodzenia w jego imieniu. Jeśli Skarżący jest uczniem poniżej 18 roku życia, Menedżer ds. skarg powiadomi rodzica (rodziców) / opiekuna (opiekunów), że może uczestniczyć we wszelkich spotkaniach dochodzeniowych, w które zaangażowane jest jego dziecko. Skarga i tożsamość Skarżącego nie zostaną ujawnione, z wyjątkiem (1) sytuacji wymaganych przez prawo lub niniejszą politykę, lub (2) niezbędnych do pełnego zbadania skargi lub (3) po upoważnieniu przez Skarżącego. Tożsamość jakichkolwiek świadków będących uczniami nie zostanie ujawniona, z wyjątkiem: (1) zgodnie z wymogami prawa lub jakiegokolwiek układu zbiorowego, lub (2) w razie potrzeby w celu pełnego zbadania skargi, lub (3) zgodnie z upoważnieniem rodzica/opiekuna ucznia lub samego ucznia, jeśli uczeń ma 18 lat lub więcej. W ciągu 30 szkolnych dni roboczych od daty złożenia skargi Menedżer ds. skarg składa pisemne sprawozdanie ze swoich ustaleń do Dyrektora. Menedżer ds. skarg może wnioskować o przedłużenie terminu. Jeżeli skarga o molestowanie seksualne zawiera zarzuty dotyczące Dyrektora, pisemny raport należy złożyć w Kuratorium Oświaty, które podejmie decyzję w sprawie rozstrzygnięcia skargi. Dyrektor będzie na bieżąco informować Kuratorium o wszystkich skargach.
 
-Decyzja i odwołanie
+### DECYZJA I ODWOŁANIE ###
 
 W ciągu 5 dni roboczych szkoły od otrzymania raportu Menedżera ds. skarg, Dyrektor prześle swoją pisemną decyzję do Skarżącego pocztą amerykańską, pierwszą klasą, jak również do Menedżera ds. skarg.
 
@@ -77,15 +81,23 @@ W ciągu 10 szkolnych dni roboczych od otrzymania decyzji Dyrektora, Skarżący 
 
 Dyrektor wyznaczył dwóch Menedżerów ds. skarg w Okręgu w celu wdrożenia jednolitych dla okręgu procedur składania skarg. Każdy rodzic, uczeń i pracownik ma prawo do złożenia skargi lub zażalenia na niezgodną z prawem dyskryminację, kontaktując się z jednym z następujących Menedżerów ds. skarg:
 
-Pan George Dagres, Zastępca dyrektora ds. zasobów ludzkich Menedżer ds. skarg w Okręgu 207 szkół średnich w powiecie Maine 1177 S. Dee Road
+### PAN GEORGE DAGRES, ZASTĘPCA DYREKTORA DS. ZASOBÓW LUDZKICH ###
 
-Park Ridge, IL 60068
+Menedżer ds. skarg w Okręgu 207 szkół średnich w powiecie Maine
+
+### 1177 S. DEE ROAD ###
+
+### PARK RIDGE, IL 60068 ###
 
 ### 1-847-692-8056 ###
 
-Pani Mary Kalou, Zastępca dyrektora ds. ekonomicznych Menedżer ds. skarg w Okręgu 207 szkół średnich w powiecie Maine 1177 S. Dee Road
+### PANI MARY KALOU, ZASTĘPCA DYREKTORA DS. EKONOMICZNYCH ###
 
-Park Ridge, IL 60068
+Menedżer ds. skarg w Okręgu 207 szkół średnich w powiecie Maine
+
+### 1177 S. DEE ROAD ###
+
+### PARK RIDGE, IL 60068 ###
 
 ### 1-847-692-8025 ###
 
@@ -94,6 +106,7 @@ Pracownicy nie mogą dyskryminować ani podejmować działań odwetowych wobec �
 Pracownicy nie będą zmuszać, zastraszać, grozić ani ingerować w żadną osobę w wykonywaniu lub korzystaniu z ochrony lub praw przyznanych na mocy Sekcji 504, Tytułu II, Tytułu IV lub Ustawy o wieku i polityki Kuratorium Oświaty.
 
 [PAGE 3]
+
 ### JEDNOLITY FORMULARZ SKARGI ###
 
 Uczniowie, rodzice/opiekunowie, pracownicy lub członkowie społeczności powinni wypełnić ten formularz w celu złożenia skargi, jeśli uważają, że Kuratorium Oświaty, jego pracownicy lub agenci naruszyli ich prawa gwarantowane przez konstytucję federalną lub stanową, statut federalny lub stanowy lub politykę kuratorium.
@@ -110,7 +123,7 @@ Miasto, stan, kod pocztowy:
 
 Wskaż, czy jesteś uczniem, rodzicem, opiekunem, pracownikiem lub członkiem społeczności.
 
-Charakter skargi
+### CHARAKTER SKARGI ###
 
 ### DATA INCYDENTU: ###
 

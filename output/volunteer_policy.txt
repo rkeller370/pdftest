@@ -1,14 +1,14 @@
 # MANIFEST
-SOURCE_NAME: Volunteer Policy
-SOURCE_URL: https://maine207.org/wp-content/uploads/2025/12/District-207-Volunteer-Policy.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.640Z
-PAGES_EXTRACTED: 2
+SOURCE: Volunteer Policy
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:23.466Z
 
-########################################
+==================================================
 
 [PAGE 1]
-District 207 | Volunteer Policy, Procedures, and Application District 207 Volunteer Policy
+District 207 | Volunteer Policy, Procedures, and Application
+
+### DISTRICT 207 VOLUNTEER POLICY ###
 
 Purpose | The Board of Education recognizes that volunteers enrich the educational program, enhance supervision of students, and strengthen the relationship between schools and the community. The District encourages qualified individuals to volunteer in its schools and programs, subject to established procedures that ensure the safety of students and compliance with State law, including Faith’s Law.
 
@@ -16,7 +16,9 @@ Definition | For purposes of this policy, a volunteer is an individual who perfo
 
 Individuals interested in volunteering should email the contact:
 
-Maine East High School - Rebecca Stewart at rstewart@maine207.org Maine South High School - Iris Smith at ismith@maine207.org Maine West High School - Matthew Parrilli at mparilli@maine207.org Screening & Approval
+Maine East High School - Rebecca Stewart at rstewart@maine207.org Maine South High School - Iris Smith at ismith@maine207.org Maine West High School - Matthew Parrilli at mparilli@maine207.org
+
+### SCREENING & APPROVAL ###
 
 • All volunteers must complete the District Volunteer Packet
 
@@ -30,7 +32,7 @@ criminal history record checks consistent with 105 ILCS 5/10-21.9; checks of the
 
 • The Superintendent or designee may deny, limit, or discontinue any volunteer assignment at any time.
 
-Training & Conduct
+### TRAINING & CONDUCT ###
 
 • Volunteers must comply with the District’s Code of Professional Conduct (Faith’s Law), Board Policy 5:120
 
@@ -40,7 +42,7 @@ Training & Conduct
 
 and cooperate fully with any ensuing investigations.
 
-Supervision & Scope
+### SUPERVISION & SCOPE ###
 
 • Volunteers work under the direction of a certified staff member or administrator.
 
@@ -53,7 +55,7 @@ Liability | Volunteers serve at the discretion of the District. They are not cov
 [PAGE 2]
 Faith’s Law Compliance Note | While Faith’s Law employment history review requirements do not apply to volunteers, all volunteers must adhere to the professional boundaries and conduct standards defined in the District’s Code of Professional Conduct. The District may apply equivalent vetting as a matter of policy.
 
-Volunteer Procedures
+### VOLUNTEER PROCEDURES ###
 
 Note: Volunteers may not begin service until written approval is issued.
 
@@ -65,10 +67,10 @@ Step 3 – Approval | Building Principal/designee reviews clearances and issues 
 
 Records retained for three years.
 
-Step 4 – Service & Supervision
+### STEP 4 – SERVICE & SUPERVISION ###
 
 Volunteer performs duties under direct staff supervision; concerns are reported to HR immediately.
 
-Termination
+### TERMINATION ###
 
 Annual renewal is required at the start of each school year.

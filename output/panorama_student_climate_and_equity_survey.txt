@@ -1,18 +1,17 @@
 # MANIFEST
-SOURCE_NAME: Panorama Student Climate and Equity Survey
-SOURCE_URL: https://maine207.org/wp-content/uploads/2025/10/Panorama-Student-Climate-and-Equity-Survey.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.478Z
-PAGES_EXTRACTED: 4
+SOURCE: Panorama Student Climate and Equity Survey
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:23.471Z
 
-########################################
+==================================================
 
 [PAGE 1]
-Student School Climate and Equity
+
+### STUDENT SCHOOL CLIMATE AND EQUITY ###
 
 For the following questions, we are interested in learning more about how you think about your school. Please give us your honest opinions so that we can better understand your experience and work to make the school a better place.
 
-Your Classes
+### YOUR CLASSES ###
 
 Please tell us about how you feel about your current teachers and classes.
 
@@ -30,7 +29,9 @@ Almost never Once in a while Sometimes A lot of the time Almost always
 
 4. How excited would you be if you could have your same teachers in the next grade too?
 
-Not at all excited A little excited Somewhat excited Very excited Extremely excited Feelings About Being at School
+Not at all excited A little excited Somewhat excited Very excited Extremely excited
+
+### FEELINGS ABOUT BEING AT SCHOOL ###
 
 In this section, we would like to understand how you feel about your school.
 
@@ -48,22 +49,28 @@ No respect at all A little bit of respect Some respect A lot of respect A huge a
 
 8. When you are at school, how much do you feel like you belong?
 
-Do not belong at all Belong a little bit Belong somewhat Mostly belong Completely belong Your Teachers
+Do not belong at all Belong a little bit Belong somewhat Mostly belong Completely belong
+
+### YOUR TEACHERS ###
 
 Please tell us about how much your teachers encourage you to do your best.
 
-Page 1
+### PAGE 1 ###
 
-Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+### PROOF PDF FORM - FOR DEMO PURPOSES ONLY ###
 
-### SAMPLE FORM ###
+SAMPLE FORM
 
 [PAGE 2]
 9. How much do your teachers encourage you to do your best?
 
-Do not encourage me at all
+### DO NOT ENCOURAGE ME AT ###
 
-Encourage me a little Encourage me some Encourage me a lot Encourage me a huge amount
+### ALL ###
+
+Encourage me a little Encourage me some Encourage me a lot Encourage me a huge
+
+### AMOUNT ###
 
 10. How often do your teachers ask you to explain your answers?
 
@@ -79,7 +86,9 @@ Not high at all A little high Somewhat high Very high Extremely high
 
 13. When you feel like giving up, how likely is it that your teachers will ask you to keep trying?
 
-Not at all likely A little likely Somewhat likely Very likely Extremely likely Feelings About School
+Not at all likely A little likely Somewhat likely Very likely Extremely likely
+
+### FEELINGS ABOUT SCHOOL ###
 
 Please let us know what you think about school in general.
 
@@ -103,11 +112,13 @@ Almost never Once in a while Sometimes Frequently Almost always
 
 backgrounds?
 
-Not at all common Slightly common Somewhat common Quite common Extremely common Page 2
+Not at all common Slightly common Somewhat common Quite common Extremely common
 
-Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+### PAGE 2 ###
 
-### SAMPLE FORM ###
+### PROOF PDF FORM - FOR DEMO PURPOSES ONLY ###
+
+SAMPLE FORM
 
 [PAGE 3]
 19. How fairly do students at your school treat people from different races, ethnicities, or cultures?
@@ -154,41 +165,79 @@ Not at all well Slightly well Somewhat well Quite well Extremely well
 
 28. At your school, how much does the behavior of other students hurt or help your learning?
 
-Hurts my learning a tremendous amount
+### HURTS MY LEARNING ###
 
-Hurts my learning some
+### A TREMENDOUS ###
 
-Hurts my learning a little bit Neither helps nor hurts my learning Helps my learning a little bit Helps my learning some
+### AMOUNT ###
 
-Helps my learning a tremendous amount
+### HURTS MY LEARNING ###
 
-Demographic information Page 3
+### SOME ###
 
-Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+### HURTS MY LEARNING ###
 
-### SAMPLE FORM ###
+### A LITTLE BIT ###
+
+### NEITHER HELPS NOR ###
+
+### HURTS MY LEARNING ###
+
+### HELPS MY LEARNING ###
+
+### A LITTLE BIT ###
+
+### HELPS MY LEARNING ###
+
+### SOME ###
+
+### HELPS MY LEARNING ###
+
+### A TREMENDOUS ###
+
+### AMOUNT ###
+
+### DEMOGRAPHIC INFORMATION ###
+
+### PAGE 3 ###
+
+Proof PDF Form - FOR DEMO PURPOSES ONLY
+
+SAMPLE FORM
 
 [PAGE 4]
 We ask students these questions each time we conduct a survey, because we do not store the information anywhere we can access it. Your responses will not be viewed individually, nor shared with your parents/guardians or teachers. School leaders look at patterns of responses in groups only, and use the information as one way to help them understand how students with various identify factors are experiencing our school environment. If fewer than 10 students select a specific choice, we cannot view response patterns by that particular group, in order to protect confidentiality.
 
 ### 29. CURRENTLY, I MOST STRONGLY IDENTIFY AS: ###
 
-Female Genderqueer, nonbinary, or fluid (not strictly male or female)
+Female Genderqueer, nonbinary, or fluid (not strictly male
 
-Male Different identity not listed here
+### OR FEMALE) ###
+
+Male Different identity not
+
+### LISTED HERE ###
 
 Prefer not to answer
 
 ### 30. CURRENTLY, I MOST STRONGLY IDENTIFY AS: ###
 
-Cisgender (my gender identity corresponds to the sex I was assigned at birth) Transgender (my gender identity is not the same as the sex I was assigned at birth) or nonbinary/fluid
+Cisgender (my gender identity corresponds to the sex I was
+
+### ASSIGNED AT BIRTH) ###
+
+Transgender (my gender identity is not the same as the sex I was assigned at birth) or
+
+### NONBINARY/FLUID ###
 
 Different identity not listed here Prefer not to answer
 
 ### 31. CURRENTLY, I MOST STRONGLY IDENTIFY AS: ###
 
-Bisexual, gay, or lesbian Heterosexual/straight Different identity not listed here Prefer not to answer Page 4
+Bisexual, gay, or lesbian Heterosexual/straight Different identity not listed here Prefer not to answer
 
-Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+### PAGE 4 ###
 
-### SAMPLE FORM ###
+Proof PDF Form - FOR DEMO PURPOSES ONLY
+
+SAMPLE FORM

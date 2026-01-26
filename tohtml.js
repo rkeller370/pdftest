@@ -16,7 +16,7 @@ const he = require("he");
 require("dotenv").config();
 
 const INPUT_DIR = "./input_pdfs";
-const OUTPUT_DIR = "./output";
+const OUTPUT_DIR = "./output_html";
 const CONCURRENCY = Math.max(1, os.cpus().length - 1);
 const MIN_CHARS_PER_PAGE = 50;
 const DATA_JSON = "./pdf.json";
@@ -28,17 +28,14 @@ class DocumentHeuristics {
     static isHeader(line, stats) {
         if (!line || line.length < 3) return false;
         let score = 0;
-        const words = line.split(/\s+/);
         const isAllCaps = line === line.toUpperCase() && /[A-Z]/.test(line);
         const hasNumbering = /^(\d+\.|\d+\.\d+|[IVXLCDM]+\.)\s+/.test(line);
 
         if (isAllCaps) score += 4;
         if (hasNumbering) score += 3;
-        if (words.length <= 10) score += 2;
+        if (line.split(/\s+/).length <= 10) score += 2;
         if (!/[.!?]$/.test(line)) score += 2;
         if (line.length < stats.medianLength * 0.6) score += 2;
-        if (/^#+\s/.test(line)) score += 10;
-
         return score >= 6;
     }
 
@@ -62,21 +59,33 @@ class SemanticBuffer {
         this.nodes.push({ type, content: content.trim() });
     }
 
-    reorderOrphanedHeaders() {
-        for (let i = 0; i < this.nodes.length; i++) {
-            if (this.nodes[i].type === 'header' && i === this.nodes.length - 1) {
-                this.nodes[i].type = 'paragraph';
-            }
-        }
-    }
-
     render() {
-        this.reorderOrphanedHeaders();
-        return this.nodes.map(n => {
-            if (n.type === 'header') return `\n### ${n.content.toUpperCase()} ###\n`;
-            if (n.type === 'list') return n.content;
-            return n.content;
-        }).join("\n\n");
+        let html = "";
+        let inList = false;
+
+        this.nodes.forEach((node, i) => {
+            if (node.type === 'list') {
+                if (!inList) {
+                    html += "<ul>\n";
+                    inList = true;
+                }
+                html += `  <li>${he.encode(node.content.replace(/^[•\-\*\d\.\)]+\s+/, ""))}</li>\n`;
+            } else {
+                if (inList) {
+                    html += "</ul>\n";
+                    inList = false;
+                }
+                if (node.type === 'header') {
+                    const level = i === 0 ? 1 : 2;
+                    html += `<h${level}>${he.encode(node.content)}</h${level}>\n`;
+                } else {
+                    html += `<p>${he.encode(node.content)}</p>\n`;
+                }
+            }
+        });
+
+        if (inList) html += "</ul>\n";
+        return html;
     }
 }
 
@@ -97,7 +106,6 @@ class DocumentProcessor {
 
     process() {
         let currentPara = [];
-
         const flushPara = () => {
             if (currentPara.length > 0) {
                 this.tokenizer.setEntry(currentPara.join(" "));
@@ -106,9 +114,8 @@ class DocumentProcessor {
             }
         };
 
-        this.lines.forEach((line, idx) => {
+        this.lines.forEach(line => {
             if (DocumentHeuristics.isPageNumber(line)) return;
-
             if (DocumentHeuristics.isHeader(line, this.stats)) {
                 flushPara();
                 this.buffer.add('header', line);
@@ -124,18 +131,9 @@ class DocumentProcessor {
                 currentPara.push(line);
             }
         });
-
         flushPara();
         return this.buffer.render();
     }
-}
-
-function cleanText(text) {
-    return text
-        .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F-\u009F]/g, "")
-        .replace(/(\w)-\s*\n(\w)/g, "$1$2")
-        .replace(/[ \t]+/g, " ")
-        .replace(/\n{3,}/g, '\n\n');
 }
 
 async function extractAzure(pdfPath) {
@@ -143,32 +141,18 @@ async function extractAzure(pdfPath) {
     const response = await axios.post(
         `${process.env.AZURE_ENDPOINT}/formrecognizer/documentModels/prebuilt-layout:analyze?api-version=2023-07-31`,
         file,
-        {
-            headers: {
-                "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY,
-                "Content-Type": "application/pdf"
-            }
-        }
+        { headers: { "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY, "Content-Type": "application/pdf" } }
     );
 
     const pollUrl = response.headers["operation-location"];
     let result;
     while (true) {
-        const poll = await axios.get(pollUrl, {
-            headers: { "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY }
-        });
-        if (poll.data.status === "succeeded") {
-            result = poll.data;
-            break;
-        }
+        const poll = await axios.get(pollUrl, { headers: { "Ocp-Apim-Subscription-Key": process.env.AZURE_KEY } });
+        if (poll.data.status === "succeeded") { result = poll.data; break; }
         if (poll.data.status === "failed") throw new Error("Azure OCR Failure");
         await new Promise(r => setTimeout(r, 2000));
     }
-
-    return result.analyzeResult.pages.map(page => ({
-        page: page.pageNumber,
-        text: page.lines.map(l => l.content).join("\n")
-    }));
+    return result.analyzeResult.pages.map(page => ({ page: page.pageNumber, text: page.lines.map(l => l.content).join("\n") }));
 }
 
 async function extractPdfParse(pdfPath) {
@@ -181,68 +165,69 @@ async function extractPdfParse(pdfPath) {
     return result.text.split("\f").map((text, i) => ({ page: i + 1, text }));
 }
 
-async function downloadFile(url, targetPath) {
-    const response = await axios({ url, method: 'GET', responseType: 'stream' });
-    const writer = fs.createWriteStream(targetPath);
-    response.data.pipe(writer);
-    return new Promise((res, rej) => {
-        writer.on('finish', res);
-        writer.on('error', rej);
-    });
-}
-
 async function processEntry(entry) {
     const safeName = entry.file_name.replace(/[^a-z0-9]/gi, '_').toLowerCase();
     const pdfPath = path.join(INPUT_DIR, `${safeName}.pdf`);
-    const outputPath = path.join(OUTPUT_DIR, `${safeName}.txt`);
+    const outputPath = path.join(OUTPUT_DIR, `${safeName}.html`);
 
-    // Added existence check to skip already processed files
-    if (fs.existsSync(outputPath)) {
-        console.log(`[SKIP] ${entry.file_name} already exists in output.`);
-        return;
-    }
+    if (fs.existsSync(outputPath)) return;
 
     try {
-        if (!fs.existsSync(pdfPath)) await downloadFile(entry.pdf_link, pdfPath);
+        if (!fs.existsSync(pdfPath)) {
+            const res = await axios({ url: entry.pdf_link, method: 'GET', responseType: 'stream' });
+            res.data.pipe(fs.createWriteStream(pdfPath));
+            await new Promise((resolve) => res.data.on('end', resolve));
+        }
 
         let pages;
-        let method = "pdf-parse";
         const forceOCR = entry.manual_ocr === true || entry.manual_ocr === "true";
-
+        
         if (forceOCR) {
             pages = await extractAzure(pdfPath);
-            method = "azure-forced";
         } else {
             pages = await extractPdfParse(pdfPath);
-            const quality = pages.filter(p => p.text.trim().length >= MIN_CHARS_PER_PAGE).length / pages.length;
-            if (quality < 0.5) {
+            if (pages.filter(p => p.text.trim().length >= MIN_CHARS_PER_PAGE).length / pages.length < 0.5) {
                 pages = await extractAzure(pdfPath);
-                method = "azure-fallback";
             }
         }
 
-        const processed = pages.map(p => {
+        const bodyContent = pages.map(p => {
             const engine = new DocumentProcessor(p.text);
-            return `[PAGE ${p.page}]\n${cleanText(engine.process())}\n`;
-        });
+            return `<section class="page" data-page="${p.page}">\n${engine.process()}</section>`;
+        }).join("\n");
 
-        const manifest = [
-            `# MANIFEST`,
-            `SOURCE: ${entry.file_name}`,
-            `METHOD: ${method}`,
-            `STAMP: ${new Date().toISOString()}`,
-            `\n${'='.repeat(50)}\n`,
-            ...processed
-        ].join('\n');
+        const html = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>${he.encode(entry.file_name)}</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; color: #333; }
+        .page { margin-bottom: 40px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+        h1 { color: #000; }
+        h2 { color: #444; margin-top: 1.5em; }
+        p { margin: 1em 0; }
+        ul { margin: 1em 0; padding-left: 2em; }
+        li { margin: 0.5em 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <p><small>Source: <a href="${entry.pdf_link}">${entry.pdf_link}</a></small></p>
+    </header>
+    ${bodyContent}
+</body>
+</html>`;
 
-        fs.writeFileSync(outputPath, manifest);
-        console.log(`[DONE] ${entry.file_name} via ${method}`);
+        fs.writeFileSync(outputPath, html);
+        console.log(`[DONE] ${entry.file_name}`);
     } catch (err) {
         console.error(`[ERR] ${entry.file_name}: ${err.message}`);
     }
 }
 
-async function run(items, limit, worker) {
+async function runQueue(items, limit, worker) {
     const queue = [...items];
     const pool = Array.from({ length: limit }, async () => {
         while (queue.length > 0) {
@@ -254,4 +239,4 @@ async function run(items, limit, worker) {
 }
 
 const config = JSON.parse(fs.readFileSync(DATA_JSON, "utf8"));
-run(config.pdf_links, CONCURRENCY, processEntry);
+runQueue(config.pdf_links, CONCURRENCY, processEntry);

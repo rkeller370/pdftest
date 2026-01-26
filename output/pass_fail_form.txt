@@ -1,13 +1,12 @@
 # MANIFEST
-SOURCE_NAME: Pass-Fail Form
-SOURCE_URL: https://maine207.org/wp-content/uploads/2019/07/Pass-Fail-FormProcedures.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.379Z
-PAGES_EXTRACTED: 2
+SOURCE: Pass-Fail Form
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:23.181Z
 
-########################################
+==================================================
 
 [PAGE 1]
+
 ### DISTRICT 207 PASS/FAIL PETITION ###
 
 (Pass/fail procedures on reverse side) Student Name (please print) ID# Counselor I herein petition to complete the following course on a pass/fail basis:
@@ -30,9 +29,13 @@ pass/fail basis for the first semester WILL AUTOMATICALLY remain on a pass/fail 
 
 ### COUNSELOR AND TEACHER OF THE RESPECTIVE COURSE. ###
 
-PLEASE RETURN THE COMPLETED FORM TO YOUR COUNSELOR’S OFFICE NO LATER THAN 3:30 p.m. on the Friday of the second week following the start of the first or third quarter of the year.
+### PLEASE RETURN THE COMPLETED FORM TO YOUR COUNSELOR’S OFFICE ###
 
-____________________________________ _____________________________________ Student Signature Approval of Parent (Signature) _____________________________________ Approval of Counselor
+NO LATER THAN 3:30 p.m. on the Friday of the second week following the start of the first or third quarter of the year.
+
+____________________________________ _____________________________________ Student Signature Approval of Parent (Signature) _____________________________________
+
+### APPROVAL OF COUNSELOR ###
 
 ### (DO NOT WRITE BELOW THIS LINE) ###
 
@@ -43,7 +46,8 @@ Date completed petition returned to counselor: ____________
 Class Instructor: _____________________________________ Counselor’s Copy _____________________________________ Department Chairperson: _______________________________ Original to Scheduling: _________________________________
 
 [PAGE 2]
-Pass/Fail Procedures
+
+### PASS/FAIL PROCEDURES ###
 
 The pass/fail policy was developed to give students opportunities for learning without the pressure of grades. Passing grades received under the pass/fail system are designated on grade reports and official transcripts as satisfactory (PA). Failing grades received under the pass/fail system are designated on grade reports and official transcripts as an “F”. A failing (F) grade will be computed in a student’s grade point average. Students may take any one-half credit or one credit course during the regular school year, as well as summer school, pass/fail according to the following
 

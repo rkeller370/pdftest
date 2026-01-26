@@ -1,30 +1,51 @@
 # MANIFEST
-SOURCE_NAME: Sexual Harassment Policy
-SOURCE_URL: https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Sexual-Harassment-Policy.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.333Z
-PAGES_EXTRACTED: 6
+SOURCE: Sexual Harassment Policy
+METHOD: azure-forced
+STAMP: 2026-01-22T14:11:30.858Z
 
-########################################
+==================================================
 
 [PAGE 1]
- any behavior of a sexual nature that creates a hostile work environment OR
 
- any sexual advance or request for sexual favors that is linked to employment or a tangible job detriment
+### MAINE TOWNSHIP ###
 
-Sexual harassment covers a broad spectrum of behaviors and can take many different forms ranging from unwelcome comments to unwanted physical contacts. Both women and men can be victims, and sexual harassment can occur between members of the same sex. In addition, sexual harassment can occur between coworkers, supervisors, and employees, students and employees, third parties and employees, third parties and students, or between two or more students.
+### HIGH SCHOOL ###
+
+Sexual harassment is: any behavior of a sexual nature that creates a hostile work environment OR any sexual advance or request for sexual favors that is linked to employment or a tangible job
+
+### DETRIMENT ###
+
+Sexual harassment covers a broad spectrum of behaviors and can take many different forms ranging from unwelcome comments to unwanted physical contacts.
+
+### BOTH ###
+
+women and men can be victims, and sexual harassment can occur between members of the same sex.
+
+### IN ADDITION, SEXUAL ###
+
+harassment can occur between coworkers, supervisors, and employees, students and employees, third parties and employees, third parties and students, or between two or more students.
 
 We all suffer when sexual harassment occurs. Whether we are distracted by direct sexual harassment, by witnessing sexual harassment, or by rumors and gossip about sexual harassment, we can lose focus on the primary reason for employment. Sexual harassment can even force victims to change their careers or leave their jobs.
+
+Are you a harasser?
 
 Do you make sexual/sexist jokes in the work environment without being 100 percent certain how all others present will respond?
 
 When others create a sexually harassing atmosphere through comments and jokes, do you join in?
 
-Do you physically touch people when you’re not certain how they will receive such behavior?
+Do you physically touch people when you're not certain how they will receive such behavior?
 
 If a fellow worker rejects initial attempts to socialize or requests for a date, do you persist?
 
-Do you display pictures or other material in the workplace that could contribute to or create a sexually harassing atmosphere?
+Do you display pictures or other material in the workplace that could contribute to
+
+### CREATE ###
+
+or a
+
+### SEXUALLY HARASSING ###
+
+atmosphere?
 
 Do you think sexual harassment is a trivial issue?
 
@@ -32,51 +53,101 @@ If you answered yes to any of these questions, you may need to change your behav
 
 Remember, a sexual harasser may be a coworker, supervisor, student, school volunteer or chaperon, or a third party whose employment requires them to be on school grounds, at a school sponsored activity or at any activity reasonably related to school.
 
-### SEXUAL HARASSMENT IS: ###
+### DISTRICT 207 ###
 
-What you should know about
+### WHAT YOU ###
 
-Are you a harasser? District 207 Maine Township
+### SHOULD KNOW ###
 
-High School sexual harassment
+### ABOUT ###
+
+### SEXUAL ###
+
+harassment
 
 [PAGE 2]
-Employees and students who believe they have been sexually harassed should immediately report the incident. In addition, victims are encouraged to firmly inform their harasser that they are offended by the harassment and want it to stop. Non- certified employees should report to their direct supervisor, and certificated employees should report to the building principal. If the person to whom you should report is the offending party, you should report the incident to the next higher level of administration or supervision. You may bring a witness and/or representative with you. All reports of sexual harassment will be promptly investigated.
+
+### WHAT YOU CAN DO ###
+
+### ABOUT SEXUAL HARASSMENT ###
+
+Employees and students who believe they have been sexually harassed should immediately report the incident.
+
+In addition, victims are encouraged to firmly inform their harasser that they are offended by the harassment and want it to stop. Non- certified employees should report to their
+
+### DIRECT ###
+
+### SUPERVISOR, ###
+
+### AND ###
+
+### CERTIFICATED ###
+
+employees should report to the building principal. If the person to whom you should report is the offending party, you should report the incident to the next higher level of administration or supervision. You may bring a witness and/or representative with you. All reports of sexual harassment
+
+### WILL ###
+
+be
+
+### PROMPTLY ###
+
+investigated.
 
 Substantiated charges will result in appropriate corrective action up to and including discharge or expulsion of the offending party.
 
 If you see someone else being sexually harassed, encourage the victim to take action and offer to be a witness. Victims of sexual harassment may be vulnerable.
 
-They may deny their feelings or believe that they are somehow responsible for the harasser’s behavior. The victims may also feel that others will blame them for causing the situation or not believe them. If the victim will not come forward, you are encouraged to confidentially report the sexual harassment to the appropriate supervisor/administrator. It is particularly important that you report any incidents of sexual harassment you witness when the victim is a student. Sexual harassment will not be solved if the harassers are protected by silence.
+They may deny their feelings or believe that they are somehow responsible for the harasser's behavior. The victims may also feel that others will blame them for causing the situation or not believe them. If the victim will not come forward, you are encouraged to confidentially report the sexual harassment to the appropriate supervisor/administrator. It is particularly important that you report any incidents of sexual harassment you witness when the victim is a student. Sexual harassment will not be solved if the harassers are protected by silence.
 
-Sexual harassment and/or retaliation related to a sexual harassment complaint is prohibited by Board of Education policy, and by state and federal law. The District’s sexual harassment policy is located in the District’s policy handbook (policy number 3910), and copies of the policy are available for employees and students in the principal’s office. Violation of this policy is grounds for disciplinary action including possible dismissal.
+The District 207 Sexual Harassment Policy Sexual harassment and/or retaliation related to a sexual harassment complaint is prohibited by Board of Education policy, and by state and federal law. The District's sexual harassment policy is located in the District's policy handbook (policy number 3910), and copies of the policy are available for employees and students in the principal's office. Violation of this policy is grounds for disciplinary action including possible dismissal.
 
 According to the District 207 policy, sexual harassment may include, but is not necessarily limited
 
 ### TO: ###
 
- unwelcome sexual advances  requests for sexual favors  verbal or physical conduct of a sexual nature  sexually oriented “kidding,” “teasing,” or “joking”  subtle pressure for sexual activity  unwelcome touching
+- unwelcome sexual advances
 
- suggesting or demanding sexual involvement accompanied by implied or explicit threats concerning an individual’s employment status, a student’s grades, or similar personal concerns
+requests for sexual favors verbal or physical conduct of a sexual nature sexually oriented "kidding," "teasing," or "joking" subtle pressure for sexual activity
 
- sexual innuendo
+### UNWELCOME TOUCHING ###
 
- sexually suggestive comments, insults, threats, noises  jokes about gender-specific traits  leering, pinching and/or brushing the body  display of sexually oriented materials What you can do about sexual harassment The District 207 Sexual Harassment Policy “As a matter of policy, the sex, sexual orientation, color, physical handicap, race nationality, residence, age, religion, or religious affiliations of any applicant shall not be considered either a qualification or disqualification.”
+suggesting or demanding sexual involvement accompanied by implied or explicit threats concerning an individual's employment status, a student's grades, or similar personal
+
+### CONCERNS ###
+
+### - SEXUAL INNUENDO ###
+
+sexually suggestive comments, insults, threats, noises
+
+- jokes about gender-specific traits
+
+leering, pinching and/or brushing the body display of sexually oriented materials
+
+### MAINE ###
+
+### HIGH SCHOOL * ###
+
+### TOWNSHIP ###
+
+"As a matter of policy, the sex, sexual orientation, color, physical handicap, race nationality, residence, age, religion, or religious affiliations of any applicant shall not be considered either a qualification or disqualification."
 
 [PAGE 3]
+
 ### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
-### SEXUAL HARASSMENT 3910 ###
+### SEXUAL HARASSMENT ###
 
-3910 District employees, students and all persons present on school grounds, at school-sponsored activities or at any activity which bears a reasonable relationship to school are prohibited from sexually harassing any person on school grounds, at any school-sponsored activity or at any activity which bears a reasonable relationship to school.
+District employees, students and all persons present on school grounds, at school-sponsored activities or at any activity which bears a reasonable relationship to school are prohibited from sexually harassing any person on school grounds, at any school-sponsored activity or at any activity which bears a reasonable relationship to school.
 
-### 3910.1 DEFINITIONS ###
+### 3910.1 ###
 
-A. With respect to employees, "sexual harassment" means:
+### DEFINITIONS ###
+
+A.
+
+With respect to employees, "sexual harassment" means: or
 
 1. sexual advances or requests for sexual favors by a student toward an employee;
-
-or
 
 2. unwelcome sexual advances or requests for sexual favors or verbal or physical
 
@@ -84,7 +155,7 @@ or
 
 a) submission to such conduct is made either explicitly or implicitly a term or
 
-condition of an individual's employment, or
+### CONDITION OF AN INDIVIDUAL'S EMPLOYMENT, OR ###
 
 b) submission to, or rejection of, such conduct by an individual is used as the
 
@@ -94,15 +165,17 @@ c) such conduct has the purpose or effect of substantially interfering with an
 
 individual's work performance or creating an intimidating, hostile or offensive working environment.
 
-3. For purposes of this policy, "employee" includes all persons whose employment,
+3.
 
-or whose status as a volunteer or chaperon, requires them to be on school grounds, at any school-sponsored activity or at any activity which bears a reasonable relationship to school.
+For purposes of this policy, "employee" includes all persons whose employment, or whose status as a volunteer or chaperon, requires them to be on school grounds, at any school-sponsored activity or at any activity which bears a reasonable relationship to school.
 
-B. With respect to students, " sexual harassment" means:
+B.
 
-1. sexual advances, requests for, or acceptance of, sexual favors by an employee or
+With respect to students, " sexual harassment" means:
 
-other adult engaged in school business including volunteers and chaperons and/or sexual relationships between a student and an employee or other adult engaged in school business; or
+1. sexual advances, requests for, or acceptance of, sexual favors by an employee or other adult engaged in school business including volunteers and chaperons and/or sexual relationships between a student and an employee or other adult engaged
+
+### IN SCHOOL BUSINESS; OR ###
 
 2. unwelcome sexual advances, requests for sexual favors or other sexually oriented
 
@@ -123,86 +196,115 @@ student's school performance or creates an intimidating, hostile or offensive wo
 (Continued)
 
 [PAGE 4]
+
 ### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
-SEXUAL HARASSMENT (Continued) 3910
+### SEXUAL HARASSMENT (CONTINUED) ###
 
-3. For purposes of this policy, "student" includes students of other districts who are
+3.
 
-present on school grounds, at a school-sponsored activity or at any activity which bears a reasonable relationship to school.
+For purposes of this policy, "student" includes students of other districts who are present on school grounds, at a school-sponsored activity or at any activity which bears a reasonable relationship to school.
 
-3910.1 C. Sexual harassment prohibited by this policy includes verbal or physical conduct.
+### 3910.1 C. ###
+
+Sexual harassment prohibited by this policy includes verbal or physical conduct.
 
 Examples of sexual harassment include, but are not limited to: sexual innuendo; suggestive comments; insults; threats; jokes about gender-specific traits; sexual propositions; suggestive or insulting noises; leering; whistling; obscene gestures; touching; pinching; brushing the body; or assault. The terms intimidating, hostile or offensive as used above include, but are not limited to, conduct which has the effect of humiliation, embarrassment or discomfort. Whether sexual harassment has occurred will be evaluated in light of all of the circumstances.
 
-### BOARD OF EDUCATION SEXUAL HARASSMENT REPORTING PROCEDURES ###
+### 3910.2 ###
 
-### 3910.2 SEXUAL HARASSMENT REPORTING PROCEDURES ###
+### SEXUAL HARASSMENT REPORTING PROCEDURES ###
+
+### BOARD OF EDUCATION SEXUAL HARASSMENT REPORTING PROCEDURES ###
 
 It is the express policy of the Board of Education to encourage victims of sexual harassment to come forward with such claims. In order to conduct an immediate investigation, any incident of sexual harassment must be reported as quickly as possible, in confidence, as follows:
 
-A. Employees
+A.
+
+### EMPLOYEES ###
 
 Non-certificated employees are encouraged to report any incidents of sexual harassment to their direct supervisor. Certificated employees are encouraged to report any incidents of sexual harassment to the building principal. If the person to whom an employee is direct to report is the offending person, the report should be made to the next higher level of administration or supervision.
 
-B. Students
+B.
+
+### STUDENTS ###
 
 Students are encouraged to report any incidents of sexual harassment to a social worker or the building principal. If the complaint involves the building principal, the report should be made to the superintendent.
 
-### C. THIRD PERSONS ###
+C.
+
+### THIRD PERSONS ###
 
 For purposes of this procedure, third persons are any persons, other than District employees and students, on school grounds, at any school- sponsored activities or at any activity which bears a reasonable relationship to school. Third persons are encouraged to report any incidents of sexual harassment to the building principal. If the building principal is the offending person, the report should be made to the superintendent.
 
-### D. CONFIDENTIALITY ###
+D.
+
+### CONFIDENTIALITY ###
 
 Reasonable effort will be made to promptly investigate any allegation of sexual harassment in a confidential manner, to the extent appropriate or required by law. The superintendent shall be informed by the supervisor, social worker, or principal of every reported incident of sexual harassment.
 
 (Continued)
 
 [PAGE 5]
+
 ### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
 ### BOARD OF EDUCATION SEXUAL HARASSMENT REPORTING PROCEDURES ###
 
-### 3910.3 INVESTIGATION AND CORRECTIVE ACTION ###
+### 3910.3 ###
 
-A. Investigation
+### INVESTIGATION AND CORRECTIVE ACTION ###
+
+### A. INVESTIGATION ###
 
 The principal, or the superintendent if the principal is the alleged offending person, will appoint one or more persons to promptly investigate the charge. Within ten (10) school days from the date the complaint was received, the investigator(s) will produce a report to the principal, or the superintendent if the principal is the alleged offending person,
 
 ### WHICH WILL INCLUDE AT A MINIMUM THE FOLLOWING: ###
 
-1. the date the complaint was received;
+1.
 
-2. the complainant's name;
+### THE DATE THE COMPLAINT WAS RECEIVED; ###
 
-3. the name of each alleged harasser and a description of all conduct that gave rise
+2.
 
-to the complaint (written, signed statements by complainants describing relevant events should be obtained whenever possible);
+### THE COMPLAINANT'S NAME; ###
 
-4. a statement detailing the scope of the investigation undertaken, including the
+3. the name of each alleged harasser and a description of all conduct that gave rise to the complaint (written, signed statements by complainants describing relevant
 
-names of all witnesses interviewed and the results of the interviews; and
+### EVENTS SHOULD BE OBTAINED WHENEVER POSSIBLE); ###
 
-5. a statement of corrective measures recommended, if requested by the principal or
+4. a statement detailing the scope of the investigation undertaken, including the names of all witnesses interviewed and the results of the interviews; and 5. a statement of corrective measures recommended, if requested by the principal or
 
-superintendent
+### SUPERINTENDENT ###
 
 Within five (5) school days after the investigation is completed, the principal, or the superintendent if the principal is the alleged offending person, will evaluate the report of the investigator(s) to determine the validity of the complaint.
 
-B. Corrective Action
+B.
+
+### CORRECTIVE ACTION ###
 
 Any District employee who is determined, after an investigation, to have engaged in sexual harassment in violation of this policy will be subject to disciplinary action up to and including discharge. Any student of the District who is determined, after an investigation, to have engaged in sexual harassment in violation of this policy will be subject to disciplinary action, including, but not limited to, suspension and expulsion consistent with the District's discipline policy. Any third person who is determined, after an investigation, to have engaged in sexual harassment in violation of this policy will be subject to restriction from participation in activities on school grounds, at school-sponsored activities or at any activity which bears a reasonable relationship to school. Referral to the Department of Children and Family Services and/or appropriate law enforcement agencies will be made in appropriate cases. Any person who knowingly makes a false accusation regarding sexual harassment will likewise be subject to 1.) disciplinary action up to and including discharge with regard to employees, 2.) suspension and expulsion, with regard to students 3.) restricted participation in activities, with regard to third persons.
 
 [PAGE 6]
+
 ### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
 ### BOARD OF EDUCATION SEXUAL HARASSMENT REPORTING PROCEDURE ###
 
-### 3910.4 RETALIATION ###
+### 3910.4 ###
+
+### RETALIATION ###
 
 The School District prohibits retaliation against a person because the person has opposed that which he or she believes in good faith to be sexual harassment or because he or she, in good faith, has made a charge, filed a complaint, testified, assisted or participated in an investigation, proceeding or hearing regarding sexual harassment. Retaliation includes, but is not limited to, any form of intimidation, reprisal or harassment. A person engaging in retaliatory conduct shall be subject to 1.) disciplinary action up to and including discharge, with regard to employees 2.) suspension and expulsion, with regard to students, or 3.) restricted form participation in activities, with regard to third persons.
 
-Ref. Human Rights Act Adopted: 05/02/88
+### REF. HUMAN RIGHTS ACT ###
 
-Title VII of the 1964 Civil Rights Act Revised: 02/11/91 Title IX of the 1972 Educational Amendments Revised: 10/05/98
+### ADOPTED: 05/02/88 ###
+
+Title VII of the 1964 Civil Rights Act
+
+### REVISED: 02/11/91 ###
+
+Title IX of the 1972 Educational Amendments
+
+Revised: 10/05/98

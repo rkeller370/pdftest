@@ -1,18 +1,19 @@
 # MANIFEST
-SOURCE_NAME: Parents' Right to Know
-SOURCE_URL: https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Parent-Right-to-Know-Educator-Qualifications.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.221Z
-PAGES_EXTRACTED: 1
+SOURCE: Parents' Right to Know
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:22.922Z
 
-########################################
+==================================================
 
 [PAGE 1]
-Maine Township High School District 207
 
-1177 South Dee Road . Park Ridge, Illinois 60068-4398 . 847-696-3600 . FAX 847-692-8007 Dr. Kenneth Wallace
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
 
-Superintendent
+1177 South Dee Road . Park Ridge, Illinois 60068-4398 . 847-696-3600 . FAX 847-692-8007
+
+### DR. KENNETH WALLACE ###
+
+### SUPERINTENDENT ###
 
 Parents’ Right to Know - Qualifications of Educators This is to inform you that you have the right to request information regarding the professional qualifications of any teacher that is instructing your child. You may request information
 

@@ -1,11 +1,9 @@
 # MANIFEST
-SOURCE_NAME: Panorama Student SEL Survey
-SOURCE_URL: https://maine207.org/wp-content/uploads/2022/09/Panorama-Student-SEL-Survey-Updated-Fall-2022.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.449Z
-PAGES_EXTRACTED: 3
+SOURCE: Panorama Student SEL Survey
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:23.401Z
 
-########################################
+==================================================
 
 [PAGE 1]
 Panorama Social-Emotional Learning: Student Competency & Well-Being Measures To better support you, your school and teachers would like to ask you some questions about how you think and feel.
@@ -14,7 +12,7 @@ Only your teachers and school leaders will be able to see your responses, which 
 
 Please respond honestly—there are no right or wrong answers!
 
-Your Current Classes
+### YOUR CURRENT CLASSES ###
 
 Please tell us about how you feel about your current teachers and classes.
 
@@ -36,7 +34,9 @@ Not at all confident Slightly confident Somewhat confident Quite confident Extre
 
 5. How confident are you that you will remember what you learned in your current classes, next year?
 
-Not at all confident Slightly confident Somewhat confident Quite confident Extremely confident Your Behavior
+Not at all confident Slightly confident Somewhat confident Quite confident Extremely confident
+
+### YOUR BEHAVIOR ###
 
 Please answer the following questions about how you respond to different situations. During the past 30 days…
 
@@ -46,7 +46,9 @@ Not carefully at all Slightly carefully Somewhat carefully Quite carefully Extre
 
 7. How much did you care about other people's feelings?
 
-Did not care at all Cared a little bit Cared somewhat Cared quite a bit Cared a tremendous amount
+Did not care at all Cared a little bit Cared somewhat Cared quite a bit Cared a tremendous
+
+### AMOUNT ###
 
 8. How well did you get along with students who are different from you?
 
@@ -54,13 +56,13 @@ Did not get along at all Got along a little bit Got along somewhat Got along pre
 
 9. How often did you compliment others' accomplishments?
 
-Almost never Once in a while Sometimes Frequently Almost all the time Page 1
+Almost never Once in a while Sometimes Frequently Almost all the time
 
-Proof PDF Form - FOR DEMO PURPOSES ONLY
+### PAGE 1 ###
 
+### PROOF PDF FORM - FOR DEMO PURPOSES ONLY ###
 
-
-### SAMPLE FORM ###
+SAMPLE FORM
 
 [PAGE 2]
 10. How clearly were you able to describe your feelings?
@@ -77,7 +79,9 @@ Not at all A little bit Somewhat Quite a bit A tremendous amount
 
 13. To what extent were you able to disagree with others without starting an argument?
 
-Not at all A little bit Somewhat Quite a bit A tremendous amount Additional Items
+Not at all A little bit Somewhat Quite a bit A tremendous amount
+
+### ADDITIONAL ITEMS ###
 
 These items include information your school leaders feel it is important to know about how things are going.
 
@@ -95,7 +99,9 @@ Strongly Disagree Disagree Agree Strongly Agree
 
 17. I feel comfortable at school being myself and showing who I am as a person.
 
-Strongly Disagree Disagree Agree Strongly Agree Advisory
+Strongly Disagree Disagree Agree Strongly Agree
+
+### ADVISORY ###
 
 Please share your thoughts on Advisory.
 
@@ -105,11 +111,13 @@ Strongly Disagree Disagree Agree Strongly Agree
 
 19. I feel like I can speak honestly and openly with my advisory teacher(s).
 
-Strongly Disagree Disagree Agree Strongly Agree Page 2
+Strongly Disagree Disagree Agree Strongly Agree
 
-Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+### PAGE 2 ###
 
-### SAMPLE FORM ###
+Proof PDF Form - FOR DEMO PURPOSES ONLY
+
+SAMPLE FORM
 
 [PAGE 3]
 20. I clearly understand the purpose of Advisory.
@@ -120,7 +128,7 @@ Strongly Disagree Disagree Agree Strongly Agree
 
 (football game, assembly, etc.)?
 
-Few Some Many All
+### FEW SOME MANY ALL ###
 
 22. I know what type of career I want to have.
 
@@ -128,26 +136,44 @@ Strongly Disagree Disagree Agree Strongly Agree
 
 23. I have a clear plan for my life after high school.
 
-Strongly Disagree Disagree Agree Strongly Agree Demographic information We ask students these questions each time we conduct a survey, because we do not store the information anywhere we can access it. Your responses to these items will not be viewed individually, nor shared with your parents/guardians or teachers. School leaders look at patterns of responses in groups only, and use the information as one way to help them understand how students with various identify factors are experiencing our school environment. If fewer than 10 students select a specific choice, we cannot view response patterns by that particular group, in order to protect confidentiality.
+Strongly Disagree Disagree Agree Strongly Agree
+
+### DEMOGRAPHIC INFORMATION ###
+
+We ask students these questions each time we conduct a survey, because we do not store the information anywhere we can access it. Your responses to these items will not be viewed individually, nor shared with your parents/guardians or teachers. School leaders look at patterns of responses in groups only, and use the information as one way to help them understand how students with various identify factors are experiencing our school environment. If fewer than 10 students select a specific choice, we cannot view response patterns by that particular group, in order to protect confidentiality.
 
 ### 24. CURRENTLY, I MOST STRONGLY IDENTIFY AS: ###
 
-Female Genderqueer, nonbinary, or fluid (not strictly male or female)
+Female Genderqueer, nonbinary, or fluid (not strictly male
 
-Male Other identity not listed here
+### OR FEMALE) ###
 
-Prefer not to answer
+Male Other identity not listed
+
+### HERE ###
+
+### PREFER NOT TO ANSWER ###
 
 ### 25. CURRENTLY, I MOST STRONGLY IDENTIFY AS: ###
 
-Cisgender (my gender identity corresponds to the sex I was assigned at birth) Transgender (my gender identity is not the same as the sex I was assigned at birth) or nonbinary/fluid
+Cisgender (my gender identity corresponds to the sex I was
+
+### ASSIGNED AT BIRTH) ###
+
+### TRANSGENDER (MY GENDER ###
+
+identity is not the same as the sex I was assigned at birth) or
+
+### NONBINARY/FLUID ###
 
 Different identity not listed here Prefer not to answer
 
 ### 26. CURRENTLY, I MOST STRONGLY IDENTIFY AS: ###
 
-Bisexual, gay, or lesbian Heterosexual/straight Different identity not listed here Prefer not to answer Page 3
+Bisexual, gay, or lesbian Heterosexual/straight Different identity not listed here Prefer not to answer
 
-Proof PDF Form - FOR DEMO PURPOSES ONLY 0
+### PAGE 3 ###
 
-### SAMPLE FORM ###
+Proof PDF Form - FOR DEMO PURPOSES ONLY
+
+SAMPLE FORM

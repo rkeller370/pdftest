@@ -1,16 +1,14 @@
 # MANIFEST
-SOURCE_NAME: Instruction PDF Spanish
-SOURCE_URL: https://maine207.org/wp-content/uploads/2025/08/Spanish-PS-Flyer.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:57.236Z
-PAGES_EXTRACTED: 1
+SOURCE: Instruction PDF Spanish
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:22.290Z
 
-########################################
+==================================================
 
 [PAGE 1]
 El Distrito 207 ahora utiliza ParentSquare como su sistema de comunicación entre la escuela y el hogar. Esta plataforma está diseñada para mantener informados a los padres y tutores, y fomentar una mayor participación y conexión con la escuela de su hijo.
 
-Activación de su cuenta
+### ACTIVACIÓN DE SU CUENTA ###
 
 Actualización de la configuración de idioma La mayoría de los padres/tutores ya han activado su cuenta.
 
@@ -20,7 +18,13 @@ El inglés es el idioma predeterminado para todos los mensajes e información de
 
 En un ordenador, haga clic en su nombre en la esquina superior derecha > Mi cuenta > Configuración de idioma. En la aplicación móvil, haga clic en el icono de tres líneas en la esquina superior izquierda > Cuenta > Preferencias > Idioma.
 
-¿Preguntas? Visita https://maine207.org/parentsquare/ ¡Escanea el código de arriba para descargar la aplicación!
+¿Preguntas? Visita https://maine207.org/parentsquare/
+
+### ¡ESCANEA EL CÓDIGO DE ###
+
+### ARRIBA PARA DESCARGAR ###
+
+la aplicación!
 
 Actualización de la configuración de notificaciones Puede elegir cómo desea recibir las notificaciones de ParentSquare. Una vez iniciada la sesión:
 

@@ -1,16 +1,15 @@
 # MANIFEST
-SOURCE_NAME: School Resource Officer Grievance Procedure (English)
-SOURCE_URL: https://maine207.org/wp-content/uploads/2018/06/School-Resource-Officer-_-Uniform-Grievance-Procedure.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:58.078Z
-PAGES_EXTRACTED: 2
+SOURCE: School Resource Officer Grievance Procedure (English)
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:22.731Z
 
-########################################
+==================================================
 
 [PAGE 1]
-Maine Township High School District 207
 
-School Resource Officer - Uniform Grievance Procedure
+### MAINE TOWNSHIP HIGH SCHOOL DISTRICT 207 ###
+
+### SCHOOL RESOURCE OFFICER - UNIFORM GRIEVANCE PROCEDURE ###
 
 ### I. PURPOSE ###
 
@@ -38,7 +37,7 @@ fairness are assured by impartial investigations and review
 
 ### II. PROCEDURES & PROCESS ###
 
-a. Filing a Complaint
+### A. FILING A COMPLAINT ###
 
 The District shall make available information about the uniform grievance procedure in every school in the District in a location that is easily accessible to students, parents/guardians and staff. The complaint form and process will be available on the maine207.org website and as a part of the student handbook.
 
@@ -59,15 +58,15 @@ No officer who was involved in the incident that is the subject of the complaint
 
 When the investigation has concluded, there will be a written report submitted to the Superintendent and/or designee that includes what actions, if any, will be taken by the District in response to the complaint.
 
-e. Appeal of the Complaint and Report
+### E. APPEAL OF THE COMPLAINT AND REPORT ###
 
-Board Policy 2:260
+### BOARD POLICY 2:260 ###
 
 f. Prohibition Against Retaliation, Intimidation, Harassment, or Threats
 
-Board Policy 7:20
+### BOARD POLICY 7:20 ###
 
-Board Policy 5:20
+### BOARD POLICY 5:20 ###
 
 ### III. ANONYMOUS COMPLAINT ###
 

@@ -1,18 +1,16 @@
 # MANIFEST
-SOURCE_NAME: Learn more about MyMealtime in English.
-SOURCE_URL: https://maine207.org/wp-content/uploads/2022/07/MyMealtime_Parent_Flyer.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:57.269Z
-PAGES_EXTRACTED: 1
+SOURCE: Learn more about MyMealtime in English.
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:21.951Z
 
-########################################
+==================================================
 
 [PAGE 1]
 Open the app, then follow these 3 easy steps to get started:
 
 Register Link Your Student Make a Payment Pay for lunches and other school fees* with your Smart-Phone or mobile device!
 
-### WITH MYMEALTIME YOU CAN: ###
+With MyMealTime you can:
 
 • Stay informed. Monitor your student’s lunch account balance and activity.
 
@@ -24,13 +22,13 @@ Register Link Your Student Make a Payment Pay for lunches and other school fees*
 
 • Schedule deposits. Weekly, monthly or in any frequency you desire.
 
-www.MyMealTime.com
+### WWW.MYMEALTIME.COM ###
 
 Need help? Contact us. e: support@mealtimeclm.com p: 800-755-0904.
 
-Fast, Secure
+### FAST, SECURE ###
 
-Online Payments
+### ONLINE PAYMENTS ###
 
 ### 1 2 3 ###
 

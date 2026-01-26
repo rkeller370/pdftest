@@ -1,14 +1,14 @@
 # MANIFEST
-SOURCE_NAME: En Espanol
-SOURCE_URL: https://maine207.org/wp-content/uploads/2025/06/final2526spanish.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:57.652Z
-PAGES_EXTRACTED: 5
+SOURCE: En Espanol
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:23.433Z
 
-########################################
+==================================================
 
 [PAGE 1]
-Distrito Escolar 207 de Enseñanza Secundaria de Maine Township COMIDAS A PRECIO REDUCIDO/GRATIS Y EXENCIÓN DE TARIFAS EN 2025-26
+Distrito Escolar 207 de Enseñanza Secundaria de Maine Township
+
+### COMIDAS A PRECIO REDUCIDO/GRATIS Y EXENCIÓN DE TARIFAS EN 2025-26 ###
 
 ### INSTRUCCIONES PARA SOLICITAR ###
 
@@ -28,7 +28,9 @@ D. Marcar si la solicitud es para un niño(a) adoptado(a). Adjunte una copia del
 
 tarjeta médica del niño(a).
 
-Pase a (5).2. SIN HOGAR, INMIGRANTE, FUGADO DEL HOGAR O HEAD START (Categóricamente elegible)
+Pase a (5).2. SIN HOGAR, INMIGRANTE, FUGADO DEL HOGAR O HEAD START (Categóricamente
+
+### ELEGIBLE) ###
 
 A. Marque la casilla (si corresponde) del estudiante en la solicitud.
 
@@ -49,9 +51,10 @@ C. Debe completar un formulario 4506-T de Solicitud de transcripción de declara
 miembro del hogar con empleo que no pueda proporcionar una declaración de impuestos. (1) Complete la línea de ID del estudiante en la parte superior de la página. (2) Complete todos los detalles en las Secciones 1 a 4 según corresponda. (3) Firme en la primera línea de firmar (solo se requiere una firma); (4) fecha, (5) número de teléfono.
 
 [PAGE 2]
+
 ### 4. IDENTIDADES RACIALES Y ÉTNICAS DE LOS NIÑOS ###
 
-Responder estas preguntas es opcional. (Opcional)
+### RESPONDER ESTAS PREGUNTAS ES OPCIONAL. (OPCIONAL) ###
 
 5. FIRMA Y NÚMERO DE SEGURO SOCIAL Todos los hogares completan esta parte.
 
@@ -90,7 +93,7 @@ de su hijo(a) solo es válida para ese año escolar. Debe enviar una nueva solic
 
 PODRÍAN ser elegibles para recibir comidas gratis o a precio reducido y una exención de tarifas. Complete la solicitud.
 
-4. ¿PUEDO HACER LA SOLICITUD SI ALGUIEN EN MI HOGAR NO ES CIUDADANO DE LOS ESTADOS UNIDOS?
+### 4. ¿PUEDO HACER LA SOLICITUD SI ALGUIEN EN MI HOGAR NO ES CIUDADANO DE LOS ESTADOS UNIDOS? ###
 
 Sí. Usted o sus hijos no tienen que ser ciudadanos de los EE. UU. para calificar para recibir comidas gratis o a precio reducido y una exención de tarifas.
 
@@ -98,36 +101,54 @@ Sí. Usted o sus hijos no tienen que ser ciudadanos de los EE. UU. para califica
 
 averiguar cómo solicitar SNAP, TANF u otros beneficios de asistencia, comuníquese con la oficina local del Departamento de Servicios Humanos o llame al (800) 843-6154 (voz) o (800) 447-6404 (TTY).
 
-6. SOY BENEFICIARIO DEL SNAP, PERO NO ENCUENTRO MI CARTA DE NOTIFICACIÓN DE DECISIÓN DEL
+### 6. SOY BENEFICIARIO DEL SNAP, PERO NO ENCUENTRO MI CARTA DE NOTIFICACIÓN DE DECISIÓN DEL ###
 
 SNAP. ¿CÓMO PUEDO OBTENER UNA COPIA DE ESTA CARTA? Usted puede enviar un correo electrónico, llamar, o ir en persona a una Oficina del Departamento de Servicios Humanos de Illinois (IDHS) y solicitar una copia de su carta. A continuación encontrará la información de contacto y las direcciones de varios lugares. Cuando se ponga en contacto con el IDHS, debe solicitar un "Comprobante de recepción de beneficios del programa".
 
-Departamento de Servicios Humanos de IL
+### DEPARTAMENTO DE SERVICIOS HUMANOS DE IL ###
 
-Oficina Suburbana Oeste (229), Melrose Park, IL 60160 (708)338-7600
+Oficina Suburbana Oeste (229), Melrose Park, IL 60160
 
-------------------------
+### (708)338-7600 ###
 
-Centro de Recursos Comunitarios Familiares del DHS en el Condado de Cook - N. Suburban 3501 W. Algonquin Rd., 4to Piso, Rolling Meadows, IL 60008 (847) 483-7171
+### ------------------------ ###
 
-------------------------
+Centro de Recursos Comunitarios Familiares del DHS en el Condado de Cook - N. Suburban 3501 W. Algonquin Rd., 4to Piso, Rolling Meadows, IL 60008
 
-Estado de Illinois Northern FCRC
+### (847) 483-7171 ###
 
-8001 Lincoln Ave., 6ª planta, Skokie, IL 60077 (847) 745-3200
+### ------------------------ ###
 
-### SOLICITUD A CONTINUACIÓN ###
+### ESTADO DE ILLINOIS NORTHERN FCRC ###
+
+### 8001 LINCOLN AVE., 6ª PLANTA, SKOKIE, IL 60077 ###
+
+### (847) 745-3200 ###
+
+SOLICITUD A CONTINUACIÓN
 
 [PAGE 4]
-Distrito Escolar 207 de Enseñanza Secundaria de Maine Township SOLICITUD DE COMIDAS A PRECIO REDUCIDO/GRATIS Y EXENCIÓN DE TARIFAS EN 2025-26
+Distrito Escolar 207 de Enseñanza Secundaria de Maine Township
+
+### SOLICITUD DE COMIDAS A PRECIO REDUCIDO/GRATIS Y EXENCIÓN DE TARIFAS EN 2025-26 ###
 
 ### (1) INFORMACIÓN DEL SOLICITANTE ###
 
-Nombres de todos los niños en la escuela Nombre - Segundo nombre - Apellido ID # del estudiante
+Nombres de todos los niños en la escuela Nombre - Segundo nombre - Apellido
 
-Número de caso de Food Stamp o TANF (si tiene, por niño). Si pone un número de caso SNAP o TANF, debe adjuntar una copia actual de la Carta de Elegibilidad de Beneficios (IDHS) con el número de caso incluido, luego, pase a (6)
+### ID # DEL ###
 
-Marque si el niño(a) es adoptado(a)*
+### ESTUDIANTE ###
+
+Número de caso de Food Stamp o TANF (si tiene, por niño). Si pone un número de caso SNAP o TANF, debe adjuntar una copia actual de la Carta de Elegibilidad de Beneficios (IDHS) con el número de caso incluido, luego, pase
+
+### A (6) ###
+
+### MARQUE SI EL ###
+
+### NIÑO(A) ES ###
+
+### ADOPTADO(A)* ###
 
 * Debe adjuntar una copia del anverso y reverso de la tarjeta médica del niño(a) adoptado(a).
 
@@ -141,15 +162,31 @@ Marque si el niño(a) es adoptado(a)*
 
 ### CON INGRESOS) ###
 
-INGRESO BRUTO Y LA FRECUENCIA CON QUE SE RECIBIÓ (Ejemplos $100/por mes, $100/dos veces al mes, $100/cada dos semanas, $100/por semana Ingresos del trabajo (antes de las deducciones) Asistencia social, manutención de los hijos, pensión alimenticia Pensiones, jubilación, seguridad social Compensación al trabajador.
+INGRESO BRUTO Y LA FRECUENCIA CON QUE SE RECIBIÓ (Ejemplos $100/por mes, $100/dos veces al mes, $100/cada dos semanas, $100/por semana Ingresos del trabajo (antes de las deducciones) Asistencia social, manutención de los hijos, pensión alimenticia Pensiones, jubilación,
 
-Compensación por desempleo, SST, etc. (Todos los demás ingresos) Cantidad ¿Con qué frecuencia?
+### SEGURIDAD SOCIAL ###
 
-Cantidad ¿Con qué frecuencia?
+Compensación al trabajador.
 
-Cantidad ¿Con qué frecuencia?
+### COMPENSACIÓN POR ###
 
-Cantidad ¿Con qué frecuencia?
+desempleo, SST, etc. (Todos los demás ingresos)
+
+### CANTIDAD ¿CON QUÉ ###
+
+frecuencia?
+
+### CANTIDAD ¿CON QUÉ ###
+
+frecuencia?
+
+### CANTIDAD ¿CON QUÉ ###
+
+frecuencia?
+
+### CANTIDAD ¿CON QUÉ ###
+
+frecuencia?
 
 1.
 
@@ -173,28 +210,68 @@ Certifico (doy mi palabra) que toda la información en esta solicitud es verdade
 
 Entiendo que los funcionarios escolares pueden revisar (verificar) la información. Entiendo que, si deliberadamente doy información falsa, mis hijos pueden perder los beneficios y yo podría ser procesado por la ley.
 
-/ /
+### / / ###
 
-Fecha Nombre en letra de imprenta del miembro adulto del hogar Firma del miembro adulto del hogar Dirección del miembro adulto del hogar Ciudad Código postal 2 Mai
+Fecha Nombre en letra de imprenta del miembro adulto del hogar Firma del miembro adulto del hogar Dirección del miembro adulto del hogar Ciudad Código postal
+
+2 Mai
 
 [PAGE 5]
 Distrito Escolar 207 de Enseñanza Secundaria de Maine Township
 
 ### COMIDAS A PRECIO REDUCIDO/GRATIS Y EXENCIÓN DE TARIFAS ###
 
-Pautas de elegibilidad de ingresos en 2025-26 Pautas de elegibilidad de ingresos Vigente desde el 1 de julio de 2025 hasta el 30 de junio de 2026 Comidas gratuitas 130 % de las pautas federales de pobreza
+Pautas de elegibilidad de ingresos en 2025-26 Pautas de elegibilidad de ingresos Vigente desde el 1 de julio de 2025 hasta el 30 de junio de 2026
 
-Comidas reducidas 185 % de las pautas federales de pobreza
+### COMIDAS GRATUITAS ###
 
-Tamaño del hogar Anual Mensual Dos veces al mes
+130 % de las pautas federales de
 
-Cada dos semanas Semanal Tamaño del hogar Anual Mensual Dos veces al mes
+### POBREZA ###
 
-Cada dos semanas Semanal
+### COMIDAS REDUCIDAS ###
 
-1 20,345 1,696 848 783 392 1 28,953 2,413 1,207 1,114 557 2 27,495 2,292 1,146 1,058 529 2 39,128 3,261 1,631 1,505 753 3 34,645 2,888 1,444 1,333 667 3 49,303 4,109 2,055 1,897 949 4 41,795 3,483 1,742 1,608 804 4 59,478 4,957 2,479 2,288 1,144 5 48,945 4,079 2,040 1,883 942 5 69,653 5,805 2,903 2,679 1,340 6 56,095 4,675 2,338 2,158 1,079 6 79,828 6,653 3,327 3,071 1,536 7 63,245 5,271 2,636 2,433 1,217 7 90,003 7,501 3,751 3,462 1,731 8 70,395 5,867 2,934 2,708 1,354 8 100,178 8,349 4,175 3,853 1,927 Por cada miembro adicional de la familia, agregue
+185 % de las pautas federales de
 
-7,150 596 298 275 138 Por cada miembro adicional de la familia, agregue
+### POBREZA ###
+
+Tamaño del hogar Anual Mensual
+
+### DOS ###
+
+### VECES AL ###
+
+### MES ###
+
+### CADA DOS ###
+
+semanas Semanal Tamaño del hogar Anual Mensual
+
+### DOS ###
+
+### VECES AL ###
+
+### MES ###
+
+### CADA DOS ###
+
+### SEMANAS SEMANAL ###
+
+1 20,345 1,696 848 783 392 1 28,953 2,413 1,207 1,114 557 2 27,495 2,292 1,146 1,058 529 2 39,128 3,261 1,631 1,505 753 3 34,645 2,888 1,444 1,333 667 3 49,303 4,109 2,055 1,897 949 4 41,795 3,483 1,742 1,608 804 4 59,478 4,957 2,479 2,288 1,144 5 48,945 4,079 2,040 1,883 942 5 69,653 5,805 2,903 2,679 1,340 6 56,095 4,675 2,338 2,158 1,079 6 79,828 6,653 3,327 3,071 1,536 7 63,245 5,271 2,636 2,433 1,217 7 90,003 7,501 3,751 3,462 1,731 8 70,395 5,867 2,934 2,708 1,354 8 100,178 8,349 4,175 3,853 1,927
+
+### POR CADA MIEMBRO ###
+
+### ADICIONAL DE LA ###
+
+### FAMILIA, AGREGUE ###
+
+7,150 596 298 275 138
+
+### POR CADA MIEMBRO ###
+
+### ADICIONAL DE LA ###
+
+### FAMILIA, AGREGUE ###
 
 10,175 848 424 392 196 La definición de ingresos es: Cualquier dinero ganado antes de cualquier deducción como impuestos sobre la renta, impuestos de seguridad social, primas de seguros, contribuciones caritativas y bonos. Incluye lo
 
@@ -206,7 +283,7 @@ Cada dos semanas Semanal
 
 • Ingresos netos del trabajo por cuenta propia agrícola;
 
-• Seguridad social;
+### • SEGURIDAD SOCIAL; ###
 
 • Dividendos o intereses sobre ahorros o bonos, o ingresos de propiedades o fideicomisos;
 
@@ -224,7 +301,7 @@ Cada dos semanas Semanal
 
 • Contribuciones regulares de personas que no viven en el hogar;
 
-• Regalías netas;
+### • REGALÍAS NETAS; ###
 
 • Otros ingresos en efectivo: incluyen montos en efectivo recibidos o retirados de cualquier fuente, incluidos
 

@@ -1,16 +1,15 @@
 # MANIFEST
-SOURCE_NAME: W języku polskim
-SOURCE_URL: https://maine207.org/wp-content/uploads/2025/06/final2526polish.pdf
-ENGINE: pdf-parse
-DATE: 2026-01-22T03:11:57.730Z
-PAGES_EXTRACTED: 5
+SOURCE: W języku polskim
+METHOD: pdf-parse
+STAMP: 2026-01-22T14:11:23.476Z
 
-########################################
+==================================================
 
 [PAGE 1]
-Okręg 207 szkół średnich w powiecie Maine
 
-2025-26 POSIŁKI BEZPŁATNE / PO OBNIŻONEJ CENIE I ZWOLNIENIE Z OPŁAT
+### OKRĘG 207 SZKÓŁ ŚREDNICH W POWIECIE MAINE ###
+
+### 2025-26 POSIŁKI BEZPŁATNE / PO OBNIŻONEJ CENIE I ZWOLNIENIE Z OPŁAT ###
 
 ### INSTRUKCJE DOTYCZĄCE SKŁADANIA WNIOSKU ###
 
@@ -32,7 +31,9 @@ D. Zaznacz, jeśli wniosek dotyczy dziecka przysposobionego. Dołącz kopię prz
 
 medycznej dziecka.
 
-Przejdź do kroku (5). 2. OSOBA BEZDOMNA, MIGRANT, UCIEKINIER LUB OSOBA OBJĘTA PROGRAMEM HEAD START (kategorycznie kwalifikująca się)
+Przejdź do kroku (5). 2. OSOBA BEZDOMNA, MIGRANT, UCIEKINIER LUB OSOBA OBJĘTA
+
+### PROGRAMEM HEAD START (KATEGORYCZNIE KWALIFIKUJĄCA SIĘ) ###
 
 A. Zaznacz pole (jeśli ma zastosowanie) dla ucznia, którego dotyczy wniosek.
 
@@ -53,9 +54,10 @@ C. Musisz wypełnić Wniosek o transkrypcję formularza zeznania podatkowego 450
 członka gospodarstwa domowego, który nie może dostarczyć zeznania podatkowego. (1) Wypełnij wiersz Identyfikator ucznia na górze strony. (2) Wypełnij wszystkie pozycje w sekcjach od 1 do 4, jeśli ma to zastosowanie. (3) Podpisz się w pierwszym wierszu podpisu (wymagany jest tylko jeden podpis); (4) podaj datę, (5) numer telefonu.
 
 [PAGE 2]
+
 ### 4. TOŻSAMOŚCI RASOWE I ETNICZNE DZIECI ###
 
-Odpowiedz na te pytania, jeśli chcesz. (Opcjonalnie)
+### ODPOWIEDZ NA TE PYTANIA, JEŚLI CHCESZ. (OPCJONALNIE) ###
 
 5. PODPIS I NUMER UBEZPIECZENIA SPOŁECZNEGO Wszystkie gospodarstwa domowe wypełniają tę sekcję.
 
@@ -86,7 +88,7 @@ Zgodnie z federalnym prawem dotyczącym praw obywatelskich oraz przepisami i pol
 
 uczniów w Twoim gospodarstwie domowym, na każdy okręg. Nie możemy zatwierdzić wniosku, który nie jest kompletny, więc wypełnij wszystkie wymagane informacje. Wypełniony wniosek należy zwrócić do szkoły.
 
-2. WNIOSEK MOJEGO DZIECKA ZOSTAŁ ZATWIERDZONY W OSTATNIM ROKU, CZY MUSZĘ WYPEŁNIĆ
+### 2. WNIOSEK MOJEGO DZIECKA ZOSTAŁ ZATWIERDZONY W OSTATNIM ROKU, CZY MUSZĘ WYPEŁNIĆ ###
 
 KOLEJNY? Tak, wniosek Twojego dziecka jest ważny tylko na dany rok szkolny. Musisz wysłać nowy wniosek, nawet jeśli otrzymujesz pomoc od SNAP lub TANF.
 
@@ -98,38 +100,62 @@ gospodarstwach domowych uczestniczących w WIC MOGĄ mieć prawo do posiłków b
 
 twoje dziecko (dzieci) nie musicie być obywatelami USA, aby kwalifikować się do bezpłatnych posiłków lub posiłków po obniżonych cenach i zwolnienia z opłat.
 
-5. MOJA RODZINA POTRZEBUJE WIĘCEJ POMOCY, CZY SĄ INNE PROGRAMY, O KTÓRE MOŻEMY
+### 5. MOJA RODZINA POTRZEBUJE WIĘCEJ POMOCY, CZY SĄ INNE PROGRAMY, O KTÓRE MOŻEMY ###
 
 WNIOSKOWAĆ? Aby dowiedzieć się, jak ubiegać się o SNAP, TANF lub inne świadczenia pomocy, skontaktuj się z lokalnym Departamentem Usług Społecznych lub zadzwoń pod numer (800) 843-6154 (głos) lub (800) 447-6404
 
 ### (TTY). ###
 
-6. JESTEM ODBIORCĄ SNAP, ALE NIE MOGĘ ZNALEŹĆ MOJEGO LISTU Z POWIADOMIENIEM O DECYZJI SNAP.
+### 6. JESTEM ODBIORCĄ SNAP, ALE NIE MOGĘ ZNALEŹĆ MOJEGO LISTU Z POWIADOMIENIEM O DECYZJI SNAP. ###
 
 JAK MOGĘ UZYSKAĆ KOPIĘ TEGO LISTU? Możesz wysłać wiadomość e-mail, zadzwonić lub udać się osobiście do biura Illinois Department of Human Services (IDHS) i poprosić o kopię listu. Informacje kontaktowe i adresy kilku lokalizacji można znaleźć poniżej. Kontaktując się z IDHS, należy poprosić o "Dowód otrzymania świadczeń z programu".
 
-Departament Usług Społecznych stanu Illinois Biuro West Suburban (229), Melrose Park, IL 60160. (708)338-7600 --------------------
+### DEPARTAMENT USŁUG SPOŁECZNYCH STANU ILLINOIS ###
 
-DHS Family Community Resource Center w powiecie Cook - N. Suburban 3501 W. Algonquin Rd., 4th Floor, Rolling Meadows, IL 60008. (847) 483-7171 --------------------
+Biuro West Suburban (229), Melrose Park, IL 60160. (708)338-7600
 
-Stan Illinois Północny FCRC
+### -------------------- ###
+
+DHS Family Community Resource Center w powiecie Cook - N. Suburban 3501 W. Algonquin Rd., 4th Floor, Rolling Meadows, IL 60008. (847) 483-7171
+
+### -------------------- ###
+
+### STAN ILLINOIS PÓŁNOCNY FCRC ###
 
 8001 Lincoln Ave., 6th Floor, Skokie, IL 60077. (847) 745-3200
 
-### APLIKACJA PONIŻEJ ###
+APLIKACJA PONIŻEJ
 
 [PAGE 4]
-Okręg 207 szkół średnich w powiecie Maine 2025-26 WNIOSEK O POSIŁKI BEZPŁATNE / PO OBNIŻONEJ CENIE I ZWOLNIONE Z OPŁAT
+Okręg 207 szkół średnich w powiecie Maine
+
+### 2025-26 WNIOSEK O POSIŁKI BEZPŁATNE / PO OBNIŻONEJ CENIE I ZWOLNIONE Z OPŁAT ###
 
 ### (1) INFORMACJE WNIOSKODAWCY ###
 
-Imiona i nazwiska wszystkich dzieci uczęszczających do szkoły
+### IMIONA I NAZWISKA ###
 
-Pierwsze imię – Drugie imię – Nazwisko
+### WSZYSTKICH DZIECI ###
 
-Identyfikator ucznia
+### UCZĘSZCZAJĄCYCH DO ###
 
-Numer karty żywnościowej lub numer sprawy TANF (jeśli dotyczy, dla każdego dziecka). Jeśli podasz numer sprawy SNAP lub TANF, należy dołączyć aktualną kopię listu uprawniającego do świadczeń IDHS wraz z numerem sprawy, a następnie przejść do punktu (6) Zaznacz, jeśli dziecko jest przysposobione*
+### SZKOŁY ###
+
+Pierwsze imię – Drugie imię –
+
+### NAZWISKO ###
+
+### IDENTYFIKATOR ###
+
+### UCZNIA ###
+
+Numer karty żywnościowej lub numer sprawy TANF (jeśli dotyczy, dla każdego dziecka). Jeśli podasz numer sprawy SNAP lub TANF, należy dołączyć aktualną kopię listu uprawniającego do świadczeń IDHS wraz z numerem sprawy, a następnie przejść do punktu (6)
+
+### ZAZNACZ, JEŚLI ###
+
+### DZIECKO JEST ###
+
+### PRZYSPOSOBIONE* ###
 
 * Należy dołączyć kopię przedniej i tylnej strony karty medycznej dziecka przysposobionego.
 
@@ -141,11 +167,29 @@ Numer karty żywnościowej lub numer sprawy TANF (jeśli dotyczy, dla każdego d
 
 ### DOMOWNIKÓW Z DOCHODAMI) ###
 
-DOCHÓD BRUTTO I JAK CZĘSTO BYŁ OTRZYMYWANY (Przykłady: $100/miesiąc, $100/dwa razy w miesiącu, $100/co drugi tydzień, $100/tydzień Zarobki z pracy (Przed odliczeniami) Opieka społeczna, alimenty na dzieci Emerytury, ubezpieczenie społeczne
+DOCHÓD BRUTTO I JAK CZĘSTO BYŁ OTRZYMYWANY (Przykłady: $100/miesiąc, $100/dwa razy w miesiącu, $100/co drugi
 
-Ubezpieczenie pracownicze Zasiłek dla bezrobotnych, SST itp.
+### TYDZIEŃ, $100/TYDZIEŃ ###
 
-Wszystkie inne dochody Kwota Jak często Kwota Jak często Kwota Jak często Kwota Jak często 1.
+### ZAROBKI Z PRACY ###
+
+(Przed odliczeniami) Opieka społeczna,
+
+### ALIMENTY NA DZIECI ###
+
+### EMERYTURY, UBEZPIECZENIE ###
+
+### SPOŁECZNE ###
+
+### UBEZPIECZENIE ###
+
+### PRACOWNICZE ZASIŁEK DLA ###
+
+bezrobotnych, SST itp.
+
+### WSZYSTKIE INNE DOCHODY ###
+
+Kwota Jak często Kwota Jak często Kwota Jak często Kwota Jak często 1.
 
 2.
 
@@ -165,22 +209,72 @@ Numer ubezpieczenia społecznego: X X X - X X- Nie mam numeru ubezpieczenia spo�
 
 Oświadczam (obiecuję), że wszystkie informacje zawarte w tym wniosku są prawdziwe i że podany został cały dochód gospodarstwa domowego. Rozumiem, że władze szkoły mogą zweryfikować (sprawdzić) informacje. Rozumiem, że jeśli celowo podam nieprawdziwe informacje, moje dzieci mogą stracić świadczenia, a ja mogę zostać postawiony w stan oskarżenia.
 
-/ /
+### / / ###
 
-Data Imię i nazwisko dorosłego członka gospodarstwa domowego Podpis pełnoletniego członka gospodarstwa domowego Adres dorosłego członka gospodarstwa domowego Miasto Kod pocztowy 2 maja
+Data Imię i nazwisko dorosłego członka gospodarstwa domowego Podpis pełnoletniego członka gospodarstwa domowego Adres dorosłego członka gospodarstwa domowego Miasto Kod pocztowy
+
+2 maja
 
 [PAGE 5]
-Okręg 207 szkół średnich w powiecie Maine POSIŁKI BEZPŁATNE / PO OBNIŻONEJ CENIE I ZWOLNIENIE Z OPŁAT 2025-26 Wytyczne dotyczące kwalifikowalności dochodów Wytyczne dotyczące kwalifikowalności dochodów Obowiązują od 1 lipca 2025 do 30 czerwca 2026 Bezpłatne posiłki 130% federalnych wytycznych dotyczących ubóstwa Posiłki po obniżonej cenie 185% federalnych wytycznych dotyczących ubóstwa Liczba członków gospodarstwa domowego
+Okręg 207 szkół średnich w powiecie Maine
 
-Rocznie Miesięcznie Dwa razy w miesiącu
+### POSIŁKI BEZPŁATNE / PO OBNIŻONEJ CENIE I ZWOLNIENIE Z OPŁAT ###
 
-Co dwa tygodnie Tygodniowo Liczba członków gospodarstwa domowego
+2025-26 Wytyczne dotyczące kwalifikowalności dochodów Wytyczne dotyczące kwalifikowalności dochodów Obowiązują od 1 lipca 2025 do 30 czerwca 2026 Bezpłatne posiłki 130% federalnych wytycznych dotyczących ubóstwa Posiłki po obniżonej cenie 185% federalnych wytycznych dotyczących ubóstwa
 
-Rocznie Miesięcznie Dwa razy w miesiącu
+### LICZBA CZŁONKÓW ###
 
-Co dwa tygodnie Tygodniowo 1 20 345 1 696 848 783 392 1 28 953 2 413 1 207 1 114 557 2 27 495 2 292 1 146 1 058 529 2 39 128 3 261 1 631 1 505 753 3 34 645 2 888 1 444 1 333 667 3 49 303 4 109 2 055 1 897 949 4 41 795 3 483 1 742 1 608 804 4 59 478 4 957 2 479 2 288 1 144 5 48 945 4 079 2 040 1 883 942 5 69 653 5 805 2 903 2 679 1 340 6 56 095 4 675 2 338 2 158 1 079 6 79 828 6 653 3 327 3 071 1 536 7 63 245 5 271 2 636 2 433 1 217 7 90 003 7 501 3 751 3 462 1 731 8 70 395 5 867 2 934 2 708 1 354 8 100 178 8 349 4 175 3 853 1 927 Za każdego dodatkowego członka rodziny dodaj
+### GOSPODARSTWA ###
 
-7 150 596 298 275 138 Za każdego dodatkowego członka rodziny dodaj
+### DOMOWEGO ###
+
+Rocznie Miesięcznie
+
+### DWA RAZY ###
+
+w
+
+### MIESIĄCU ###
+
+### CO DWA ###
+
+tygodnie Tygodniowo
+
+### LICZBA CZŁONKÓW ###
+
+### GOSPODARSTWA ###
+
+### DOMOWEGO ###
+
+Rocznie Miesięcznie
+
+### DWA RAZY ###
+
+w
+
+### MIESIĄCU ###
+
+### CO DWA ###
+
+tygodnie Tygodniowo 1 20 345 1 696 848 783 392 1 28 953 2 413 1 207 1 114 557 2 27 495 2 292 1 146 1 058 529 2 39 128 3 261 1 631 1 505 753 3 34 645 2 888 1 444 1 333 667 3 49 303 4 109 2 055 1 897 949 4 41 795 3 483 1 742 1 608 804 4 59 478 4 957 2 479 2 288 1 144 5 48 945 4 079 2 040 1 883 942 5 69 653 5 805 2 903 2 679 1 340 6 56 095 4 675 2 338 2 158 1 079 6 79 828 6 653 3 327 3 071 1 536 7 63 245 5 271 2 636 2 433 1 217 7 90 003 7 501 3 751 3 462 1 731 8 70 395 5 867 2 934 2 708 1 354 8 100 178 8 349 4 175 3 853 1 927
+
+### ZA KAŻDEGO ###
+
+### DODATKOWEGO ###
+
+### CZŁONKA RODZINY ###
+
+### DODAJ ###
+
+7 150 596 298 275 138
+
+### ZA KAŻDEGO ###
+
+### DODATKOWEGO ###
+
+### CZŁONKA RODZINY ###
+
+### DODAJ ###
 
 10 175 848 424 392 196 Poniżej znajduje się definicja dochodu: Dochód definiuje się jako wszelkie środki pieniężne zarobione przed jakimikolwiek potrąceniami, takimi jak podatki dochodowe, podatki na ubezpieczenie społeczne, składki ubezpieczeniowe, składki na cele charytatywne i obligacje. Obejmuje następujące elementy:
 
