@@ -1,0 +1,183 @@
+# MANIFEST
+SOURCE: Diabetes Medicatioal Management Plan
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:47.335Z
+
+==================================================
+
+[PAGE 1]
+
+### ~B' ###
+
+### ~NTLIJ CWTBTS ###
+
+### <'N:I L9)G ###
+
+.
+
+### MAINE SOUTH HIGH SCHOOL I ###
+
+### DIABETES MEDICAL MANAGEMENT PLAN ###
+
+Cure • Care • Commitment 3 DISABI LITY RIG HTS ED UCATIO N&OEF£N S£ FUN D
+
+### DATE OF PLAN: ------ - ###
+
+### DIABETES MEDICAL MANAGEMENT PLAN ###
+
+This plan should be completed by the student 's personal health care team and parents/guardian. It should be reviewed with relevant school staff and copies should be kept in a place that is easily accessed by the school nurse, trained diabetes personnel, and other authorized personnel.
+
+Effective Dates: - --------- - - - --- ------ --- --- Student's Name: - ---- ----- - - - - - - - - --- ------- Date of Birth: Date of Diabetes Diagnosis:--- - - - - - - - - --- - - - - Grade: Homeroom Teacher:- - - - - -------- ------- - --- Physical Condition: 0 Diabetes type 1 D Diabetes type 2
+
+### CONTACT INFORMATION ###
+
+( Mother/ Guardian:---- - - ---------- ------ - --- - Address: - - - - - -------- --- ----- ---------- Telephone: Home Work Cell - ----- -- - ------- -------- Father/Guardian: - - - - ---- - - ------ - - - --------- Address: ----- -------- ------------------ Telephone: Home Work Cell -------- --- - ----- ------ -- Student's Doctor/Health Care Provider:
+
+Name: - - - - - - ---- - - - - ------------------ Address: ------ ------- ---------- -------- Telephone: _ _ ____ __ _ _ Emergency Number: _ _ _ _ _ _ ___ _ _
+
+### OTHER EMERGENCY CONTACTS: ###
+
+Name: - ------ - - ---- ---- --- ------- - ---- Relationship:-- ---- -------------- ----- - - - - Telephone: Home Work Cell __ _ ___ _ _ Noti fy parents /guardian or emergency contact in the following situations: __ _ _ _ _ _
+
+[PAGE 2]
+
+### BLOOD GLUCOSE MONITORING ###
+
+### MAINE SOUTH HIGH SCHOOL I ###
+
+Diabetes Medical Management Plan Target range for blood glucose is D 70-150 D 70-180 D Other _ __ _ _ _ _ Usual times to check blood glucose _____________________ _ Times to do extra blood glucose checks (check all that apply)
+
+### D BEFORE EXERCISE ###
+
+### D AFTER EXERCISE ###
+
+D when student exhibits symptoms of hyperglycemia D when student exhibits symptoms of hypoglycemia D other (explain):------------------------ Can student perform own blood glucose checks? D Yes D No Exceptions:------------------------------ Type of blood glucose meter student uses: __________________
+
+### INSULIN ###
+
+### USUAL LUNCHTIME DOSE ###
+
+Base dose ofHumalog/Novolog /Regular insulin at lunch (circle type ofrapid-/short-acting insulin used) is _ _ units or does flexible dosing using __ units/ __ grams carbohydrate.
+
+Use of other insulin at lunch: (circle type of insulin used): intermediate/NPH/lente __ units or basal/Lantus/Ultralente units.
+
+### INSULIN CORRECTION DOSES ###
+
+Parental authorization should be obtained before administering a correction dose for high blood glucose levels. D Yes D No __ units if blood glucose is __ to _ _ mg/dl __ units if blood glucose is __ to _ _ mg/dl __ units if blood glucose is __ to __ mg/dl __ units if blood glucose is __ to __ mg/dl __ units if blood glucose is __ to __ mg/dl Can student give own injections? D Yes D No Can student determine correct amount of insulin? D Yes D No Can student draw correct dose of insulin? D Yes D No ___ Parents are authorized to adjust the insulin dosage under the following circumstances:
+
+.'
+
+[PAGE 3]
+.- f
+
+(
+
+For Students with Insulin Pumps Type of pump: _ _ _ ___ __ __ Basal rates:
+
+Maine South High School I Diabetes Medical Management Plan
+
+### 12 AM TO ###
+
+to to
+
+Type of insulin in pump: _ _____ ____ ________ _ ____ _ Type of infusion set: - --- - - ----- ---------------- Insulin/carbohyd rate ratio: Correction factor:- - - - ------- -------- Student Pump Abilities/Skills:
+
+Count carbohydrates Bolus correct amount for carbohydrates consumed Calculate and administer corrective bolus Calculate and set basal profiles Calculate and set temporary basal rate Disconnect pump Reconnect pump at infusion set Prepare reservoir and tubing Insert infusion set Troubleshoot alarms and malfunctions For Students Taking Oral Diabetes Medications Needs Assistance
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+Type of medication: _ _____ _ _____ _ __ _ Timing:
+
+Other medications: Timing:
+
+Meals and Snacks Eaten at School Is student independent in carbohydrate calculations and management? D Yes D No
+
+### MEAL/SNACK ###
+
+### BREAKFAST ###
+
+Mid-morning snack
+
+### LUNCH ###
+
+Mid-afternoon snack
+
+### DINNER ###
+
+Time Food content/amount
+
+[PAGE 4]
+Snack before exercise?
+
+Snack after exercise?
+
+### 0YES 0NO ###
+
+### 0YES 0NO ###
+
+Other times to give snacks and content/amount:
+
+### PREFERRED SNACK FOODS: ###
+
+### FOODS TO AVOID, IF ANY: ###
+
+### MAINE SOUTH HIGH SCHOOL J ###
+
+Diabetes Medical Management Plan Instructions for when food is provided to the class (e.g., as part of a class party or food sampling event):----------- - --------------- - ---
+
+### EXERCISE AND SPORTS ###
+
+A fast-acting carbohydrate such as ___ ____ ______ ____ ____ _ should be available at the site of exercise or sports.
+
+Restrictions on activity, if any: student should not exercise if blood glucose level is below mg/dl or above --------- mg/dl or if moderate to large urine ketones are present.
+
+Hypo g ly c em i a (Low Blood Sugar) Usual symptoms of hypoglycemia:---------------------- Treatment of hypoglycemia: ________________________ Glucagon should be given if the student is unconscious, having a seizure (convulsion), or unable to swallow.
+
+Route , Dosage ___ , site for glucagon injection: ___arm, ___thigh,
+
+### OTHER.--- ###
+
+If glucagon is required, administer it promptly. Then, call 911 (or other emergency assistance) and the parents/guardian.
+
+Hyperglycemia (High Blood Sugar) Usual symptoms of hyperglycemia:--------------------- Treatment of hyperglycemia:------------------------ Urine should be checked for ketones when blood glucose levels are above ___ _ mg/dl.
+
+Treatment for ketones: ---------- ----------------
+
+' ./
+
+[PAGE 5]
+r
+
+(
+
+Maine South High School J Diabetes Medical Management Plan Supplies to be Kept at School ___Blood glucose meter, blood glucose test strips, batteries for meter --- Lancet device, lancets, gloves, etc.
+
+___Urine ketone strips ___Insulin pump and supplies ___Insulin pen, pen needles, insulin cartridges ___Fast-acting source of glucose ---Carbohydrate containing snack ___ Glucagon emergency kit
+
+### SIGNATURES ###
+
+This Diabetes Medical Management Plan has been approved by:
+
+Student's Physician/Health Care Provider Date I give permission to the school nurse, trained diabetes personnel, and other designated staff members of school to perform and carry out the diabetes care tasks as outlined by 's Diabetes Medical Management Plan. I also consent to the release of the information contained in this Diabetes Medical Management Plan to all staff members and other adults who have custodial care of my child and who may need to know this information to maintain my child's health and safety.
+
+Acknowledged and received by:
+
+Student's Parent/Guardian Date Student's Parent/Guardian Date

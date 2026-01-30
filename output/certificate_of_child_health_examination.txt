@@ -1,0 +1,183 @@
+# MANIFEST
+SOURCE: Certificate of Child Health Examination
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:46.695Z
+
+==================================================
+
+[PAGE 1]
+11/2015 (COMPLETE BOTH SIDES) Printed by Authority of the State of Illinois State of Illinois Certificate of Child Health Examination Certificates of Religious Exemption to Immunizations or Physician Medical Statements of Medical Contraindication Are Reviewed and Maintained by the School Authority.
+
+Student’s Name Last First Middle Birth Date Month/Day/Year Sex Race/Ethnicity School /Grade Level/ID# Address Street City Zip Code Parent/Guardian Telephone # Home Work IMMUNIZATIONS: To be completed by health care provider. The mo/da/yr for every dose administered is required. If a specific vaccine is medically contraindicated, a separate written statement must be attached by the health care provider responsible for completing the health examination explaining the medical reason for the contraindication.
+
+### REQUIRED ###
+
+Vaccine / Dose
+
+### DOSE 1 ###
+
+### MO DA YR ###
+
+### DOSE 2 ###
+
+### MO DA YR ###
+
+### DOSE 3 ###
+
+### MO DA YR ###
+
+### DOSE 4 ###
+
+### MO DA YR ###
+
+### DOSE 5 ###
+
+### MO DA YR ###
+
+### DOSE 6 ###
+
+### MO DA YR ###
+
+DTP or DTaP Tdap; Td or Pediatric DT (Check specific type) TdapTdDT TdapTdDT TdapTdDT TdapTdDT TdapTdDT TdapTdDT Polio (Check specific
+
+### TYPE) ###
+
+###  IPV  OPV  IPV  OPV  IPV  OPV  IPV  OPV  IPV  OPV  IPV  OPV ###
+
+Hib Haemophilus influenza type b Pneumococcal
+
+### CONJUGATE ###
+
+Hepatitis B MMR Measles Mumps. Rubella
+
+### COMMENTS: ###
+
+### VARICELLA ###
+
+(Chickenpox) Meningococcal conjugate (MCV4) RECOMMENDED, BUT NOT REQUIRED Vaccine / Dose Hepatitis A
+
+### HPV ###
+
+### INFLUENZA ###
+
+Other: Specify Immunization Administered/Dates Health care provider (MD, DO, APN, PA, school health professional, health official) verifying above immunization history must sign below.
+
+If adding dates to the above immunization history section, put your initials by date(s) and sign here.
+
+Signature Title Date Signature Title Date
+
+### ALTERNATIVE PROOF OF IMMUNITY ###
+
+1. Clinical diagnosis (measles, mumps, hepatitis B) is allowed when verified by physician and supported with lab confirmation. Attach
+
+copy of lab result.
+
+*MEASLES (Rubeola) MO DA YR **MUMPS MO DA YR HEPATITIS B MO DA YR VARICELLA MO DA YR
+
+2. History of varicella (chickenpox) disease is acceptable if verified by health care provider, school health professional or health official.
+
+Person signing below verifies that the parent/guardian’s description of varicella disease history is indicative of past infection and is accepting such history as documentation of disease.
+
+### DATE OF ###
+
+Disease Signature Title
+
+3. Laboratory Evidence of Immunity (check one) Measles* Mumps** Rubella Varicella Attach copy of lab result.
+
+*All measles cases diagnosed on or after July 1, 2002, must be confirmed by laboratory evidence.
+
+**All mumps cases diagnosed on or after July 1, 2013, must be confirmed by laboratory evidence.
+
+Completion of Alternatives 1 or 3 MUST be accompanied by Labs & Physician Signature: __________________________________________ Physician Statements of Immunity MUST be submitted to IDPH for review.
+
+[PAGE 2]
+
+### STUDENT’S NAME ###
+
+Birth Date Sex School Grade Level/ ID
+
+### # LAST FIRST MIDDLE MONTH/DAY/ YEAR ###
+
+### HEALTH HISTORY TO BE COMPLETED AND SIGNED BY PARENT/GUARDIAN AND VERIFIED BY HEALTH CARE PROVIDER ###
+
+### ALLERGIES ###
+
+(Food, drug, insect, other)
+
+### YES ###
+
+No
+
+List: MEDICATION (Prescribed or taken on a regular basis.)
+
+### YES ###
+
+No
+
+### LIST: ###
+
+Diagnosis of asthma?
+
+Child wakes during night coughing?
+
+### YES NO ###
+
+### YES NO ###
+
+Loss of function of one of paired organs? (eye/ear/kidney/testicle)
+
+### YES NO ###
+
+Birth defects? Yes No Hospitalizations?
+
+When? What for?
+
+### YES NO ###
+
+Developmental delay? Yes No Blood disorders? Hemophilia, Sickle Cell, Other? Explain.
+
+Yes No Surgery? (List all.) When? What for?
+
+### YES NO ###
+
+Diabetes? Yes No Serious injury or illness? Yes No Head injury/Concussion/Passed out? Yes No TB skin test positive (past/present)? Yes* No *If yes, refer to local health department.
+
+Seizures? What are they like? Yes No TB disease (past or present)? Yes* No Heart problem/Shortness of breath? Yes No Tobacco use (type, frequency)? Yes No Heart murmur/High blood pressure? Yes No Alcohol/Drug use? Yes No Dizziness or chest pain with exercise?
+
+Yes No Family history of sudden death
+
+### BEFORE AGE 50? (CAUSE?) ###
+
+### YES NO ###
+
+Eye/Vision problems? _____ Glasses  Contacts  Last exam by eye doctor ______ Other concerns? (crossed eye, drooping lids, squinting, difficulty reading) Dental  Braces  Bridge  Plate Other Ear/Hearing problems? Yes No Information may be shared with appropriate personnel for health and educational purposes.
+
+### PARENT/GUARDIAN ###
+
+Signature Date Bone/Joint problem/injury/scoliosis? Yes No PHYSICAL EXAMINATION REQUIREMENTS Entire section below to be completed by MD/DO/APN/PA HEAD CIRCUMFERENCE if < 2-3 years old HEIGHT WEIGHT BMI B/P DIABETES SCREENING (NOT REQUIRED FOR DAY CARE) BMI85% age/sex Yes No And any two of the following: Family History Yes  No  Ethnic Minority Yes No  Signs of Insulin Resistance (hypertension, dyslipidemia, polycystic ovarian syndrome, acanthosis nigricans) Yes No  At Risk Yes  No  LEAD RISK QUESTIONNAIRE: Required for children age 6 months through 6 years enrolled in licensed or public school operated day care, preschool, nursery school and/or kindergarten. (Blood test required if resides in Chicago or high risk zip code.) Questionnaire Administered? Yes  No  Blood Test Indicated? Yes  No  Blood Test Date Result TB SKIN OR BLOOD TEST Recommended only for children in high-risk groups including children immunosuppressed due to HIV infection or other conditions, frequent travel to or born in high prevalence countries or those exposed to adults in high-risk categories. See CDC guidelines. http://www.cdc.gov/tb/publications/factsheets/testing/TB_testing.htm.
+
+No test needed  Test performed  Skin Test: Date Read / / Result: Positive  Negative  mm__________ Blood Test: Date Reported / / Result: Positive  Negative  Value LAB TESTS (Recommended) Date Results Date Results Hemoglobin or Hematocrit Sickle Cell (when indicated) Urinalysis Developmental Screening Tool SYSTEM REVIEW Normal Comments/Follow-up/Needs Normal Comments/Follow-up/Needs
+
+### SKIN ENDOCRINE ###
+
+Ears Screening Result: Gastrointestinal Eyes Screening Result: Genito-Urinary LMP
+
+### NOSE NEUROLOGICAL ###
+
+### THROAT MUSCULOSKELETAL ###
+
+Mouth/Dental Spinal Exam Cardiovascular/HTN Nutritional status Respiratory  Diagnosis of Asthma Mental Health Currently Prescribed Asthma Medication:
+
+ Quick-relief medication (e.g. Short Acting Beta Agonist)  Controller medication (e.g. inhaled corticosteroid)
+
+### OTHER ###
+
+NEEDS/MODIFICATIONS required in the school setting DIETARY Needs/Restrictions SPECIAL INSTRUCTIONS/DEVICES e.g. safety glasses, glass eye, chest protector for arrhythmia, pacemaker, prosthetic device, dental bridge, false teeth, athletic support/cup MENTAL HEALTH/OTHER Is there anything else the school should know about this student?
+
+If you would like to discuss this student’s health with school or school health personnel, check title:  Nurse  Teacher  Counselor  Principal EMERGENCY ACTION needed while at school due to child’s health condition (e.g., seizures, asthma, insect sting, food, peanut allergy, bleeding problem, diabetes, heart problem)?
+
+Yes  No  If yes, please describe.
+
+On the basis of the examination on this day, I approve this child’s participation in (If No or Modified please attach explanation.) PHYSICAL EDUCATION Yes  No  Modified  INTERSCHOLASTIC SPORTS Yes  No  Modified  Print Name (MD,DO, APN, PA) Signature Date
+
+Address Phone

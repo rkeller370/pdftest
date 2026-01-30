@@ -1,0 +1,67 @@
+# MANIFEST
+SOURCE: Science Department Course Map
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:46.701Z
+
+==================================================
+
+[PAGE 1]
+Engineering Electives (Offered jointly through the Science and CTE departments. All provide Dual College Credit. ) D207 Science Course Sequence Options* *This sequence map shows new courses that students can add to their choices each year. Students should consult the course descriptions, prerequisites, and career pathways to identify their own plan of study.
+
+Biology 102 Biology Acc.
+
+Earth and Environmental
+
+### STUDIES ###
+
+Geology Acc. (dual
+
+### CREDIT) ###
+
+AP Enviro. Science Physics 102 AP Physics 1 PLTW - Introduction to Engineering Acc.
+
+PLTW - Principles of Engineering Acc.
+
+Biotechnical Engineering Acc.
+
+PLTW - Civil Engineering and Architecture Acc.
+
+PLTW - Computer Integrated Manufacturing Acc.
+
+Engineering and Design Acc.
+
+Grade 9 Grade 10 Grade 11 Grade 12 Chemistry Acc.
+
+Chemistry 102 Chemistry Acc.
+
+Biology 102 Biology Acc.
+
+AP Biology AP Biology Chemistry 102 Chemistry Acc.
+
+AP Chemistry Physics 102 AP Physics 1 Earth and Environmental
+
+### STUDIES ###
+
+Geology Acc. (dual
+
+### CREDIT) ###
+
+AP Enviro. Science 1-Semester Courses Anatomy and Physiology Acc. (dual
+
+### CREDIT) ###
+
+Crime Science Space Science AP Biology Chemistry 102 Chemistry Acc.
+
+AP Chemistry Earth and Environmental
+
+### STUDIES ###
+
+Geology Acc. (dual
+
+### CREDIT) ###
+
+AP Enviro. Science 1-Semester Courses Anatomy and Physiology Acc. (dual
+
+### CREDIT) ###
+
+Crime Science Space Science Physics 102 AP Physics 1 AP Physics C

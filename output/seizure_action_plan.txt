@@ -1,0 +1,76 @@
+# MANIFEST
+SOURCE: Seizure Action Plan
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:44.766Z
+
+==================================================
+
+[PAGE 1]
+
+### EMERGENCY RESPONSE ###
+
+A “seizure emergency” for this student is defined as: Seizure Emergency Protocol (Check all that apply and clarify below) ❒ Contact school nurse at __________________________ ❒ Call 911 for transport to __________________________ ❒ Notify parent or emergency contact ❒ Administer emergency medications as indicated below
+
+### ❒ NOTIFY DOCTOR ###
+
+❒ Other ________________________________________ Basic Seizure First Aid
+
+• Stay calm & track time
+
+### • KEEP CHILD SAFE ###
+
+### • DO NOT RESTRAIN ###
+
+• Do not put anything in mouth
+
+• Stay with child until fully conscious
+
+• Record seizure in log
+
+For tonic-clonic seizure:
+
+### • PROTECT HEAD ###
+
+• Keep airway open/watch breathing
+
+• Turn child on side
+
+A seizure is generally considered an emergency when:
+
+• Convulsive (tonic-clonic) seizure lasts
+
+longer than 5 minutes
+
+• Student has repeated seizures without
+
+regaining consciousness
+
+• Student is injured or has diabetes
+
+• Student has a first-time seizure
+
+• Student has breathing difficulties
+
+• Student has a seizure in water
+
+Seizure Action Plan Effective Date Physician Signature ___________________________________________________ Date _________________________________ Parent/Guardian Signature _____________________________________________ Date _________________________________ This student is being treated for a seizure disorder. The information below should assist you if a seizure occurs during school hours.
+
+Student’s Name Date of Birth Parent/Guardian Phone Cell Other Emergency Contact Phone Cell Treating Physician Phone Significant Medical History Special Considerations and Precautions (regarding school activities, sports, trips, etc.) Describe any special considerations or precautions:
+
+Basic First Aid: Care & Comfort Please describe basic first aid procedures:
+
+Does student need to leave the classroom after a seizure? ❒ Yes ❒ No If YES, describe process for returning student to classroom:
+
+Does student have a Vagus Nerve Stimulator? ❒ Yes ❒ No If YES, describe magnet use:
+
+Seizure Type Length Frequency Description Seizure triggers or warning signs: Student’s response after a seizure:
+
+### SEIZURE INFORMATION ###
+
+### DPC772 ###
+
+Treatment Protocol During School Hours (include daily and emergency medications)
+
+### EMERG. DOSAGE & ###
+
+Med. ✓✓✓✓✓ Medication Time of Day Given Common Side Effects & Special Instructions

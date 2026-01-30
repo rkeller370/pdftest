@@ -201,7 +201,7 @@ async function processEntry(entry) {
 
     if (fs.existsSync(outputPath)) {
         console.log(`[SKIP] ${entry.file_name} already exists.`);
-        return fileName;
+        return { fileName, originalPdf: entry.pdf_link };
     }
 
     try {
@@ -239,7 +239,7 @@ async function processEntry(entry) {
 
         fs.writeFileSync(outputPath, manifest);
         console.log(`[DONE] ${entry.file_name} via ${method}`);
-        return fileName;
+        return { fileName, originalPdf: entry.pdf_link };
     } catch (err) {
         console.error(`[ERR] ${entry.file_name}: ${err.message}`);
         return null;
@@ -253,8 +253,8 @@ async function run(items, limit, worker) {
         while (queue.length > 0) {
             const item = queue.shift();
             if (item) {
-                const processedFileName = await worker(item);
-                if (processedFileName) results.push(processedFileName);
+                const result = await worker(item);
+                if (result) results.push(result);
             }
         }
     });
@@ -262,17 +262,15 @@ async function run(items, limit, worker) {
     return results;
 }
 
-// Main Execution logic
 const config = JSON.parse(fs.readFileSync(DATA_JSON, "utf8"));
 
 run(config.pdf_links, CONCURRENCY, processEntry).then((processedFiles) => {
     const GITHUB_BASE = "https://github.com/rkeller370/pdftest/blob/main/output/";
     
-    // Create CSV content
-    let csvContent = "filename,github_url\n";
-    processedFiles.forEach(file => {
-        const fullUrl = `${GITHUB_BASE}${file}`;
-        csvContent += `${file},${fullUrl}\n`;
+    let csvContent = "filename,github_url,original_pdf_url\n";
+    processedFiles.forEach(item => {
+        const fullUrl = `${GITHUB_BASE}${item.fileName}`;
+        csvContent += `${item.fileName},${fullUrl},${item.originalPdf}\n`;
     });
 
     fs.writeFileSync(CSV_OUTPUT, csvContent);

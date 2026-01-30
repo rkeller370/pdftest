@@ -1,0 +1,64 @@
+# MANIFEST
+SOURCE: Dental Exam Form
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:44.706Z
+
+==================================================
+
+[PAGE 1]
+
+### STATE OF ILLINOIS ###
+
+### ILLINOIS DEPARTMENT OF PUBLIC HEALTH ###
+
+### PROOF OF SCHOOL DENTAL EXAMINATION FORM ###
+
+Illinois law (Child Health Examination Code, 77 Ill. Adm. Code 665) states all children in kindergarten and the second, sixth and ninth grades of any public, private or parochial school shall have a dental examination. The examination must have taken place within 18 months prior to May 15 of the school year. A licensed dentist must complete the examination, sign and date this Proof of School Dental Examination Form. If you are unable to get this required examination for your child, fill out a separate Dental Examination Waiver Form.
+
+This important examination will let you know if there are any dental problems that need attention by a dentist. Children need good oral health to speak with confidence, express themselves, be healthy and ready to learn. Poor oral health has been related to lower school performance, poor social relationships, and less success later in life. For this reason, we thank you for making this contribution to the health and well-being of your child.
+
+To be completed by the parent or guardian (please print):
+
+Student’s Name: Last First Middle Birth Date: (Month/Day/Year)
+
+### ADDRESS: STREET CITY ZIP CODE ###
+
+Name of School: ZIP Code Grade Level: Gender:
+
+### □ □ FEMALE MALE ###
+
+Parent or Guardian: Last Name First Name
+
+### STUDENT’S RACE/ETHNICITY: ###
+
+□ White □ Black/African American □ Hispanic/Latino □ Asian
+
+□ Native American □ Native Hawaiian/Pacific Islander □ Multi-racial □ Unknown
+
+□ Other_______________________________
+
+### TO BE COMPLETED BY DENTIST: ###
+
+### DATE OF MOST RECENT EXAMINATION: ###
+
+ Sealant  Fluoride treatment  Restoration of teeth due to caries Oral Health Status (check all that apply)  Yes  No Dental Sealants Present on Permanent Molars  Yes  No Caries Experience / Restoration History — A filling (temporary/permanent) OR a tooth that is missing because it was extracted as a result of caries OR missing permanent 1st molars.
+
+ Yes  No Untreated Caries — At least 1/2 mm of tooth structure loss at the enamel surface. Brown to dark-brown coloration of the walls of the lesion. These criteria apply to pit and fissure cavitated lesions as well as those on smooth tooth surfaces. If retained root, assume that the whole tooth was destroyed by caries. Broken or chipped teeth, plus teeth with temporary fillings, are considered sound unless a cavitated lesion is also present.
+
+ Yes  No Urgent Treatment — abscess, nerve exposure, advanced disease state, signs or symptoms that include pain, infection, or swelling.
+
+Treatment Needs (check all that apply). For Head Start Agencies, please also list appointment date or date of most recent treatment completion date.
+
+ Restorative Care — amalgams, composites, crowns, etc. Appointment Date:
+
+ Preventive Care — sealants, fluoride treatment, prophylaxis Appointment Date:
+
+ Pediatric Dentist Referral Recommended Treatment Completion Date:
+
+### ADDITIONAL COMMENTS: ###
+
+Signature of Dentist License #: Date:
+
+Illinois Department of Public Health, Division of Oral Health 217-785-4899 • TTY (hearing impaired use only) 800-547-0466 • www.dph.illinois.gov IOCI 0600-10 Printed by Authority of the State of Illinois (Check all services provided at this examination date)
+
+ Dental Cleaning

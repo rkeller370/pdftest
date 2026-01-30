@@ -1,0 +1,36 @@
+# MANIFEST
+SOURCE: Dr. Ravi Salgia - Wall of Honor Bio
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:45.736Z
+
+==================================================
+
+[PAGE 1]
+
+### MAINE SOUTH DISTINGUISHED ALUMNI ###
+
+### INDUCTED SEPTEMBER 21, 2017 ###
+
+### RAVI SALGIA ###
+
+### CLASS OF 1977 ###
+
+###  DIRECTOR OF CHEST ONCOLOGY AND ###
+
+### THORACIC ONCOLOGY RESEARCH AT ###
+
+### UNIVERSITY OF CHICAGO ###
+
+###  CHAIR OF MEDICAL ONCOLOGY FOR CITY OF ###
+
+### HOPE COMPREHENSIVE CANCER CENTER ###
+
+Revving up the body’s own immune system to fight cancer has been the life’s work of Ravi Salgia. Ravi’s research in the lab and at the patient’s bedside has narrowed the gap between understanding how tumors work and what will stop them in their tracks.
+
+In over 25 years of practice, he has been able to successfully sequence the DNA of lung cancer cells identifying exactly where abnormalities occur. Drugs are then developed which trigger the patient’s immune system, targeting the cancerous cells. This precision medicine, therapy tailored to each individual patient’s needs, allows greater effect with minimal negative side effects. “Previously, if somebody had advanced stage lung cancer, we wouldn’t have any other therapies available beyond first-line treatments,” Ravi has said. “Now, we can offer a fifth, sixth, or seventh-line therapy, which is phenomenal.” Realizing that the attributes of precision medicine provide the potential to address each case uniquely, Ravi directed the engineering of a web application which merges clinical observations with research data. Doctors and their patients can now efficiently search available therapies and current clinical trials, and thus, fine tune every patient’s individualized treatment.
+
+Ravi has always endorsed a multidisciplinary approach to pursuing the cure for long cancer.
+
+He shares his findings—authoring hundreds of articles, presenting at national and international conferences, and collaborating with colleagues in all areas of medicine.
+
+“Lung cancer is still a very difficult disease for many of our patients, but we are coming up with innovative ways of treating it,” Ravi stated. “I see the light at the end of the tunnel.”

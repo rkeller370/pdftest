@@ -1,0 +1,52 @@
+# MANIFEST
+SOURCE: Authorization and Permission for Medication
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:46.707Z
+
+==================================================
+
+[PAGE 1]
+
+### MAINE TOWNSHIP HIGH SCHOOL ###
+
+Authorization and Permission for Administration of Medication (All items must be completed in detail by the physician)
+
+### ID# ###
+
+Student's Name Date of Birth Name of Medication Date of Prescription Diagnosis Discontinuation Date Dosage: Route: Frequency and Time
+
+### OF ADMINISTRATION ###
+
+Intended effect of medication:
+
+### POSSIBLE SIDE EFFECTS: ###
+
+Other medications the student is receiving:
+
+Time interval for re-evaluation:
+
+Physician Authorization for Self-Administration of Asthma Medication or Epinephrine Auto-Injector (please circle) The student is capable and responsible for carrying and self-administering above named asthma medication. Yes No The student is capable and responsible for carrying and self-administering above named epi auto-injector. Yes No
+
+### LICENSED PRESCRIBER: ###
+
+Prescriber Name Prescriber Phone/Emergency #
+
+### (PRINTED) ###
+
+(Signature and Stamp) ( Date of Signature and Order) Parental/Guardian Authorization:
+
+I hereby authorize Maine Township High School and its employees to administer to my child, lawfully prescribed medication in the manner decribed above. I further acknowledge and agree to waive any claims I might have against District 207 and its employees arising out of the administration of said medication. In addition, I agree to hold harmless and indemnify District 207 and its employees from and against all claims, damages, causes of action or injuries incurred or resulting from the administration of said medication.
+
+### PARENT/GUARDIAN NAME ###
+
+(Please print) (Signature) (Date)
+
+### EMERGENCY PHONE # ###
+
+Parent/Guardian Agreement Authorizing Self-Administration of Asthma medication or Epinephrine Auto-Injector I agree with the doctor statement above to authorize my child to carry and self-administer the above named medication.
+
+I therefore agree to indemnify and hold harmless the School District and its employees from any claim, liability, loss or expense, including reasonable attorneys' fees, suffered by any of the foregoing indemnities and arising out of a claim related directly or indirectly to my son/daughter's self administration of the above reference medication of and brought by me, any other parent/guardian of my student or another student, or by or on behalf of my student or another student.
+
+### PARENT/GUARDIAN NAME ###
+
+(Please print) (Signature) (Date)

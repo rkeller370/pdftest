@@ -1,0 +1,239 @@
+# MANIFEST
+SOURCE: Maine_West_PACE
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:46.282Z
+
+==================================================
+
+[PAGE 1]
+
+### CENTRAL RD. ###
+
+### METRA UP-NW LINE ###
+
+### CUMBERLAND ###
+
+### STATION ###
+
+### DES PLAINES ###
+
+### STATION ###
+
+### KENSINGTON RD. ###
+
+### GOLF RD. ###
+
+### OAKTON ST. ###
+
+### DEMPSTER RD. ###
+
+### TOUHY AVE. ###
+
+### HOWARD AVE. ###
+
+### PRATT ST. ###
+
+### DES PLAINES RIVER RD. ###
+
+### DES PLAINES ###
+
+### RIVER RD. ###
+
+### WOLF RD. ###
+
+### POTTER RD. ###
+
+### MAPLE ST. ###
+
+### SCOTT ST. ###
+
+### SUNSET DR. ###
+
+### WHITE ST. ###
+
+### WOLF RD. ###
+
+### LEE ST. ###
+
+### NORTHWEST HWY. ###
+
+### GRACELAND AVE. ###
+
+230 221
+
+### DES PLAINES ###
+
+### RIVER RD. ###
+
+### MANNHEIM RD. ###
+
+### DEVON AVE. ###
+
+### STILLWELL AVE. ###
+
+ADDITIONAL INFORMATION AND APPROXIMATE ROUTE TIMES ARE LOCATED BELOW.
+
+[PAGE 2]
+
+### MAINE WEST BUS ROUTE INFORMATION ###
+
+Students should stand at a PACE bus sign along the route in order to be picked up. Buses only pick up at bus signs with the PACE logo and route number. There are bus stop locations all along these routes.
+
+While there may be times when the school route is extremely late due to mechanical failure or other reasons, those routes always run.
+
+These are approximate times not actual times - students should arrive at least five minutes early at the bus stop.
+
+If the bus does not show up within 15 minutes of the posted times, please contact the school district at info@maine207.org with the date, time, location of the stop so that PACE can be notified.
+
+Route 221 to Maine West (purple route on map):
+
+Buses are marked “221 Wolf Piper” Please note this bus does not pull into the school parking lot River Road/Devon Touhy/Mannheim Wolf/Oakton 7:05 a.m. 7:13 a.m. 7:21 a.m.
+
+7:22 a.m. 7:30 a.m. 7:38 a.m.
+
+7:35 a.m. 7:43 a.m. 7:51 a.m.
+
+7:50 a.m. 7:58 a.m. 8:06 a.m.
+
+Route 221 from Maine West (purple route on map):
+
+Buses are marked “221 Rosemont CTA” Please note this bus does not pull into the school parking lot Wolf/Oakton Touhy/Mannheim River Road/Devon 3:34 p.m. 3:44 p.m. 3:53 p.m.
+
+3:58 p.m. 4:08 p.m. 4:17 p.m.
+
+4:24 p.m. 4:34 p.m. 4:43 p.m.
+
+continued
+
+[PAGE 3]
+Route 221 to Maine West (pink route on map):
+
+Buses are marked “221 Rosemont CTA” Wolf/Kensington Metra UP-NW Line
+
+### CUMBERLAND STATION ###
+
+Wolf/Oakton Maine West 6:59 a.m. 7:06 a.m. 7:15 a.m. Does not pull into
+
+### MAINE WEST ###
+
+7:20 a.m. 7:34 a.m. 7:41 a.m. 7:42 a.m.
+
+7:48 a.m. 8:02 a.m. 8:09 a.m. 8:10 a.m.
+
+Route 221 from Maine West (pink route on map):
+
+Buses are marked “221 Wolf Road” Leaves Maine West Wolf/Oakton Metra UP-NW Line
+
+### CUMBERLAND STATION ###
+
+### WOLF/KENSINGTON ###
+
+3:15 p.m. 3:17 p.m. 3:24 p.m. 3:31 p.m.
+
+3:22 p.m. 3:24 p.m. 3:33 p.m. 3:41 p.m.
+
+This route does not start at the school 3:50 p.m. 3:59 p.m. 4:06 p.m.
+
+This route does not start at the school 4:22 p.m. 4:33 p.m. 4:40 p.m.
+
+continued
+
+[PAGE 4]
+Route 230 to Maine West (green route on map):
+
+Buses are marked “230 Maine West” Stillwell/Devon Maple/Touhy White/Oakton Oakton/Lee Maine West 7:29 a.m. 7:34 a.m. 7:40 a.m. 7:42 a.m. 7:45 a.m.
+
+7:59 a.m. 8:04 a.m. 8:10 a.m. 8:12 a.m. 8:15 a.m.
+
+Route 230 from Maine West (green route on map):
+
+Buses are marked “230 Devon Only” Leaves Maine West Oakton/Lee White/Oakton Maple/Touhy Stillwell/Devon 3:15 p.m. 3:18 p.m. 3:20 p.m. 3:26 p.m. 3:31 p.m.
+
+Route 250 to Maine West (blue route on map):
+
+Buses are marked “250 Maine West” Please note this route travels south on Graceland to school Ellinwood/Pearson (Downtown
+
+### DES PLAINES) ###
+
+### OAKTON/LEE MAINE WEST ###
+
+7:48 a.m. 7:55 a.m. 7:58 a.m.
+
+8:08 a.m. 8:15 a.m. 8:18 a.m.
+
+Route 250 from Maine West (blue route on map):
+
+Buses are marked “250 Des Plaines” Please note this route travels north on Lee after school Leaves Maine West Oakton/Lee Metra UP/NW Line Des Plaines
+
+### STATION ###
+
+3:15 p.m. 3:18 p.m. 3:25 a.m.
+
+continued
+
+[PAGE 5]
+Route 208 to Maine West (orange route on map):
+
+Buses are marked “208 Westbound Schaumburg” This route requires a transfer to Route 221 at Cumberland Station
+
+### OAKTON COMMUNITY ###
+
+### COLLEGE ###
+
+Golf/River Road Metra UP/NW Line Des
+
+### PLAINES STATION ###
+
+### METRA UP-NW LINE ###
+
+### CUMBERLAND STATION ###
+
+X X 7:12 a.m. 7:17 a.m.
+
+7:32 a.m. 7:33 a.m. 7:44 a.m. 7:49 a.m.
+
+Exit bus and then take Route 221 Buses are marked “221 Rosemont CTA”
+
+### METRA UP-NW LINE ###
+
+### CUMBERLAND STATION ###
+
+Wolf/Oakton Maine West 7:34 a.m. 7:41 a.m. 7:42 a.m.
+
+8:02 a.m. 8:09 a.m. 8:10 a.m.
+
+Route 221 from Maine West (orange route on map):
+
+Buses are marked “221 Wolf Road” Leaves Maine West Wolf/Oakton Metra UP-NW Line Cumberland Station 3:15 p.m. X 3:24 p.m.
+
+3:22 p.m. 3:24 p.m. 3:33 p.m.
+
+This route does not start at the
+
+### SCHOOL ###
+
+3:50 p.m. 3:59 p.m.
+
+This route does not start at the
+
+### SCHOOL ###
+
+4:22 p.m. 4:33 p.m Exit bus and then take Route 208 Buses are marked “208 Eastbound Evanston”
+
+### METRA UP-NW LINE ###
+
+### CUMBERLAND STATION ###
+
+Metra UP/NW Line Des
+
+### PLAINES STATION ###
+
+Golf/River Road Oakton Community
+
+### COLLEGE ###
+
+3:37 p.m. 3:44 p.m. 3:55 p.m. 3:56 p.m.
+
+4:09 p.m. 4:16 p.m. 4:27 p.m. 4:28 p.m.
+
+4:39 p.m. 4:46 p.m. 4:57 p.m. 4:58 p.m.

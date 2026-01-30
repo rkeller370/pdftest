@@ -223,6 +223,321 @@
       "main_tab": "Budgets/Financial Reports/Contracts",
       "subtab": "Business Office",
       "manual_ocr": false
-    }
+    },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/2018/06/2025_26calendar.pdf",
+        "file_name": "2025-26 Printable School Calendar for Parents",
+        "main_tab": "About",
+        "subtab": "Calendar",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://east.maine207.org/wp-content/uploads/sites/2/2025/09/Corrected-MAINE-EAST-Rings-2028-1.pdf",
+        "file_name": "Corrected MAINE EAST Rings 2028 (1)",
+        "main_tab": "Main Tab",
+        "subtab": "Subtab Webpage Link",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://east.maine207.org/wp-content/uploads/sites/2/2018/03/Partners-in-Success-Maine-207-Internship-Program.pdf",
+        "file_name": "Full Brochure",
+        "main_tab": "Departments",
+        "subtab": "Career & Technical",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://east.maine207.org/wp-content/uploads/sites/2/2018/03/Maine-East-United-States-Constitution-Test-Review.pdf",
+        "file_name": "US Constitution Test Review",
+        "main_tab": "Departments",
+        "subtab": "Social Science",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://east.maine207.org/wp-content/uploads/sites/2/2020/01/Dental-2020-English.pdf",
+        "file_name": "Dental Exam Form",
+        "main_tab": "Departments",
+        "subtab": "Student & Family Services/Health Office",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://east.maine207.org/wp-content/uploads/sites/2/2018/03/religious_exemption_form_for_parents.pdf",
+        "file_name": "Religious Exemption Form",
+        "main_tab": "Departments",
+        "subtab": "Student & Family Services/Health Office",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://east.maine207.org/wp-content/uploads/sites/2/2018/03/asthma_action_plan.pdf",
+        "file_name": "Asthma Action Plan",
+        "main_tab": "Departments",
+        "subtab": "Student & Family Services/Health Office",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://east.maine207.org/wp-content/uploads/sites/2/2018/03/food_allergy_emer_action_plan.pdf",
+        "file_name": "Food Allergy Emergency Action Plan",
+        "main_tab": "Departments",
+        "subtab": "Student & Family Services/Health Office",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://east.maine207.org/wp-content/uploads/sites/2/2018/03/seizure-action-plan.pdf",
+        "file_name": "Seizure Action Plan",
+        "main_tab": "Departments",
+        "subtab": "Student & Family Services/Health Office",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/2024/05/Voluntary-Online-Form.pdf",
+        "file_name": "Student Accident Insurance",
+        "main_tab": "Subtab",
+        "subtab": "Webpage Link",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/2019/07/Discipline_Procedures_2019_2020_Final.docx.pdf",
+        "file_name": "Behavior Support and Code of Conduct",
+        "main_tab": "Subtab",
+        "subtab": "Webpage Link",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/11/Callahan-plaque-2.pdf",
+        "file_name": "Patricia Callahan - Wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/11/hillary-plaque.pdf",
+        "file_name": "Hillary Rodham Clinton - Wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/11/Nathan-Hultman-plaque.pdf",
+        "file_name": "Nathan Hultman - Wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/11/FilipPlaque.pdf",
+        "file_name": "Mark Filip - Wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/11/OzziePlaque.pdf",
+        "file_name": "Ray Ozzie - Wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/11/Susan-Lindquist-plaque-black-top.pdf",
+        "file_name": "Dr. Susan Lindquist - Wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/11/Ravi-Salgia-plaque-w-editted-pic.pdf",
+        "file_name": "Dr. Ravi Salgia - Wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2021/09/Dante-Amidei-plaque-final.pdf",
+        "file_name": "Dante Amidei - wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2021/09/George-Brandt-plaque-final.pdf",
+        "file_name": "George Brandt - Wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2021/09/Brian-Humm-plaque-final.pdf",
+        "file_name": "Brian Humm - Wall of Honor Bio",
+        "main_tab": "Wall of Honor",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://west.maine207.org/wp-content/uploads/sites/4/2025/09/MaineWest-Profile-2025-26-Proof2.pdf",
+        "file_name": "View or download the pdf version of the 2025-26 Maine West Profile",
+        "main_tab": "About",
+        "subtab": "School Profile",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/2018/06/School-Resource-Officer-_-Uniform-Grievance-Procedure.pdf",
+        "file_name": "School-Resource-Officer-_-Uniform-Grievance-Procedure",
+        "main_tab": "About",
+        "subtab": "Policies and Procedures",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Student-and-Family-Privacy-Rights.pdf",
+        "file_name": "Maine-207-Student-and-Family-Privacy-Rights",
+        "main_tab": "About",
+        "subtab": "Policies and Procedures",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Parent-Right-to-Know-Educator-Qualifications.pdf",
+        "file_name": "Maine-207-Parent-Right-to-Know-Educator-Qualifications",
+        "main_tab": "About",
+        "subtab": "Policies and Procedures",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/2018/06/Maine-207-Temporary-Living-Situations.pdf",
+        "file_name": "Maine-207-Temporary-Living-Situations",
+        "main_tab": "About",
+        "subtab": "Policies and Procedures",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Sexual-Harassment-Policy.pdf",
+        "file_name": "Maine-207-Sexual-Harassment-Policy",
+        "main_tab": "About",
+        "subtab": "Policies and Procedures",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/sites/3/2018/05/Maine-207-Teen-Dating-Violence-Prohibited-Policy.pdf",
+        "file_name": "Maine-207-Teen-Dating-Violence-Prohibited-Policy",
+        "main_tab": "About",
+        "subtab": "Policies and Procedures",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/2019/07/Pass-Fail-FormProcedures.pdf",
+        "file_name": "Pass-Fail-FormProcedures",
+        "main_tab": "About",
+        "subtab": "Policies and Procedures",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/2025/07/2025-26-Student-Accident-Voluntary-Online-Form-English.pdf",
+        "file_name": "2025-26-Student-Accident-Voluntary-Online-Form-English",
+        "main_tab": "About",
+        "subtab": "Policies and Procedures",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/2025/08/Maine_West_PACE.pdf",
+        "file_name": "Maine_West_PACE",
+        "main_tab": "About",
+        "subtab": "Transportation",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2024/10/Health-and-Wellness-Courses-Sheet1.pdf",
+        "file_name": "Health & Wellness Courses Flow Chart",
+        "main_tab": "Departments",
+        "subtab": "Health & Wellness",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2024/10/Science-Department-Course-Map-2025-2026.pdf",
+        "file_name": "Science Department Course Map",
+        "main_tab": "Departments",
+        "subtab": "Science",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2023/08/MusicBoosterMembershipLetterForm2023-24-Google-Docs-11.48.25-AM.pdf",
+        "file_name": "MSHS Stage & Screen Booster Membership Form",
+        "main_tab": "Departments",
+        "subtab": "Fine Arts",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2022/07/MS-SDB-Boosters-QR-Code-Flyer.pdf",
+        "file_name": "MSHS Stage & Screen Booster QR Code Flyer for Payment (Including electronic info)",
+        "main_tab": "Departments",
+        "subtab": "Fine Arts",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/08/Asthma-Health-Care-Plan-Final-2.pdf",
+        "file_name": "Asthma Action Plan",
+        "main_tab": "Health Office",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/08/Authorization-and-Permission-for-Medication.pdf",
+        "file_name": "Authorization and Permission for Medication",
+        "main_tab": "Health Office",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/07/Start-of-School-Child-Health-Exam-final-11_15.pdf",
+        "file_name": "Certificate of Child Health Examination",
+        "main_tab": "Health Office",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/08/Diabetes-Medical-Managment-Plan-1.pdf",
+        "file_name": "Diabetes Medicatioal Management Plan",
+        "main_tab": "Health Office",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/08/Final-Food-Allergy-Health-Care-Emergency-Plan.pdf",
+        "file_name": "Food Allergy Emergency Action Plan",
+        "main_tab": "Health Office",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/08/Illinois-Certificate-of-Religious-Exemption-1.pdf",
+        "file_name": "Religious Exemption Form",
+        "main_tab": "Health Office",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2018/08/Seizure-Health-Care-Plan.pdf",
+        "file_name": "Seizure Health Care Plan",
+        "main_tab": "Health Office",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2020/01/Dental-2020-English.pdf",
+        "file_name": "Proof of Dental Exam Form",
+        "main_tab": "Health Office",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://maine207.org/wp-content/uploads/2021/06/MV-Information-Updated.pdf",
+        "file_name": "Who are Homeless Children & Youth?",
+        "main_tab": "Homeless Resources",
+        "subtab": "",
+        "manual_ocr": false
+      },
+      {
+        "pdf_link": "https://south.maine207.org/wp-content/uploads/sites/3/2025/10/Maine-South-Parent-Guide-2025-16pg-Proof-6.pdf",
+        "file_name": "Parent Guide for the Class of 2030",
+        "main_tab": "Class of 2026-2030",
+        "subtab": "Class of 2030 - Parent Guide",
+        "manual_ocr": false
+      }
   ]
 }

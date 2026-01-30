@@ -1,0 +1,40 @@
+# MANIFEST
+SOURCE: Ray Ozzie - Wall of Honor Bio
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:45.222Z
+
+==================================================
+
+[PAGE 1]
+
+### MAINE SOUTH DISTINGUISHED ALUMNI ###
+
+### RAY OZZIE ###
+
+### CLASS OF 1973 ###
+
+### • CHIEF SOFTWARE ARCHITECT OF MICROSOFT ###
+
+### • CREATOR OF LOTUS NOTES ###
+
+### • DIRECTOR OF HEWLETT-PACKARD ###
+
+### • FOUNDER OF TALKO ###
+
+### • CO-FOUNDER OF SAFECAST ###
+
+Ray Ozzie began his high school education in 1969, the first time Maine students were afforded access to
+
+### SOMETHING QUITE NEW AND EXCITING: THE COMPUTER. RAY ###
+
+jumped at the opportunity to program this new GE-400 mainframe, and thus his career’s journey toward the fusion between technological devices and the services they provide began.
+
+With his bachelor’s degree in computer science in hand, Ray relocated to Boston in 1979 and worked on early mini- and micro-computer operating systems. He moved on to shape the very first electronic spreadsheet, VisiCalc, and later led the development of the groundbreaking product for email and collaboration, Lotus Notes, now used by hundreds of millions worldwide.
+
+By the turn into the new millennium, Ray’s vision had evolved from developing tools for making swift calculations to creating integrated applications that facilitate users’ ability to collaborate, think creatively, gather information, and develop solutions. By 2006, he had joined Bill Gates at Microsoft who then chose Ray to succeed him as the company’s Chief Software Architect. Five years later Ray stepped down to found Talko, a company that delivers new solutions for mobile communications and collaboration. Currently, he is also serving as a director of Hewlett-Packard.
+
+Ray’s lifelong belief in the positive potential of technology emerged when the 2011 earthquake shook Japan. Recognizing the nuclear threat at the Fukushima Power Plant, he co-founded Safecast, a collaborative that empowers people by unifying freely available data gathered from networks of sensors mapping radiation levels. Although initially Japan was the focus, a robust monitoring of the global environment has become Safecast’s ongoing goal.
+
+Refining the ways we share information has defined Ray Ozzie’s life. He consistently asks the question, “What if?” and answers his inquiry with, “Why not?”
+
+Inducted September 30, 2015

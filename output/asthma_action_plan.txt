@@ -1,0 +1,83 @@
+# MANIFEST
+SOURCE: Asthma Action Plan
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:44.585Z
+
+==================================================
+
+[PAGE 1]
+Illinois Department of Public Health Asthma Action Plan Patient Name__________________________________ Weight ______ Date of Birth ______________ Peak Flow ______________ Primary Care Provider Name _____________________________________ Phone __________________ Primary Care Clinic Name ________________________________________________________________ Symptom Triggers _______________________________________________________________________
+
+### ASTHMA SEVERITY ###
+
+### GREEN ZONE ###
+
+### “GO! ALL CLEAR!” ###
+
+### PEAK FLOW RANGE ###
+
+(80% - 100% of personal best)
+
+• Breathing is easy
+
+### • CAN PLAY, WORK ###
+
+and sleep without
+
+### ASTHMA SYMPTOMS ###
+
+### YELLOW ZONE ###
+
+### “CAUTION...” ###
+
+### PEAK FLOW RANGE ###
+
+(50% - 80% of personal best)
+
+• Breathing is easy
+
+• Cough or wheeze
+
+### • CHEST IS TIGHT ###
+
+### RED ZONE ###
+
+"STOP! Medical Alert!"
+
+### PEAK FLOW RANGE ###
+
+(Below 50% of personal best)
+
+• Medicine is not helping
+
+• Nose opens wide to
+
+### BREATHE ###
+
+• Breathing is hard and fast
+
+• Trouble Walking
+
+• Trouble Talking
+
+### • RIBS SHOW ###
+
+The GREEN ZONE means take the following medicine(s) every day.
+
+Controller Medicine(s) Dose ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ Spacer Used ______________________________________________________________________________ Take the following medicine if needed 10-20 minutes before sports, exercise or any other strenuous activity.
+
+___________________________________________________________________________________________ The YELLOW ZONE means keep taking your GREEN ZONE controller medicine(s) every day and add the following medicine(s) to help keep the asthma symptoms from getting worse.
+
+Reliever Medicine(s) Dose ___________________________________________________________________________________________ ___________________________________________________________________________________________ If beginning cold symptoms, call your doctor before starting oral steroids.
+
+___________________________________________________________________________________________ The RED ZONE means start taking your RED ZONE medicine(s) and call your doctor NOW! Take these medicines until you talk with your doctor. If your symptoms do not get better and you can't reach your doctor, go to a hospital emergency department or call 911 immediately.
+
+Reliever Medicine(s) Dose ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ Use Quick Reliever (two - four puffs) every 20 minutes for up to one hour or use nebulizer once. If your symptoms are not better or you do not return to the GREEN ZONE after one hour, follow RED ZONE instructions. If you are in the YELLOW ZONE for more than 12-24 hours, call your provider. If your breathing symptoms get worse, call your provider.
+
+For more information on asthma, please visit the National Heart, Lung and Blood Institute at www.nhlbi.nih.gov, the U.S. Centers for Disease Control and Prevention at www.cdc.gov or the U.S. Environmental Protection Agency at www.epa.gov.
+
+If you would like more information on Illinois’ asthma program, please contact the Illinois Department of Public Health at 217-782-3300.
+
+Printed by Authority of the State of Illinois
+
+P.O.355503 1M 11/04

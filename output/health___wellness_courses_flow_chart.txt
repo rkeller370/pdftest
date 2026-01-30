@@ -1,0 +1,23 @@
+# MANIFEST
+SOURCE: Health & Wellness Courses Flow Chart
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:46.527Z
+
+==================================================
+
+[PAGE 1]
+Health and Wellness Courses Grade 9 Grade 10 Grade 11 Grade 12
+
+* Physical
+
+Education Physical Education Adventure Education Adventure Education Health * Junior Leaders:
+
+Application Only
+
+* Senior Leaders:
+
+Must complete Junior Leaders to be eligible Junior/Senior Fitness and Sport Junior/Senior Fitness and Sport Strength, Power and Speed** Female Identifying Students Only Strength, Power and Speed** Female Identifying Students Only Total Body Conditioning Total Body Conditioning Yoga + Fitness Yoga + Fitness
+
+* Full Year Course
+
+*Driver Education - Priority is based on Date of Birth + Grade Level (starting with 12th grade)

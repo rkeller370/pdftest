@@ -1,0 +1,142 @@
+# MANIFEST
+SOURCE: Food Allergy Emergency Action Plan
+METHOD: pdf-parse
+STAMP: 2026-01-30T02:47:44.755Z
+
+==================================================
+
+[PAGE 1]
+
+### ILLINOIS FOOD ALLERGY EMERGENCY ACTION PLAN ###
+
+### AND TREATMENT AUTHORIZATION ###
+
+### NAME: D.O.B: / / ###
+
+### TEACHER: GRADE: ###
+
+### ALLERGY TO: ###
+
+Asthma:  Yes (higher risk for a severe reaction)  No
+
+### ANY SEVERE SYMPTOMS AFTER SUSPECTED ###
+
+### INGESTION: ###
+
+LUNG: Short of breath, wheeze, repetitive cough HEART: Pale, blue, faint, weak pulse, dizzy, confused THROAT: Tight, hoarse, trouble breathing/swallowing MOUTH: Obstructive swelling (tongue)
+
+### SKIN: MANY HIVES OVER BODY ###
+
+Or Combination of symptoms from different body areas:
+
+SKIN: Hives, itchy rashes, swelling
+
+### GUT: VOMITING, CRAMPY PAIN ###
+
+### INJECT EPINEPHRINE ###
+
+### IMMEDIATELY ###
+
+### − CALL 911 ###
+
+− Begin monitoring (see below)
+
+### − ADDITIONAL MEDICATIONS: ###
+
+### − ANTIHISTAMINE ###
+
+− Inhaler (bronchodilator) if asthma *Inhalers/bronchodilators and antihistamines are not to be depended upon to treat a severe reaction (anaphylaxis)  Use Epinephrine.* **When in doubt, use epinephrine. Symptoms can rapidly become more severe.**
+
+### MILD SYMPTOMS ONLY ###
+
+### MOUTH: ITCHY MOUTH ###
+
+Skin: A few hives around mouth/face, mild itch
+
+### GUT: MILD NAUSEA/DISCOMFORT ###
+
+### GIVE ANTIHISTAMINE ###
+
+− Stay with child, alert health care professionals and parent.
+
+IF SYMPTOMS PROGRESS (see above), INJECT EPINEPHRINE  If checked, give epinephrine for ANY symptoms if the allergen was likely eaten.
+
+ If checked, give epinephrine before symptoms if the allergen was definitely eaten.
+
+### MEDICATIONS/DOSES ###
+
+### EPINEPHRINE (BRAND AND DOSE): _________________________________________________________ ###
+
+### ANTIHISTAMINE (BRAND AND DOSE): _________________________________________________________ ###
+
+Other (e.g., inhaler-bronchodilator if asthma): _________________________________________________________ MONITORING: Stay with the child. Tell rescue squad epinephrine was given. A second dose of epinephrine can be given a few minutes or more after the first if symptoms persist or recur. For a severe reaction, consider keeping child lying on back with legs raised. Treat child even if parents cannot be reached.
+
+ Student may self-carry epinephrine  Student may self-administer epinephrine CONTACTS: Call 911 Rescue squad: (_____)_____________________ Parent/Guardian: ___________________________________ Ph: (____)_________________________________________ Name/Relationship: _________________________________ Ph: (____)_________________________________________ Name/Relationship: _________________________________ Ph: (____)_________________________________________ Licensed Healthcare Provider Signature: Phone: _________ Date:__________________________
+
+### (REQUIRED) ###
+
+I hereby authorize the school district staff members to take whatever action in their judgment may be necessary in supplying emergency medical services consistent with this plan, including the administration of medication to my child. I understand that the Local Governmental and Governmental Employees Tort Immunity Act protects staff members from liability arising from actions consistent with this plan. I also hereby authorize the school district staff members to disclose my child's protected health information to chaperones and other non-employee volunteers at the school or at school events and field trips to the extent necessary for the protection, prevention of an allergic reaction, or emergency treatment of my child and for the implementation of this plan.
+
+Parent/Guardian Signature: Date: __________ _
+
+### CHILD’S ###
+
+### PHOTOGRAPH ###
+
+Weight: ______ lbs
+
+[PAGE 2]
+
+### DOCUMENTATION ###
+
+− Gather accurate information about the reaction, including who assisted in the medical intervention and who witnessed the event.
+
+− Save food eaten before the reaction, place in a plastic zipper bag (e.g., Ziploc bag) and freeze for analysis.
+
+− If food was provided by school cafeteria, review food labels with head cook.
+
+### − FOLLOW-UP: ###
+
+− Review facts about the reaction with the student and parents and provide the facts to those who witnessed the reaction or are involved with the student, on a need-to-know basis. Explanations will be age-appropriate.
+
+− Amend the Emergency Action Plan (EAP), Individual Health Care Plan (IHCP) and/or 504 Plan as needed.
+
+− Specify any changes to prevent another reaction.
+
+### TRAINED STAFF MEMBERS ###
+
+### NAME: ###
+
+### NAME: ###
+
+### NAME: ###
+
+### LOCATION OF MEDICATION ###
+
+### STUDENT TO CARRY ###
+
+Health Office/Designated Area for Medication Other: _________________________________ Room:_______________________________ Room:_______________________________ Room:_______________________________
+
+### ADDITIONAL RESOURCES ###
+
+American Academy of Allergy, Asthma and Immunology (AAAAI)
+
+### 414-272-6071 ###
+
+### HTTP://WWW.AAAAI.ORG ###
+
+http://www.aaaai.org/patients/resources/fact_sheets/food_allergy.pdf http://www.aaaai.org/members/allied_health/tool_kit/ppt/ Children’s Memorial Hospital
+
+### 773-KIDS-DOC ###
+
+http://www.childrensmemorial.org Food Allergy Initiative (FAI)
+
+### 212-207-1974 ###
+
+### HTTP://WWW.FAIUSA.ORG ###
+
+Food Allergy and Anaphylaxis Network (FAAN)
+
+### 800-929-4040 ###
+
+http://www.foodallergy.org This document is based on input from medical professionals including Physicians, APNs, RNs and certified school nurses. It is meant to be useful for anyone with any level of training in dealing with a food allergy reaction.
